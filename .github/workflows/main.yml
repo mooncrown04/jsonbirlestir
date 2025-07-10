@@ -1,0 +1,32 @@
+name: Plugin JSON Birleştirici
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Her 4 saatte bir çalışır
+  workflow_dispatch:       # Manuel tetikleme için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu klonla
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları yükle (opsiyonel)
+        run: pip install requests
+
+      - name: JSON'ları birleştir
+        run: python birlestir_plugins.py
+
+      - name: Çıktıyı commitle
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add birlesik_plugins.json
+          git commit -m "🔄 JSON güncellendi ($(date))" || echo "Değişiklik yok"
+          git push
