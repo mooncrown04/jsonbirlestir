@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: JSON'ları birleştir
-        run: python birlestir_plugins.py
+        run: python birlestir_plugins_json.py
 
       - name: Çıktıyı commitle
         run: |
