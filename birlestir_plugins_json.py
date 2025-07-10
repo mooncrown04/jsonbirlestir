@@ -26,6 +26,12 @@ for url in plugin_urls:
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
+for plugin in birlesik_plugins:
+    if "id" not in plugin:
+        if "internalName" in plugin:
+            plugin["id"] = plugin["internalName"]
+        elif "name" in plugin:
+            plugin["id"] = plugin["name"]
 
 # Aynı id'ye sahipleri eleyip sadece sonuncuyu tut
 unique_plugins = {plugin["id"]: plugin for plugin in birlesik_plugins}
