@@ -1,19 +1,18 @@
 import requests
 import json
 from datetime import datetime
-from urllib.parse import urlparse
 
-# 🔗 URL ve kaynak ismi eşleşmeleri
+# Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
 plugin_urls = {
-    ("https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json", "Latte"),
-    ("https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json", "feroxx"),
-    ("https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json", "kekikan"),
-    ("https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json", "nikstream"),
-    # Yeni ekle: "URL": "isim"
+    "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
+    "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
+    "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json": "kekikan",
+    "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json": "nikstream"
 }
 
 birlesik_plugins = []
-bugun = datetime.now().strftime("%d.%m.%Y")
+
+bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
 for url, kaynak_adi in plugin_urls.items():
     try:
@@ -27,30 +26,34 @@ for url, kaynak_adi in plugin_urls.items():
             continue
 
         for plugin in data:
-            if not isinstance(plugin, dict) or "id" not in plugin:
-                print(f"⚠️ Geçersiz plugin formatı atlandı: {plugin}")
-                continue
+            # Tag'lara [kaynak] ekle
+            kaynak_tag = f"[{kaynak_adi}]"
 
-            # 🔁 Kaynak etiketini internalName ve name'e ekle
-            etiket = f"[{kaynak_adi}]"
-            for alan in ("internalName", "name"):
-                if alan in plugin:
-                    plugin[alan] = f"{plugin[alan]}{etiket}" if etiket not in plugin[alan] else plugin[alan]
+            # name ve internalName'e kaynak etiketi eklenmiş mi, kontrol et
+            for field in ["name", "internalName"]:
+                if field in plugin and kaynak_tag not in plugin[field]:
+                    plugin[field] = f"{plugin[field]}{kaynak_tag}"
+                elif field not in plugin:
+                    plugin[field] = kaynak_tag
 
-            # 📆 Description'a tarih ekle
-            eski_desc = plugin.get("description", "").strip()
-            plugin["description"] = f"[{bugun}] {eski_desc}".strip()
+            # description'a tarih bilgisi ekle
+            plugin["description"] = f"[{bugun_tarih}] {plugin.get('description', '').strip()}"
 
             birlesik_plugins.append(plugin)
 
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
 
-# 🔄 Aynı ID'ye sahiplerden sadece sonuncuyu al
-unique_plugins = {plugin["id"]: plugin for plugin in birlesik_plugins}
+# Aynı id'ye sahipleri eleyip sadece sonuncuyu tut
+unique_plugins = {}
+for plugin in birlesik_plugins:
+    plugin_id = plugin.get("id")
+    if plugin_id:
+        unique_plugins[plugin_id] = plugin
+
 birlesik_liste = list(unique_plugins.values())
 
-# 💾 Dosyaya yaz
+# JSON'u yaz
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
