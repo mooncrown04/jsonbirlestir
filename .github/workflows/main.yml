@@ -23,10 +23,11 @@ jobs:
       - name: JSON'ları birleştir
         run: python birlestir_plugins_json.py
 
-      - name: Çıktıyı commitle
+      - name: Push changes
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add birlesik_plugins.json
-          git commit -m "🔄 JSON güncellendi ($(date))" || echo "Değişiklik yok"
-          git push
+             git config user.name "GitHub Actions Bot"
+             git config user.email "actions@github.com"
+             git add birlesik_plugins.json
+             git commit -m "🔄 JSON güncellendi ($(date))" || echo "Değişiklik yok"
+             git push "https://${{ secrets.GH_PAT }}@github.com/mooncrown04/jsonbirlestir.git" HEAD:main
+
