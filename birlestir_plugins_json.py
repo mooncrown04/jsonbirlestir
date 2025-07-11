@@ -2,10 +2,6 @@ import requests
 import json
 from datetime import datetime
 
-# 🔧 Hata ayıklama modunu aç/kapat
-debug = True
-
-# Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
 plugin_urls = {
     "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
@@ -23,8 +19,7 @@ for url, kaynak_adi in plugin_urls.items():
         response.raise_for_status()
         data = response.json()
 
-        if debug:
-            print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data) if isinstance(data, list) else 'N/A'}")
+        print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data) if isinstance(data, list) else 'N/A'}")
 
         if not isinstance(data, list):
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
@@ -40,21 +35,27 @@ for url, kaynak_adi in plugin_urls.items():
                     plugin[field] = kaynak_tag
 
             plugin["description"] = f"[{bugun_tarih}] {plugin.get('description', '').strip()}"
+
+            # DEBUG: id alanı var mı kontrol
+            if "id" not in plugin:
+                print(f"⚠️ id alanı yok! internalName: {plugin.get('internalName')}")
+
             birlesik_plugins.append(plugin)
 
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
 
-# Aynı id'ye sahip olanların sonuncusunu tut
+# Benzersizleştir – id yoksa internalName kullan
 unique_plugins = {}
 for plugin in birlesik_plugins:
-    plugin_id = plugin.get("id")
+    plugin_id = plugin.get("id") or plugin.get("internalName") or plugin.get("name")
     if plugin_id:
         unique_plugins[plugin_id] = plugin
+    else:
+        print(f"⚠️ Ne id ne name bulundu! {plugin}")
 
 birlesik_liste = list(unique_plugins.values())
 
-# JSON çıktısını yaz
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
