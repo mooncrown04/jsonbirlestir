@@ -2,8 +2,9 @@ import requests
 import json
 import hashlib
 from datetime import datetime
+import os
 
-# Kaynaklar (URL: kaynak_adi)
+# Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
 plugin_urls = {
     "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
@@ -11,14 +12,15 @@ plugin_urls = {
     "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json": "nikstream"
 }
 
-# Tarih
+# Önceki içeriklerin hash'lerini saklayan cache dosyası
+CACHE_FILE = "plugin_cache.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki veriler (varsa)
-try:
-    with open("plugin_cache.json", "r", encoding="utf-8") as f:
+# Önceki hash'leri yükle
+if os.path.exists(CACHE_FILE):
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
         plugin_hashes = json.load(f)
-except FileNotFoundError:
+else:
     plugin_hashes = {}
 
 birlesik_plugins = {}
@@ -41,7 +43,7 @@ for url, kaynak_adi in plugin_urls.items():
             if not plugin_id:
                 continue
 
-            plugin_copy = dict(plugin)  # kopyala
+            plugin_copy = dict(plugin)
             plugin_str = json.dumps(plugin_copy, sort_keys=True)
             plugin_hash = hashlib.sha256(plugin_str.encode("utf-8")).hexdigest()
 
@@ -54,25 +56,25 @@ for url, kaynak_adi in plugin_urls.items():
                 elif field not in plugin:
                     plugin[field] = kaynak_tag
 
-            # Hash değiştiyse veya yeni eklendiyse description'a tarih ekle
             if plugin_hash != onceki_hash:
                 print(f"🆕 Değişiklik algılandı: {plugin_id}")
                 eski_aciklama = plugin.get("description", "").strip()
                 plugin["description"] = f"[{bugun_tarih}] {eski_aciklama}"
 
+            # Her durumda listeye eklensin
             birlesik_plugins[plugin_id] = plugin
-            plugin_hashes[plugin_id] = plugin_hash  # güncelle cache
+            plugin_hashes[plugin_id] = plugin_hash
 
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
 
-# JSON olarak yaz
+# JSON'u yaz
 birlesik_liste = list(birlesik_plugins.values())
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
-    json.dump(birlesik_liste, f, indent=2, ensure_ascii=False)
+    json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
-# Güncel cache'i yaz
-with open("plugin_cache.json", "w", encoding="utf-8") as f:
-    json.dump(plugin_hashes, f, indent=2, ensure_ascii=False)
+# Cache güncelle
+with open(CACHE_FILE, "w", encoding="utf-8") as f:
+    json.dump(plugin_hashes, f, indent=4, ensure_ascii=False)
 
 print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → birlesik_plugins.json")
