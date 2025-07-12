@@ -16,10 +16,17 @@ plugin_urls = {
 CACHE_FILE = "plugin_cache.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki hash'leri yükle
+# Önceki hash'leri yükle (tip kontrolüyle birlikte)
 if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        plugin_hashes = json.load(f)
+    try:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            plugin_hashes = json.load(f)
+            if not isinstance(plugin_hashes, dict):
+                print("⚠️ plugin_cache.json geçersiz formatta (liste/sıralı), sıfırlandı.")
+                plugin_hashes = {}
+    except Exception as e:
+        print(f"⚠️ plugin_cache.json okunamadı: {e}")
+        plugin_hashes = {}
 else:
     plugin_hashes = {}
 
@@ -36,11 +43,17 @@ for url, kaynak_adi in plugin_urls.items():
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
             continue
 
+        if len(data) == 0:
+            print(f"⚠️ {url} içeriği boş liste.")
+            continue
+
         print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data)}")
 
         for plugin in data:
             plugin_id = plugin.get("id")
+
             if not plugin_id:
+                print(f"⚠️ 'id' alanı eksik, atlandı → {plugin}")
                 continue
 
             plugin_copy = dict(plugin)
@@ -61,7 +74,7 @@ for url, kaynak_adi in plugin_urls.items():
                 eski_aciklama = plugin.get("description", "").strip()
                 plugin["description"] = f"[{bugun_tarih}] {eski_aciklama}"
 
-            # Her durumda listeye eklensin
+            # Her durumda listeye eklensin (tekrarı ezer)
             birlesik_plugins[plugin_id] = plugin
             plugin_hashes[plugin_id] = plugin_hash
 
