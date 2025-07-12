@@ -2,8 +2,8 @@ import requests
 import json
 import hashlib
 from datetime import datetime
-import os
 
+# Kaynaklar (URL: kaynak_adi)
 plugin_urls = {
     "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
@@ -11,20 +11,17 @@ plugin_urls = {
     "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json": "nikstream"
 }
 
+# Tarih
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
-gecmis_dosya = "plugin_cache.json"
-gecmis_hashlar = {}
 
-# Önceki hash'leri oku
-if os.path.exists(gecmis_dosya):
-    with open(gecmis_dosya, "r", encoding="utf-8") as f:
-        gecmis_hashlar = json.load(f)
+# Önceki veriler (varsa)
+try:
+    with open("plugin_cache.json", "r", encoding="utf-8") as f:
+        plugin_hashes = json.load(f)
+except FileNotFoundError:
+    plugin_hashes = {}
 
-yeni_hashlar = {}
-birlesik_plugins = []
-
-def plugin_hash(plugin):
-    return hashlib.md5(json.dumps(plugin, sort_keys=True).encode("utf-8")).hexdigest()
+birlesik_plugins = {}
 
 for url, kaynak_adi in plugin_urls.items():
     try:
@@ -37,47 +34,45 @@ for url, kaynak_adi in plugin_urls.items():
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
             continue
 
+        print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data)}")
+
         for plugin in data:
             plugin_id = plugin.get("id")
             if not plugin_id:
                 continue
 
-            eski_hash = gecmis_hashlar.get(plugin_id)
-            yeni_hash = plugin_hash(plugin)
-            yeni_hashlar[plugin_id] = yeni_hash
+            plugin_copy = dict(plugin)  # kopyala
+            plugin_str = json.dumps(plugin_copy, sort_keys=True)
+            plugin_hash = hashlib.sha256(plugin_str.encode("utf-8")).hexdigest()
 
-            # Değişiklik varsa description'a bugünkü tarihi ekle
-            if eski_hash != yeni_hash:
-                plugin["description"] = f"[{bugun_tarih}] {plugin.get('description', '').strip()}"
+            onceki_hash = plugin_hashes.get(plugin_id)
 
-            # name ve internalName'e kaynak etiketi ekle
             kaynak_tag = f"[{kaynak_adi}]"
             for field in ["name", "internalName"]:
                 if field in plugin and kaynak_tag not in plugin[field]:
-                    plugin[field] = f"{plugin[field]}{kaynak_tag}"
+                    plugin[field] += kaynak_tag
                 elif field not in plugin:
                     plugin[field] = kaynak_tag
 
-            birlesik_plugins.append(plugin)
+            # Hash değiştiyse veya yeni eklendiyse description'a tarih ekle
+            if plugin_hash != onceki_hash:
+                print(f"🆕 Değişiklik algılandı: {plugin_id}")
+                eski_aciklama = plugin.get("description", "").strip()
+                plugin["description"] = f"[{bugun_tarih}] {eski_aciklama}"
+
+            birlesik_plugins[plugin_id] = plugin
+            plugin_hashes[plugin_id] = plugin_hash  # güncelle cache
 
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
 
-# Aynı id'ye sahip son plugin'i al
-unique_plugins = {}
-for plugin in birlesik_plugins:
-    plugin_id = plugin.get("id")
-    if plugin_id:
-        unique_plugins[plugin_id] = plugin
-
-birlesik_liste = list(unique_plugins.values())
-
-# JSON'u yaz
+# JSON olarak yaz
+birlesik_liste = list(birlesik_plugins.values())
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
-    json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
+    json.dump(birlesik_liste, f, indent=2, ensure_ascii=False)
 
-# Yeni hash'leri cache dosyasına yaz
-with open(gecmis_dosya, "w", encoding="utf-8") as f:
-    json.dump(yeni_hashlar, f, indent=2, ensure_ascii=False)
+# Güncel cache'i yaz
+with open("plugin_cache.json", "w", encoding="utf-8") as f:
+    json.dump(plugin_hashes, f, indent=2, ensure_ascii=False)
 
 print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → birlesik_plugins.json")
