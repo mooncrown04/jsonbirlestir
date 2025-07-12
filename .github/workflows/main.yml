@@ -2,8 +2,8 @@ name: Plugin JSON Birleştirici
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Her 4 saatte bir çalıştırılır
-  workflow_dispatch:       # Manuel tetikleme desteği
+    - cron: '0 */4 * * *'  # 4 saatte bir
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,18 +18,22 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Gerekli bağımlılıkları yükle
+      - name: Requests modülünü yükle
         run: pip install requests
 
-      - name: Plugin JSON dosyalarını birleştir
+      - name: plugin_cache.json dosyasını cache’le
+        uses: actions/cache@v4
+        with:
+          path: plugin_cache.json
+          key: plugin-cache
+
+      - name: JSON'ları birleştir
         run: python birlestir_plugins_json.py
 
-      - name: Değişiklikleri GitHub'a gönder
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Değişiklikleri pushla
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add birlesik_plugins.json
+          git add birlesik_plugins.json plugin_cache.json
           git commit -m "🔄 JSON güncellendi ($(date))" || echo "Değişiklik yok"
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
+          git push "https://${{ secrets.GH_PAT }}@github.com/mooncrown04/jsonbirlestir.git" HEAD:main
