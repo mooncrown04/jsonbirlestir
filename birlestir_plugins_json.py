@@ -16,17 +16,10 @@ plugin_urls = {
 CACHE_FILE = "plugin_cache.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki hash'leri yükle (tip kontrolüyle birlikte)
+# Önceki hash'leri yükle
 if os.path.exists(CACHE_FILE):
-    try:
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            plugin_hashes = json.load(f)
-            if not isinstance(plugin_hashes, dict):
-                print("⚠️ plugin_cache.json geçersiz formatta (liste/sıralı), sıfırlandı.")
-                plugin_hashes = {}
-    except Exception as e:
-        print(f"⚠️ plugin_cache.json okunamadı: {e}")
-        plugin_hashes = {}
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
+        plugin_hashes = json.load(f)
 else:
     plugin_hashes = {}
 
@@ -43,17 +36,12 @@ for url, kaynak_adi in plugin_urls.items():
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
             continue
 
-        if len(data) == 0:
-            print(f"⚠️ {url} içeriği boş liste.")
-            continue
-
         print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data)}")
 
         for plugin in data:
-            plugin_id = plugin.get("id")
-
+            plugin_id = plugin.get("id") or plugin.get("internalName")
             if not plugin_id:
-                print(f"⚠️ 'id' alanı eksik, atlandı → {plugin}")
+                print(f"⚠️ 'id' veya 'internalName' yok, atlandı → {plugin}")
                 continue
 
             plugin_copy = dict(plugin)
@@ -74,19 +62,18 @@ for url, kaynak_adi in plugin_urls.items():
                 eski_aciklama = plugin.get("description", "").strip()
                 plugin["description"] = f"[{bugun_tarih}] {eski_aciklama}"
 
-            # Her durumda listeye eklensin (tekrarı ezer)
             birlesik_plugins[plugin_id] = plugin
             plugin_hashes[plugin_id] = plugin_hash
 
     except Exception as e:
         print(f"❌ {url} indirilemedi: {e}")
 
-# JSON'u yaz
+# JSON çıktısını yaz
 birlesik_liste = list(birlesik_plugins.values())
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
-# Cache güncelle
+# Cache dosyasını güncelle
 with open(CACHE_FILE, "w", encoding="utf-8") as f:
     json.dump(plugin_hashes, f, indent=4, ensure_ascii=False)
 
