@@ -1358,7 +1358,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "DiziPalOrijinal[kekikan]",
         "description": "[12.07.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
