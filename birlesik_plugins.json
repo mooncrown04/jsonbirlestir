@@ -1427,7 +1427,7 @@
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 16682,
+        "fileSize": 16689,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1437,7 +1437,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "FilmHane[kekikan]",
         "description": "[13.07.2025] Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmHane.cs3",
@@ -1447,7 +1447,7 @@
         "iconUrl": "https://filmizle.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21924,
+        "fileSize": 21918,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1456,7 +1456,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "FilmIzle[kekikan]",
         "description": "[13.07.2025] Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
