@@ -1212,6 +1212,44 @@
         "name": "AsyaFanatiklerim[kekikan]"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 15426,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "AsyaKing[kekikan]",
+        "description": "[15.07.2025] Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaKing.cs3",
+        "name": "AsyaKing[kekikan]"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 13861,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "AsyaMinik[kekikan]",
+        "description": "[15.07.2025] Asyaminik - En Güncel Asya Dizileri Burada!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaMinik.cs3",
+        "name": "AsyaMinik[kekikan]"
+    },
+    {
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -1248,6 +1286,67 @@
         "description": "[15.07.2025] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiveDizi.cs3",
         "name": "CizgiveDizi[kekikan]"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 15948,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DiziAsia[kekikan]",
+        "description": "[15.07.2025] DiziAsia - Asya Dizileri İzle",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsia.cs3",
+        "name": "DiziAsia[kekikan]"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 27124,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "DiziAsya[kekikan]",
+        "description": "[15.07.2025] Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsya.cs3",
+        "name": "DiziAsya[kekikan]"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 14927,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Dizican[kekikan]",
+        "description": "[15.07.2025] DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizican.cs3",
+        "name": "Dizican[kekikan]"
     },
     {
         "iconUrl": "https://dizifun2.com/images/data/favicon.png",
