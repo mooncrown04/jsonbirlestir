@@ -3,6 +3,7 @@ import json
 import hashlib
 from datetime import datetime
 import os
+import re
 
 # Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
 plugin_urls = {
@@ -44,12 +45,21 @@ for url, kaynak_adi in plugin_urls.items():
                 print(f"⚠️ 'id' veya 'internalName' yok, atlandı → {plugin}")
                 continue
 
+            # Orijinal açıklamayı temizle (başındaki eski [tarih] etiketi varsa çıkar)
+            eski_aciklama = plugin.get("description", "").strip()
+            aciklama_temiz = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", eski_aciklama)
+
+            # Hash için gereksiz alanları çıkar
             plugin_copy = dict(plugin)
+            plugin_copy["description"] = aciklama_temiz
+            for remove_field in ["fileSize", "status"]:
+                plugin_copy.pop(remove_field, None)
+
             plugin_str = json.dumps(plugin_copy, sort_keys=True)
             plugin_hash = hashlib.sha256(plugin_str.encode("utf-8")).hexdigest()
-
             onceki_hash = plugin_hashes.get(plugin_id)
 
+            # İsimlere kaynak etiketi ekle
             kaynak_tag = f"[{kaynak_adi}]"
             for field in ["name", "internalName"]:
                 if field in plugin and kaynak_tag not in plugin[field]:
@@ -57,10 +67,12 @@ for url, kaynak_adi in plugin_urls.items():
                 elif field not in plugin:
                     plugin[field] = kaynak_tag
 
+            # Eğer değiştiyse açıklamayı bugünkü tarihle güncelle
             if plugin_hash != onceki_hash:
                 print(f"🆕 Değişiklik algılandı: {plugin_id}")
-                eski_aciklama = plugin.get("description", "").strip()
-                plugin["description"] = f"[{bugun_tarih}] {eski_aciklama}"
+                plugin["description"] = f"[{bugun_tarih}] {aciklama_temiz}"
+            else:
+                plugin["description"] = eski_aciklama
 
             birlesik_plugins[plugin_id] = plugin
             plugin_hashes[plugin_id] = plugin_hash
