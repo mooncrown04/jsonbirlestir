@@ -1814,6 +1814,25 @@
         "name": "YabanciDizi[nikstream]"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 14919,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "YeniWatch[kekikan]",
+        "description": "[17.07.2025] Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YeniWatch.cs3",
+        "name": "YeniWatch[kekikan]"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
         "jarFileSize": 76378,
         "apiVersion": 1,
