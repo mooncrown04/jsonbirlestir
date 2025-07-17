@@ -1837,7 +1837,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14919,
+        "fileSize": 15029,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1846,7 +1846,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "YeniWatch[kekikan]",
         "description": "[17.07.2025] Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YeniWatch.cs3",
