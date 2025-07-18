@@ -17,12 +17,30 @@ plugin_urls = {
 CACHE_FILE = "plugin_cache.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki hash'leri yükle
+# Önceki hash'leri ve önceki birleşmiş plugin verilerini yükle
+# Bu, daha önce birleştirilmiş ve tarih etiketi eklenmiş açıklamaları korumak için gerekli.
+plugin_hashes = {}
+previous_merged_plugins = {}
+
 if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        plugin_hashes = json.load(f)
-else:
-    plugin_hashes = {}
+    try:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            cache_data = json.load(f)
+            plugin_hashes = cache_data.get("hashes", {})
+    except json.JSONDecodeError:
+        print(f"⚠️ {CACHE_FILE} bozuk veya geçersiz JSON içeriyor. Yeniden oluşturulacak.")
+        plugin_hashes = {}
+
+# Önceki birleştirilmiş pluginleri yükle (birlesik_plugins.json dosyasından)
+# Bu, değişmeyen pluginlerin açıklama tarihlerini korumamızı sağlar.
+if os.path.exists("birlesik_plugins.json"):
+    try:
+        with open("birlesik_plugins.json", "r", encoding="utf-8") as bf:
+            previous_merged_plugins_list = json.load(bf)
+            previous_merged_plugins = {p.get("id") or p.get("internalName"): p for p in previous_merged_plugins_list}
+    except json.JSONDecodeError:
+        print(f"⚠️ birlesik_plugins.json bozuk veya geçersiz JSON içeriyor. Yeniden oluşturulacak.")
+        previous_merged_plugins = {}
 
 birlesik_plugins = {}
 
@@ -45,48 +63,63 @@ for url, kaynak_adi in plugin_urls.items():
                 print(f"⚠️ 'id' veya 'internalName' yok, atlandı → {plugin}")
                 continue
 
-            # Orijinal açıklamayı temizle (başındaki eski [tarih] etiketi varsa çıkar)
-            eski_aciklama = plugin.get("description", "").strip()
-            aciklama_temiz = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", eski_aciklama)
+            # Orijinal açıklamayı al
+            source_description = plugin.get("description", "").strip()
+            
+            # Hash hesaplaması için açıklamayı tarih etiketinden temizle
+            description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", source_description)
 
             # Hash için gereksiz alanları çıkar
-            plugin_copy = dict(plugin)
-            plugin_copy["description"] = aciklama_temiz
+            plugin_copy_for_hash = dict(plugin)
+            plugin_copy_for_hash["description"] = description_for_hash
             for remove_field in ["fileSize", "status"]:
-                plugin_copy.pop(remove_field, None)
+                plugin_copy_for_hash.pop(remove_field, None)
 
-            plugin_str = json.dumps(plugin_copy, sort_keys=True)
-            plugin_hash = hashlib.sha256(plugin_str.encode("utf-8")).hexdigest()
-            onceki_hash = plugin_hashes.get(plugin_id)
+            plugin_str_for_hash = json.dumps(plugin_copy_for_hash, sort_keys=True)
+            current_source_hash = hashlib.sha256(plugin_str_for_hash.encode("utf-8")).hexdigest()
+            previous_cached_hash = plugin_hashes.get(plugin_id)
 
-            # İsimlere kaynak etiketi ekle
+            # İsimlere kaynak etiketi ekle (bu kısım her zaman çalışmalı)
             kaynak_tag = f"[{kaynak_adi}]"
             for field in ["name", "internalName"]:
                 if field in plugin and kaynak_tag not in plugin[field]:
                     plugin[field] += kaynak_tag
-                elif field not in plugin:
-                    plugin[field] = kaynak_tag
+                # Eğer alan yoksa ve plugin_id varsa, varsayılan olarak kaynak_tag ekleyebiliriz.
+                # Ancak bu durumda, plugin_id zaten var olduğu için field'ın da var olması beklenir.
 
-            # Eğer değiştiyse açıklamayı bugünkü tarihle güncelle
-            if plugin_hash != onceki_hash:
+            # Açıklama yönetimi
+            if current_source_hash != previous_cached_hash:
+                # Plugin değişti veya yeni, açıklamayı bugünkü tarihle güncelle
                 print(f"🆕 Değişiklik algılandı: {plugin_id}")
-                plugin["description"] = f"[{bugun_tarih}] {aciklama_temiz}"
+                plugin["description"] = f"[{bugun_tarih}] {description_for_hash}"
+                plugin_hashes[plugin_id] = current_source_hash # Yeni hash'i kaydet
             else:
-                plugin["description"] = eski_aciklama
+                # Plugin değişmedi, önceki birleştirilmiş listeden açıklamasını al
+                # Eğer daha önce birleştirilmiş listede varsa, onun açıklamasını kullan.
+                # Yoksa, kaynak açıklamayı kullan (zaten temizlenmiş haliyle).
+                if plugin_id in previous_merged_plugins:
+                    plugin["description"] = previous_merged_plugins[plugin_id].get("description", source_description)
+                else:
+                    # Bu durum, cache dosyası yoksa veya plugin_id ilk kez işleniyorsa ortaya çıkar.
+                    # Bu durumda, kaynak açıklamayı olduğu gibi bırakırız.
+                    plugin["description"] = source_description 
 
-            birlesik_plugins[plugin_id] = plugin
-            plugin_hashes[plugin_id] = plugin_hash
+            birlesik_plugins[plugin_id] = plugin # Birleşmiş listeye ekle/güncelle
 
+    except requests.exceptions.RequestException as e:
+        print(f"❌ {url} indirilirken ağ hatası oluştu: {e}")
+    except json.JSONDecodeError as e:
+        print(f"❌ {url} JSON ayrıştırma hatası: {e}")
     except Exception as e:
-        print(f"❌ {url} indirilemedi: {e}")
+        print(f"❌ {url} işlenirken beklenmeyen hata oluştu: {e}")
 
 # JSON çıktısını yaz
 birlesik_liste = list(birlesik_plugins.values())
 with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
-# Cache dosyasını güncelle
+# Cache dosyasını güncelle (sadece hash'leri sakla)
 with open(CACHE_FILE, "w", encoding="utf-8") as f:
-    json.dump(plugin_hashes, f, indent=4, ensure_ascii=False)
+    json.dump({"hashes": plugin_hashes}, f, indent=4, ensure_ascii=False)
 
 print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → birlesik_plugins.json")
