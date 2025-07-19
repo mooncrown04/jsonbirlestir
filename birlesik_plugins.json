@@ -536,7 +536,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14244,
+        "fileSize": 14243,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -546,7 +546,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "DiziYou[nikstream]",
         "description": "[19.07.2025] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
@@ -886,7 +886,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14361,
+        "fileSize": 14359,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -896,7 +896,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "SinemaCX[nikstream]",
         "description": "[19.07.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SinemaCX.cs3",
@@ -1041,7 +1041,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 22421,
+        "fileSize": 22420,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1051,7 +1051,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 38,
+        "version": 39,
         "internalName": "WebteIzle[nikstream]",
         "description": "[19.07.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
