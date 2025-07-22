@@ -1061,7 +1061,7 @@
         "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 35898,
+        "fileSize": 35945,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1070,7 +1070,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 19,
+        "version": 22,
         "internalName": "4KFilmIzleme[kekikan]",
         "description": "[22.07.2025] Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
@@ -1099,7 +1099,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 24137,
+        "fileSize": 24186,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1110,7 +1110,7 @@
             "Anime",
             "Ova"
         ],
-        "version": 11,
+        "version": 14,
         "internalName": "AnimeIzlesene[kekikan]",
         "description": "[22.07.2025] Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AnimeIzlesene.cs3",
@@ -1120,7 +1120,7 @@
         "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 22148,
+        "fileSize": 22177,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1129,7 +1129,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 9,
+        "version": 12,
         "internalName": "Animeler[kekikan]",
         "description": "[22.07.2025] HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Animeler.cs3",
@@ -1139,7 +1139,7 @@
         "iconUrl": "https://animex.tr/wp-content/uploads/2024/06/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 19754,
+        "fileSize": 19781,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1148,7 +1148,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 5,
+        "version": 8,
         "internalName": "Animex[kekikan]",
         "description": "[22.07.2025] Anime izle, Anime türkce altyazılı , birbirinden farklı ve güzel en güncel animeleri keyifle seyredebileceğiniz Animex.com.tr anime severlerin en popüler türkçe anime izleme sitesidir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Animex.cs3",
@@ -1158,7 +1158,7 @@
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 31813,
+        "fileSize": 31873,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1167,7 +1167,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 24,
+        "version": 27,
         "internalName": "Anizm[kekikan]",
         "description": "[22.07.2025] Türkçe Altyazılı Anime İzle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Anizm.cs3",
@@ -1177,7 +1177,7 @@
         "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14450,
+        "fileSize": 14500,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1186,7 +1186,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "AsyaAnimeleri[kekikan]",
         "description": "[22.07.2025] Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaAnimeleri.cs3",
@@ -1196,7 +1196,7 @@
         "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 13470,
+        "fileSize": 13538,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1205,7 +1205,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 4,
+        "version": 7,
         "internalName": "AsyaFanatiklerim[kekikan]",
         "description": "[22.07.2025] Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaFanatiklerim.cs3",
@@ -1215,7 +1215,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15574,
+        "fileSize": 15671,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1224,7 +1224,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "AsyaKing[kekikan]",
         "description": "[22.07.2025] Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaKing.cs3",
@@ -1234,7 +1234,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 13861,
+        "fileSize": 13918,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1243,7 +1243,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 2,
+        "version": 5,
         "internalName": "AsyaMinik[kekikan]",
         "description": "[22.07.2025] Asyaminik - En Güncel Asya Dizileri Burada!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaMinik.cs3",
@@ -1253,7 +1253,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 13045,
+        "fileSize": 13106,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1262,7 +1262,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 4,
+        "version": 7,
         "internalName": "BirAsyaDizi[kekikan]",
         "description": "[22.07.2025] Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/BirAsyaDizi.cs3",
@@ -1281,7 +1281,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 10,
+        "version": 12,
         "internalName": "CizgiveDizi[kekikan]",
         "description": "[22.07.2025] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiveDizi.cs3",
@@ -1301,7 +1301,7 @@
             "Movie",
             "AsianDrama"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "DiziAsia[kekikan]",
         "description": "[22.07.2025] DiziAsia - Asya Dizileri İzle",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsia.cs3",
@@ -1322,7 +1322,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 3,
+        "version": 5,
         "internalName": "DiziAsya[kekikan]",
         "description": "[22.07.2025] Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziAsya.cs3",
@@ -1332,7 +1332,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15289,
+        "fileSize": 15391,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1342,7 +1342,7 @@
             "Movie",
             "AsianDrama"
         ],
-        "version": 2,
+        "version": 5,
         "internalName": "Dizican[kekikan]",
         "description": "[22.07.2025] DiziCan TV'de en popüler Kore, Çin ve Asya dizilerini keşfet! Güncel bölümler, kaliteli altyazılar ve sınırsız dizi keyfi seni bekliyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizican.cs3",
@@ -1362,7 +1362,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 10,
         "internalName": "DiziFun[kekikan]",
         "description": "[22.07.2025] Her Dizi Bir Macera, Her An Bir Keşif!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziFun.cs3",
@@ -1391,7 +1391,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizikral.nl/mofy/img/192x192_.png&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 19025,
+        "fileSize": 19063,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1400,7 +1400,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 7,
+        "version": 10,
         "internalName": "DiziKral[kekikan]",
         "description": "[22.07.2025] DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziKral.cs3",
@@ -1429,7 +1429,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimore.com&size=64",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 17283,
+        "fileSize": 17320,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1438,7 +1438,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 6,
+        "version": 9,
         "internalName": "DiziMore[kekikan]",
         "description": "[22.07.2025] Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMore.cs3",
@@ -1448,7 +1448,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 40894,
+        "fileSize": 41288,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1457,7 +1457,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 16,
+        "version": 22,
         "internalName": "DiziPalOrijinal[kekikan]",
         "description": "[22.07.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
@@ -1467,7 +1467,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 16712,
+        "fileSize": 16771,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1476,7 +1476,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 4,
+        "version": 7,
         "internalName": "Dizist[kekikan]",
         "description": "[22.07.2025] Yabancı Dizi izle - Dizist",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizist.cs3",
@@ -1486,7 +1486,7 @@
         "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 37266,
+        "fileSize": 37332,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1497,7 +1497,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 14,
+        "version": 18,
         "internalName": "DiziYo[kekikan]",
         "description": "[22.07.2025] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYo.cs3",
@@ -1507,7 +1507,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 18830,
+        "fileSize": 18866,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1516,7 +1516,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 9,
+        "version": 12,
         "internalName": "FilmEkseni[kekikan]",
         "description": "[22.07.2025] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmEkseni.cs3",
@@ -1526,7 +1526,7 @@
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 16689,
+        "fileSize": 16737,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1536,7 +1536,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 9,
+        "version": 12,
         "internalName": "FilmHane[kekikan]",
         "description": "[22.07.2025] Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmHane.cs3",
@@ -1546,7 +1546,7 @@
         "iconUrl": "https://filmizle.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21918,
+        "fileSize": 22014,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1555,7 +1555,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 10,
         "internalName": "FilmIzle[kekikan]",
         "description": "[22.07.2025] Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
@@ -1565,7 +1565,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 11747,
+        "fileSize": 11800,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1574,7 +1574,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 5,
         "internalName": "FilmIzyon[kekikan]",
         "description": "[22.07.2025] Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzyon.cs3",
@@ -1584,7 +1584,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 11439,
+        "fileSize": 11503,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1593,7 +1593,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "FullHDIzle[kekikan]",
         "description": "[22.07.2025] Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FullHDIzle.cs3",
@@ -1612,7 +1612,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "GinikoCanli[kekikan]",
         "description": "[22.07.2025] Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/GinikoCanli.cs3",
@@ -1622,7 +1622,7 @@
         "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 31279,
+        "fileSize": 31325,
         "status": 0,
         "language": "tr",
         "authors": [
@@ -1631,7 +1631,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 11,
+        "version": 13,
         "internalName": "HDFilm[kekikan]",
         "description": "[22.07.2025] Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilm.cs3",
@@ -1641,7 +1641,7 @@
         "iconUrl": "https://hdfilmcehennemi2.rip/wp-content/uploads/2023/07/favi.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15312,
+        "fileSize": 15368,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1650,7 +1650,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 11,
+        "version": 14,
         "internalName": "HdFilmCehennemi2[kekikan]",
         "description": "[22.07.2025] Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HdFilmCehennemi2.cs3",
@@ -1669,7 +1669,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "IpTvPlayStream[kekikan]",
         "description": "[22.07.2025] Watch free IPTV channels from around the world.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/IpTvPlayStream.cs3",
@@ -1709,7 +1709,7 @@
             "Anime",
             "Movie"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "SeiCode[kekikan]",
         "description": "[22.07.2025] Seicode ile en yeni animeler keşfedin!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SeiCode.cs3",
@@ -1719,7 +1719,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 20002,
+        "fileSize": 20063,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1729,7 +1729,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 10,
+        "version": 13,
         "internalName": "Sinefy[kekikan]",
         "description": "[22.07.2025] Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Sinefy.cs3",
@@ -1739,7 +1739,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14210,
+        "fileSize": 14266,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1748,7 +1748,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 8,
         "internalName": "Sinezy[kekikan]",
         "description": "[22.07.2025] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Sinezy.cs3",
@@ -1758,7 +1758,7 @@
         "iconUrl": "https://www.trdiziizle.vip/fawn.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 19091,
+        "fileSize": 19122,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1767,7 +1767,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "TrDiziIzle[kekikan]",
         "description": "[22.07.2025] Full hd ve tek parça hemde reklamsız yerli dizi izlemek mi istiyorsunuz? O halde bu site sorunsuz dizi izlemeniz için tam size göre",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/TrDiziIzle.cs3",
@@ -1777,7 +1777,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 39207,
+        "fileSize": 39274,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1787,7 +1787,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "UnutulmazFilmler[kekikan]",
         "description": "[22.07.2025] Yıllar geçse bile izledikten sonraki etkisi hala süren o unutulmaz filmleri sizler için derliyoruz. Altyazılı film izle. Sadece En iyi filmler.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/UnutulmazFilmler.cs3",
@@ -1808,7 +1808,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "WebDramaTurkey[kekikan]",
         "description": "[22.07.2025] Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/WebDramaTurkey.cs3",
@@ -1846,7 +1846,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 4,
+        "version": 6,
         "internalName": "YeniWatch[kekikan]",
         "description": "[22.07.2025] Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YeniWatch.cs3",
@@ -1854,10 +1854,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
-        "jarFileSize": 76378,
+        "jarFileSize": 76886,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15875,
+        "fileSize": 15972,
         "status": 1,
         "language": "en",
         "authors": [
@@ -1867,7 +1867,7 @@
             "Movie",
             "Torrent"
         ],
-        "version": 5,
+        "version": 8,
         "internalName": "YTS[kekikan]",
         "jarUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.jar",
         "description": "[22.07.2025] YTS Movies 4K Support (Torrent)",
