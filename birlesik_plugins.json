@@ -546,7 +546,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "DiziYou[nikstream]",
         "description": "[26.07.2025] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
@@ -1040,7 +1040,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 27053,
+        "fileSize": 27050,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1050,7 +1050,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 43,
+        "version": 44,
         "internalName": "WebteIzle[nikstream]",
         "description": "[26.07.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -1409,7 +1409,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 26513,
+        "fileSize": 26506,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1418,7 +1418,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "DiziMag[nikstream]",
         "description": "[26.07.2025] En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
