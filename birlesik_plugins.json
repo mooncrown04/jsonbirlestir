@@ -1098,7 +1098,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 24186,
+        "fileSize": 24100,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1109,7 +1109,7 @@
             "Anime",
             "Ova"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "AnimeIzlesene[kekikan]",
         "description": "[27.07.2025] Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AnimeIzlesene.cs3",
@@ -1545,7 +1545,7 @@
         "iconUrl": "https://filmizle.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 22148,
+        "fileSize": 22143,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1554,7 +1554,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "FilmIzle[kekikan]",
         "description": "[27.07.2025] Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
@@ -1654,6 +1654,25 @@
         "description": "[27.07.2025] Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HdFilmCehennemi2.cs3",
         "name": "HdFilmCehennemi2[kekikan]"
+    },
+    {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 14697,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "HintDizi[kekikan]",
+        "description": "[27.07.2025] En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HintDizi.cs3",
+        "name": "HintDizi[kekikan]"
     },
     {
         "iconUrl": "https://iptvplay.stream/favicon.ico",
