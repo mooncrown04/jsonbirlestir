@@ -14,39 +14,32 @@ plugin_urls = {
 }
 
 # Önceki içeriklerin hash'lerini saklayan cache dosyası
-CACHE_FILE = "plugin_cache.json"
+CACHE_FILE = "plugin_cache.json" # Bu dosya artık tam plugin objelerini saklayacak
+MERGED_PLUGINS_FILE = "birlesik_plugins.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki hash'leri ve önceki birleşmiş plugin verilerini yükle
-# Bu, daha önce birleştirilmiş ve tarih etiketi eklenmiş açıklamaları korumak için gerekli.
-plugin_hashes = {}
-previous_merged_plugins = {}
-
+# Önceki önbelleklenmiş plugin verilerini yükle (tam objeler)
+previous_cached_plugins_data = {} # plugin_id -> tam plugin objesi
 if os.path.exists(CACHE_FILE):
     try:
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            cache_data = json.load(f)
-            plugin_hashes = cache_data.get("hashes", {})
+            cached_list = json.load(f)
+            previous_cached_plugins_data = {p.get("id") or p.get("internalName"): p for p in cached_list}
+        print(f"✅ Cache dosyası '{CACHE_FILE}' başarıyla yüklendi. Toplam önbelleklenmiş plugin: {len(previous_cached_plugins_data)}")
     except json.JSONDecodeError:
         print(f"⚠️ {CACHE_FILE} bozuk veya geçersiz JSON içeriyor. Yeniden oluşturulacak.")
-        plugin_hashes = {}
+        previous_cached_plugins_data = {}
+    except Exception as e:
+        print(f"❌ Cache dosyası yüklenirken beklenmeyen hata: {e}")
+        previous_cached_plugins_data = {}
+else:
+    print(f"ℹ️ Cache dosyası '{CACHE_FILE}' bulunamadı. Yeni bir tane oluşturulacak.")
 
-# Önceki birleştirilmiş pluginleri yükle (birlesik_plugins.json dosyasından)
-# Bu, değişmeyen pluginlerin açıklama tarihlerini korumamızı sağlar.
-if os.path.exists("birlesik_plugins.json"):
-    try:
-        with open("birlesik_plugins.json", "r", encoding="utf-8") as bf:
-            previous_merged_plugins_list = json.load(bf)
-            previous_merged_plugins = {p.get("id") or p.get("internalName"): p for p in previous_merged_plugins_list}
-    except json.JSONDecodeError:
-        print(f"⚠️ birlesik_plugins.json bozuk veya geçersiz JSON içeriyor. Yeniden oluşturulacak.")
-        previous_merged_plugins = {}
-
-birlesik_plugins = {}
+birlesik_plugins = {} # Son birleştirilmiş pluginler (plugin_id -> tam plugin objesi)
 
 for url, kaynak_adi in plugin_urls.items():
     try:
-        print(f"[+] {url} indiriliyor...")
+        print(f"\n[+] {url} indiriliyor...")
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
@@ -55,7 +48,7 @@ for url, kaynak_adi in plugin_urls.items():
             print(f"⚠️ {url} JSON dizisi değil! Atlandı.")
             continue
 
-        print(f"🔍 {url} → Tür: {type(data)} | Uzunluk: {len(data)}")
+        print(f"🔍 {url} → Toplam plugin: {len(data)}")
 
         for plugin in data:
             plugin_id = plugin.get("id") or plugin.get("internalName")
@@ -67,42 +60,73 @@ for url, kaynak_adi in plugin_urls.items():
             source_description = plugin.get("description", "").strip()
             
             # Hash hesaplaması için açıklamayı tarih etiketinden temizle
-            description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", source_description)
+            description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", source_description).strip()
 
-            # Hash için gereksiz alanları çıkar
-            plugin_copy_for_hash = dict(plugin)
-            plugin_copy_for_hash["description"] = description_for_hash
+            # Mevcut plugin için hash hesapla (açıklama ve diğer hariç tutulan alanlar temizlenmiş haliyle)
+            current_plugin_copy_for_hash = dict(plugin)
+            current_plugin_copy_for_hash["description"] = description_for_hash
             for remove_field in ["fileSize", "status"]:
-                plugin_copy_for_hash.pop(remove_field, None)
+                current_plugin_copy_for_hash.pop(remove_field, None)
+            
+            try:
+                current_plugin_str_for_hash = json.dumps(current_plugin_copy_for_hash, sort_keys=True, ensure_ascii=False)
+            except TypeError as e:
+                print(f"❌ Hata: Plugin '{plugin_id}' için mevcut hash oluşturulurken TypeError: {e}. Plugin verisi: {current_plugin_copy_for_hash}")
+                continue
+            current_source_hash = hashlib.sha256(current_plugin_str_for_hash.encode("utf-8")).hexdigest()
 
-            plugin_str_for_hash = json.dumps(plugin_copy_for_hash, sort_keys=True)
-            current_source_hash = hashlib.sha256(plugin_str_for_hash.encode("utf-8")).hexdigest()
-            previous_cached_hash = plugin_hashes.get(plugin_id)
+            # Önbellekteki plugin için hash hesapla (varsa)
+            previous_cached_plugin = previous_cached_plugins_data.get(plugin_id)
+            previous_cached_hash = None
+
+            if previous_cached_plugin:
+                cached_description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", previous_cached_plugin.get("description", "")).strip()
+                cached_plugin_copy_for_hash = dict(previous_cached_plugin)
+                cached_plugin_copy_for_hash["description"] = cached_description_for_hash
+                for remove_field in ["fileSize", "status"]:
+                    cached_plugin_copy_for_hash.pop(remove_field, None)
+                
+                try:
+                    cached_plugin_str_for_hash = json.dumps(cached_plugin_copy_for_hash, sort_keys=True, ensure_ascii=False)
+                except TypeError as e:
+                    print(f"❌ Hata: Plugin '{plugin_id}' için önbelleklenmiş hash oluşturulurken TypeError: {e}. Plugin verisi: {cached_plugin_copy_for_hash}")
+                    # Eğer önbelleklenmiş pluginin hash'i hesaplanamazsa, bunu değişiklik olarak kabul et
+                    previous_cached_hash = "ERROR_HASH" 
+                else:
+                    previous_cached_hash = hashlib.sha256(cached_plugin_str_for_hash.encode("utf-8")).hexdigest()
+
+            print(f"--- Plugin: {plugin_id} ---")
+            print(f"    Kaynak Açıklama (Ham): '{source_description}'")
+            print(f"    Hash için Açıklama (Temiz): '{description_for_hash}'")
+            print(f"    Mevcut Hash (Kaynak): {current_source_hash}")
+            print(f"    Önceki Cache Hash: {previous_cached_hash}")
+            print(f"    Hash Karşılaştırma Sonucu (Mevcut != Önceki): {current_source_hash != previous_cached_hash}")
+
 
             # İsimlere kaynak etiketi ekle (bu kısım her zaman çalışmalı)
             kaynak_tag = f"[{kaynak_adi}]"
             for field in ["name", "internalName"]:
                 if field in plugin and kaynak_tag not in plugin[field]:
                     plugin[field] += kaynak_tag
-                # Eğer alan yoksa ve plugin_id varsa, varsayılan olarak kaynak_tag ekleyebiliriz.
-                # Ancak bu durumda, plugin_id zaten var olduğu için field'ın da var olması beklenir.
+                # Eğer alan yoksa ve plugin_id internalName ise, name alanına da kaynak_tag ekle
+                elif field == "name" and "name" not in plugin and plugin_id == plugin.get("internalName"):
+                    plugin["name"] = f"{plugin_id}{kaynak_tag}"
 
             # Açıklama yönetimi
             if current_source_hash != previous_cached_hash:
                 # Plugin değişti veya yeni, açıklamayı bugünkü tarihle güncelle
-                print(f"🆕 Değişiklik algılandı: {plugin_id}")
+                print(f"🆕 Değişiklik algılandı: {plugin_id} - Açıklama güncelleniyor.")
                 plugin["description"] = f"[{bugun_tarih}] {description_for_hash}"
-                plugin_hashes[plugin_id] = current_source_hash # Yeni hash'i kaydet
             else:
-                # Plugin değişmedi, önceki birleştirilmiş listeden açıklamasını al
-                # Eğer daha önce birleştirilmiş listede varsa, onun açıklamasını kullan.
-                # Yoksa, kaynak açıklamayı kullan (zaten temizlenmiş haliyle).
-                if plugin_id in previous_merged_plugins:
-                    plugin["description"] = previous_merged_plugins[plugin_id].get("description", source_description)
+                # Plugin değişmedi, önceki önbelleklenmiş listeden açıklamasını al
+                if previous_cached_plugin:
+                    plugin["description"] = previous_cached_plugin.get("description", source_description)
+                    print(f"✅ Değişiklik yok: {plugin_id} - Önceki açıklama korunuyor: '{plugin['description']}'")
                 else:
                     # Bu durum, cache dosyası yoksa veya plugin_id ilk kez işleniyorsa ortaya çıkar.
                     # Bu durumda, kaynak açıklamayı olduğu gibi bırakırız.
-                    plugin["description"] = source_description 
+                    plugin["description"] = source_description
+                    print(f"ℹ️ Yeni plugin (önbelleklenmiş listede yok): {plugin_id} - Kaynak açıklama kullanılıyor: '{source_description}'")
 
             birlesik_plugins[plugin_id] = plugin # Birleşmiş listeye ekle/güncelle
 
@@ -115,11 +139,12 @@ for url, kaynak_adi in plugin_urls.items():
 
 # JSON çıktısını yaz
 birlesik_liste = list(birlesik_plugins.values())
-with open("birlesik_plugins.json", "w", encoding="utf-8") as f:
+with open(MERGED_PLUGINS_FILE, "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
 
-# Cache dosyasını güncelle (sadece hash'leri sakla)
+# Cache dosyasını güncelle (artık tam plugin objelerini saklayacak)
 with open(CACHE_FILE, "w", encoding="utf-8") as f:
-    json.dump({"hashes": plugin_hashes}, f, indent=4, ensure_ascii=False)
+    json.dump(birlesik_liste, f, indent=4, ensure_ascii=False) # Tüm birleştirilmiş listeyi kaydet
 
-print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → birlesik_plugins.json")
+print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → {MERGED_PLUGINS_FILE}")
+print(f"✅ Önbellek dosyası '{CACHE_FILE}' güncellendi.")
