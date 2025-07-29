@@ -1210,6 +1210,24 @@
         "name": "AsyaFanatiklerim[kekikan]"
     },
     {
+        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "AsyaFilmIzlesene[makoto]",
+        "description": "[29.07.2025] Hint, Kore Filmleri",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
+        "name": "AsyaFilmIzlesene[makoto]"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -2080,24 +2098,6 @@
         "description": "[29.07.2025] Puhu",
         "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
         "name": "Puhu[makoto]"
-    },
-    {
-        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "AsyaFilmIzlesene[makoto]",
-        "description": "[29.07.2025] Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
-        "name": "AsyaFilmIzlesene[makoto]"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
