@@ -536,7 +536,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14529,
+        "fileSize": 14525,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2157,6 +2157,26 @@
         "description": "[31.07.2025] DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
         "name": "DMax[nikstream]"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 19944,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "FilmIzleIlk[nikstream]",
+        "description": "[31.07.2025] Filmizleilk.com Yerli ve Yabancı en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmIzleIlk.cs3",
+        "name": "FilmIzleIlk[nikstream]"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
