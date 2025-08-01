@@ -1060,7 +1060,7 @@
         "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 36777,
+        "fileSize": 38871,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1069,7 +1069,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "4KFilmIzleme[kekikan]",
         "description": "[01.08.2025] Film izle, ⚡ En yeni çıkan yabancı vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
@@ -1466,7 +1466,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 42819,
+        "fileSize": 44858,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1476,7 +1476,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "DiziPalOrijinal[kekikan]",
         "description": "[01.08.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
@@ -1505,7 +1505,7 @@
         "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 38850,
+        "fileSize": 40946,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1516,7 +1516,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "DiziYo[kekikan]",
         "description": "[01.08.2025] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYo.cs3",
@@ -1641,7 +1641,7 @@
         "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 32113,
+        "fileSize": 34168,
         "status": 0,
         "language": "tr",
         "authors": [
@@ -1650,7 +1650,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "HDFilm[kekikan]",
         "description": "[01.08.2025] Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilm.cs3",
@@ -1679,7 +1679,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14697,
+        "fileSize": 15017,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1688,7 +1688,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "HintDizi[kekikan]",
         "description": "[01.08.2025] En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HintDizi.cs3",
@@ -1836,7 +1836,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unutulmazfilmler4.com/&size=64",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 39964,
+        "fileSize": 42061,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1846,7 +1846,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "UnutulmazFilmler[kekikan]",
         "description": "[01.08.2025] Yıllar geçse bile izledikten sonraki etkisi hala süren o unutulmaz filmleri sizler için derliyoruz. Altyazılı film izle. Sadece En iyi filmler.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/UnutulmazFilmler.cs3",
@@ -2281,7 +2281,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 22851,
+        "fileSize": 20516,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2290,7 +2290,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "HDFilmSitesi[nikstream]",
         "description": "[01.08.2025] Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmSitesi.cs3",
