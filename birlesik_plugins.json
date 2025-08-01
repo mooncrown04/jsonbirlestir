@@ -2290,7 +2290,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "HDFilmSitesi[nikstream]",
         "description": "[01.08.2025] Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmSitesi.cs3",
