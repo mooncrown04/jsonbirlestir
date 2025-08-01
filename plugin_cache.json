@@ -905,7 +905,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18454,
+        "fileSize": 19773,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -915,7 +915,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 13,
+        "version": 16,
         "internalName": "SuperFilmGeldi[nikstream]",
         "description": "[01.08.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -1040,7 +1040,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 27053,
+        "fileSize": 30573,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1050,7 +1050,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 45,
+        "version": 48,
         "internalName": "WebteIzle[nikstream]",
         "description": "[01.08.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -1798,7 +1798,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14279,
+        "fileSize": 14278,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1807,7 +1807,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "Sinezy[kekikan]",
         "description": "[01.08.2025] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Sinezy.cs3",
