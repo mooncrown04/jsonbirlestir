@@ -116,11 +116,6 @@ for url, kaynak_adi in plugin_urls.items():
 
             # Açıklama yönetimi
             if current_source_hash != previous_cached_hash:
-            print(f"*** FARK TESPİT EDİLDİ: '{plugin_id}' ***")
-            print("--- Önceki (Cache) Verisi ---")
-            print(json.dumps(previous_cached_plugin, indent=4, ensure_ascii=False))
-            print("--- Yeni (Kaynak) Verisi ---")
-            print(json.dumps(plugin, indent=4, ensure_ascii=False))
                 # Plugin değişti veya yeni, açıklamayı bugünkü tarihle güncelle
                 print(f"🆕 Değişiklik algılandı: {plugin_id} - Açıklama güncelleniyor.")
                 plugin["description"] = f"[{bugun_tarih}] {description_for_hash}"
