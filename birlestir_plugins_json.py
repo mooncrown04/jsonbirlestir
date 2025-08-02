@@ -62,13 +62,14 @@ for url, kaynak_adi in plugin_urls.items():
             source_description = plugin.get("description", "").strip()
             
             # Hash hesaplaması için açıklamayı tarih etiketinden temizle
+            # Bu, gereksiz değişiklik algılamasını önler.
             description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", source_description).strip()
 
-            # Mevcut plugin için hash hesapla (açıklama ve diğer hariç tutulan alanlar temizlenmiş haliyle)
+            # Mevcut plugin için hash hesapla
             current_plugin_copy_for_hash = dict(plugin)
             current_plugin_copy_for_hash["description"] = description_for_hash
-            for remove_field in ["fileSize", "status"]:
-                current_plugin_copy_for_hash.pop(remove_field, None)
+            # NOT: Bu kısımdaki "for" döngüsü kaldırıldı.
+            # Artık 'fileSize', 'status', 'apiVersion' ve diğer tüm alanlar hash'e dahil edilecek.
             
             try:
                 current_plugin_str_for_hash = json.dumps(current_plugin_copy_for_hash, sort_keys=True, ensure_ascii=False)
@@ -85,8 +86,8 @@ for url, kaynak_adi in plugin_urls.items():
                 cached_description_for_hash = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", previous_cached_plugin.get("description", "")).strip()
                 cached_plugin_copy_for_hash = dict(previous_cached_plugin)
                 cached_plugin_copy_for_hash["description"] = cached_description_for_hash
-                for remove_field in ["fileSize", "status"]:
-                    cached_plugin_copy_for_hash.pop(remove_field, None)
+                # NOT: Bu kısımdaki "for" döngüsü de kaldırıldı.
+                # Önbelleklenmiş plugin için de tüm alanlar hash'e dahil edilecek.
                 
                 try:
                     cached_plugin_str_for_hash = json.dumps(cached_plugin_copy_for_hash, sort_keys=True, ensure_ascii=False)
