@@ -1140,7 +1140,7 @@
         "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21762,
+        "fileSize": 21648,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1150,7 +1150,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "Animeler[kekikan]",
         "description": "[06.08.2025] HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Animeler.cs3",
