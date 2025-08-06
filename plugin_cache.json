@@ -1119,7 +1119,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 24044,
+        "fileSize": 23974,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1130,7 +1130,7 @@
             "Anime",
             "Ova"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "AnimeIzlesene[kekikan]",
         "description": "[06.08.2025] Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AnimeIzlesene.cs3",
@@ -1216,16 +1216,17 @@
         "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 13605,
+        "fileSize": 14363,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor"
+            "kraptor",
+            "kerimmkirac"
         ],
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "AsyaFanatiklerim[kekikan]",
         "description": "[06.08.2025] Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaFanatiklerim.cs3",
