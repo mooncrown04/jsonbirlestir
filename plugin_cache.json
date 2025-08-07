@@ -1061,7 +1061,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30572,
+        "fileSize": 30573,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1311,7 +1311,7 @@
         "iconUrl": "https://cizgivedizi.com/Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 33480,
+        "fileSize": 33433,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1320,7 +1320,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "CizgiveDizi[kekikan]",
         "description": "[07.08.2025] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiveDizi.cs3",
