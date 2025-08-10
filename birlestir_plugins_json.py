@@ -15,23 +15,24 @@ plugin_urls = {
     "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json": "nikstream"
 }
 
-# Önceki içeriklerin hash'lerini saklayan cache dosyası
 CACHE_FILE = "plugin_cache.json"
 MERGED_PLUGINS_FILE = "birlesik_plugins.json"
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
-# Önceki önbelleklenmiş plugin verilerini yükle (tam objeler)
 previous_cached_plugins_data = {}
 if os.path.exists(CACHE_FILE):
     try:
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
             cached_list = json.load(f)
-            previous_cached_plugins_data = {p.get("id") or p.get("internalName"): p for p in cached_list}
+            # Önbellekteki verileri kaynak_adi ile birlikte anahtarla
+            previous_cached_plugins_data = {
+                f"{p.get('id') or p.get('internalName')}-{p.get('kaynak', 'bilinmiyor')}": p
+                for p in cached_list
+            }
         print(f"✅ Cache dosyası '{CACHE_FILE}' başarıyla yüklendi. Toplam önbelleklenmiş plugin: {len(previous_cached_plugins_data)}")
-    except json.JSONDecodeError:
-        print(f"⚠️ {CACHE_FILE} bozuk veya geçersiz JSON içeriyor. Yeniden oluşturulacak.")
-    except Exception as e:
-        print(f"❌ Cache dosyası yüklenirken beklenmeyen hata: {e}")
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"⚠️ Cache dosyası '{CACHE_FILE}' okunurken bir sorun oluştu ({e}). Yeni bir tane oluşturulacak.")
+        previous_cached_plugins_data = {}
 else:
     print(f"ℹ️ Cache dosyası '{CACHE_FILE}' bulunamadı. Yeni bir tane oluşturulacak.")
 
@@ -90,57 +91,45 @@ for url, kaynak_adi in plugin_urls.items():
                 print(f"⚠️ 'id' veya 'internalName' yok, atlandı → {plugin}")
                 continue
 
-            if plugin_id in birlesik_plugins:
-                current_merged_plugin = birlesik_plugins[plugin_id]
-                current_merged_version = current_merged_plugin.get("version", "0.0.0")
-                incoming_version = plugin.get("version", "0.0.0")
+            # Plugin'in kaynağını belirleyen benzersiz bir anahtar oluştur
+            unique_key = f"{plugin_id}-{kaynak_adi}"
 
-                if compare_versions(incoming_version, current_merged_version) <= 0:
-                    print(f"⏩ {plugin_id} için daha yeni bir versiyon mevcut. Bu plugin atlanıyor.")
-                    continue
+            # Plugin objesine kaynak_adi'ni ekle
+            plugin["kaynak"] = kaynak_adi
 
-                print(f"🔄 {plugin_id} için daha yeni versiyon ({incoming_version}) bulundu. Eski versiyon ({current_merged_version}) güncelleniyor.")
-
-            # Hata olmadığından emin olmak için try/except bloklarına aldım
-            try:
-                # Mevcut plugin için hash hesapla (açıklama hariç)
-                current_source_hash = create_stable_hash(plugin)
-
-                # Önbellekteki plugin için hash hesapla (varsa)
-                previous_cached_plugin = previous_cached_plugins_data.get(plugin_id)
-                previous_cached_hash = None
-                if previous_cached_plugin:
-                    previous_cached_hash = create_stable_hash(previous_cached_plugin)
+            # İsimlere kaynak etiketi ekle
+            kaynak_tag = f"[{kaynak_adi}]"
+            plugin_name = plugin.get("name") or plugin.get("internalName")
+            if plugin_name and kaynak_tag not in plugin_name:
+                plugin["name"] = f"{plugin_name}{kaynak_tag}"
                 
-                # İsimlere kaynak etiketi ekle
-                kaynak_tag = f"[{kaynak_adi}]"
-                plugin_name = plugin.get("name") or plugin.get("internalName")
-                if plugin_name and kaynak_tag not in plugin_name:
-                    plugin["name"] = f"{plugin_name}{kaynak_tag}"
-
+            try:
+                current_source_hash = create_stable_hash(plugin)
+                previous_cached_plugin = previous_cached_plugins_data.get(unique_key)
+                previous_cached_hash = create_stable_hash(previous_cached_plugin) if previous_cached_plugin else None
+                
                 # Açıklama yönetimi
                 if current_source_hash != previous_cached_hash:
-                    # Plugin'in kararlı içeriği değişti veya yeni, açıklamayı bugünün tarihiyle güncelle
-                    print(f"🆕 Değişiklik veya yeni plugin algılandı: {plugin_id} - Açıklama güncelleniyor.")
+                    # Plugin değişti veya yeni, açıklamayı bugünün tarihiyle güncelle
+                    print(f"🆕 Değişiklik veya yeni plugin algılandı: {plugin_id} ({kaynak_adi}) - Açıklama güncelleniyor.")
                     source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                     plugin["description"] = f"[{bugun_tarih}] {source_description}"
                 else:
-                    # Plugin'in kararlı içeriği değişmedi, önceki önbelleklenmiş listeden açıklamasını al
+                    # Plugin değişmedi, önbellekteki açıklamayı kullan
                     if previous_cached_plugin:
                         plugin["description"] = previous_cached_plugin.get("description", "")
-                        print(f"✅ Değişiklik yok: {plugin_id} - Önceki açıklama korunuyor.")
+                        print(f"✅ Değişiklik yok: {plugin_id} ({kaynak_adi}) - Önceki açıklama korunuyor.")
                     else:
-                        # Bu durum, cache dosyası yoksa veya plugin_id ilk kez işleniyorsa ortaya çıkar.
-                        # Yeni bir plugin için sadece tarih ekle
+                        print(f"⚠️ {plugin_id} ({kaynak_adi}) için hashler eşit olmasına rağmen önbellek yok. Açıklama güncelleniyor.")
                         source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                         plugin["description"] = f"[{bugun_tarih}] {source_description}"
-                        print(f"ℹ️ Yeni plugin (önbelleklenmiş listede yok): {plugin_id} - Açıklama güncelleniyor.")
+
 
             except Exception as e:
-                print(f"❌ Plugin '{plugin_id}' işlenirken hata oluştu: {e}. Bu plugin atlandı.")
+                print(f"❌ Plugin '{plugin_id}' ({kaynak_adi}) işlenirken hata oluştu: {e}. Bu plugin atlandı.")
                 continue
 
-            birlesik_plugins[plugin_id] = plugin
+            birlesik_plugins[unique_key] = plugin
 
     except requests.exceptions.RequestException as e:
         print(f"❌ {url} indirilirken ağ hatası oluştu: {e}")
