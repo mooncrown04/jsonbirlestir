@@ -1737,7 +1737,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 45028,
+        "fileSize": 45031,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1747,7 +1747,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 38,
+        "version": 39,
         "internalName": "DiziPalOrijinal[kekikan]",
         "description": "[11.08.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPalOrijinal.cs3",
@@ -1778,7 +1778,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 22254,
+        "fileSize": 23255,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1788,7 +1788,7 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "DiziWatch[kekikan]",
         "description": "[11.08.2025] Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziWatch.cs3",
@@ -1922,7 +1922,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 23510,
+        "fileSize": 25298,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1935,7 +1935,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 36,
+        "version": 37,
         "internalName": "FilmMakinesi[kekikan]",
         "description": "[11.08.2025] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmMakinesi.cs3",
@@ -2068,7 +2068,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 31348,
+        "fileSize": 33049,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2080,7 +2080,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 51,
+        "version": 52,
         "internalName": "HDFilmCehennemi[kekikan]",
         "description": "[11.08.2025] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmCehennemi.cs3",
@@ -2257,7 +2257,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 20788,
+        "fileSize": 20786,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2271,7 +2271,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 82,
+        "version": 83,
         "internalName": "RecTV[kekikan]",
         "description": "[11.08.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/RecTV.cs3",
