@@ -97,12 +97,18 @@ for url, kaynak_adi in plugin_urls.items():
             # Plugin objesine kaynak_adi'ni ekle
             plugin["kaynak"] = kaynak_adi
 
-            # İsimlere kaynak etiketi ekle
             kaynak_tag = f"[{kaynak_adi}]"
+
+            # İsimlere kaynak etiketi ekle
             plugin_name = plugin.get("name") or plugin.get("internalName")
             if plugin_name and kaynak_tag not in plugin_name:
                 plugin["name"] = f"{plugin_name}{kaynak_tag}"
-                
+            
+            # internalName'e kaynak etiketi ekle
+            internal_name = plugin.get("internalName")
+            if internal_name and kaynak_tag not in internal_name:
+                plugin["internalName"] = f"{internal_name}{kaynak_tag}"
+            
             try:
                 current_source_hash = create_stable_hash(plugin)
                 previous_cached_plugin = previous_cached_plugins_data.get(unique_key)
@@ -123,7 +129,6 @@ for url, kaynak_adi in plugin_urls.items():
                         print(f"⚠️ {plugin_id} ({kaynak_adi}) için hashler eşit olmasına rağmen önbellek yok. Açıklama güncelleniyor.")
                         source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                         plugin["description"] = f"[{bugun_tarih}] {source_description}"
-
 
             except Exception as e:
                 print(f"❌ Plugin '{plugin_id}' ({kaynak_adi}) işlenirken hata oluştu: {e}. Bu plugin atlandı.")
