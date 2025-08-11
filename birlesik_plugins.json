@@ -2068,7 +2068,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 31243,
+        "fileSize": 31348,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2080,7 +2080,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 49,
+        "version": 51,
         "internalName": "HDFilmCehennemi[kekikan]",
         "description": "[11.08.2025] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmCehennemi.cs3",
@@ -2657,6 +2657,26 @@
         "description": "[11.08.2025] YTS Movies 4K Support (Torrent)",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.cs3",
         "name": "YTS[kekikan]",
+        "kaynak": "kekikan"
+    },
+    {
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "apiVersion": 1,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Anizium[kekikan]",
+        "description": "[11.08.2025] Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+        "url": "https://github.com/Kraptor123/cs-kekikanime/raw/refs/heads/builds/Anizium.cs3",
+        "name": "Anizium[kekikan]",
+        "iconUrl": "https://anizium.co/assets/images/logo.png",
         "kaynak": "kekikan"
     },
     {
