@@ -1821,7 +1821,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14485,
+        "fileSize": 14451,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1830,7 +1830,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "DiziYou[kekikan]",
         "description": "[13.08.2025] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
