@@ -1882,7 +1882,7 @@
         "iconUrl": "https://filmizle.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 22085,
+        "fileSize": 22094,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1891,7 +1891,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "FilmIzle[kekikan]",
         "description": "[14.08.2025] Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzle.cs3",
