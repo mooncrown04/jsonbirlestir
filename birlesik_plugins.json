@@ -4010,26 +4010,6 @@
         "kaynak": "nikstream"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18235,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Sakultah"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "TRGoals[nikstream]",
-        "description": "[14.08.2025] TRGoals",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TRGoals.cs3",
-        "name": "TRGoals[nikstream]",
-        "kaynak": "nikstream"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
