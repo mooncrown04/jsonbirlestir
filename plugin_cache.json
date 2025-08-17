@@ -2595,25 +2595,6 @@
         "kaynak": "makoto"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 14,
-        "internalName": "DiziPal[makoto]",
-        "description": "[17.08.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
-        "name": "DiziPal[makoto]",
-        "kaynak": "makoto"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
@@ -2672,26 +2653,6 @@
         "description": "[17.08.2025] Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
         "name": "YerelDiziler[makoto]",
-        "kaynak": "makoto"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "DDizi[makoto]",
-        "description": "[17.08.2025] DDizi içeriklerine bu eklenti sayesinde erişebilirsiniz",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DDizi.cs3",
-        "name": "DDizi[makoto]",
         "kaynak": "makoto"
     },
     {
@@ -2772,27 +2733,6 @@
         "description": "[17.08.2025] Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
         "name": "TorrentFilm[makoto]",
-        "kaynak": "makoto"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 8,
-        "internalName": "Dizilla[makoto]",
-        "description": "[17.08.2025] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Dizilla.cs3",
-        "name": "Dizilla[makoto]",
         "kaynak": "makoto"
     },
     {
