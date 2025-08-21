@@ -499,7 +499,7 @@
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20719,
+        "fileSize": 20717,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -513,7 +513,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 83,
+        "version": 84,
         "internalName": "RecTV[feroxx]",
         "description": "[21.08.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
