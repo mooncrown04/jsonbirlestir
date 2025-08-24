@@ -119,9 +119,10 @@ for url, kaynak_adi in plugin_urls.items():
                     # Bu blok teorik olarak çalışmamalı ama bir hata durumunda koruma amaçlı
                     source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                     plugin["description"] = f"[{bugun_tarih}] {source_description}"
-
-
+            
+            # birlesik_plugins sözlüğüne eklentiyi ekle
             birlesik_plugins[unique_key] = plugin
+
 
     except requests.exceptions.RequestException as e:
         print(f"❌ {url} indirilirken ağ hatası oluştu: {e}")
@@ -130,10 +131,6 @@ for url, kaynak_adi in plugin_urls.items():
     except Exception as e:
         print(f"❌ {url} işlenirken beklenmeyen hata oluştu: {e}")
 
-# Diğer kaynaklardaki eklentileri de eklemek için döngüden sonra birleştirme
-for unique_key, plugin in birlesik_plugins.items():
-    birlesik_plugins[unique_key] = plugin
-    
 birlesik_liste = list(birlesik_plugins.values())
 with open(MERGED_PLUGINS_FILE, "w", encoding="utf-8") as f:
     json.dump(birlesik_liste, f, indent=4, ensure_ascii=False)
@@ -143,13 +140,3 @@ with open(CACHE_FILE, "w", encoding="utf-8") as f:
 
 print(f"\n✅ {len(birlesik_liste)} plugin başarıyla birleştirildi → {MERGED_PLUGINS_FILE}")
 print(f"✅ Önbellek dosyası '{CACHE_FILE}' güncellendi.")
-
----
-
-### Kodda Yapılan Temel Değişiklikler
-
-* **Daha Doğrudan Karşılaştırma**: `create_stable_hash` yerine, `current_version != cached_version` gibi daha doğrudan bir sürüm karşılaştırması eklenmiştir. Hashleme mantığı da korunarak, sürüm dışında değişen bir şey olduğunda da güncellemeyi sağlar.
-* **Açıklama Yönetiminde İyileştirme**: `is_new_or_updated` adında bir bayrak (`flag`) kullanılarak, açıklama güncelleme mantığı daha okunabilir hale getirilmiştir. Bu bayrak, sadece yeni bir eklenti geldiğinde veya mevcut bir eklentinin sürümü değiştiğinde `True` olur ve tarih güncellemesi yapılır.
-* **Hata Kontrolü**: `previous_cached_plugin`'in varlığına yönelik kontroller güçlendirilerek, olası `NoneType` hatalarının önüne geçilmiştir.
-
-Bu değişiklikler, betiğinizin daha istikrarlı çalışmasını ve açıklamaların sadece gerektiğinde güncellenmesini sağlayacaktır. Bu yaklaşım, sadece versiyon numarası kontrolü değil, aynı zamanda yeni eklenen eklentileri de doğru bir şekilde yakalamanızı garantiler.
