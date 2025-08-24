@@ -120,9 +120,7 @@ for url, kaynak_adi in plugin_urls.items():
                     source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                     plugin["description"] = f"[{bugun_tarih}] {source_description}"
             
-            # birlesik_plugins sözlüğüne eklentiyi ekle
             birlesik_plugins[unique_key] = plugin
-
 
     except requests.exceptions.RequestException as e:
         print(f"❌ {url} indirilirken ağ hatası oluştu: {e}")
