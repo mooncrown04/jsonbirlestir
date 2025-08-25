@@ -4,7 +4,7 @@ import hashlib
 from datetime import datetime
 import os
 import re
-# "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json": "kekikan",
+# https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json
 # Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
 plugin_urls = {
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
