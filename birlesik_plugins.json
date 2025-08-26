@@ -2442,7 +2442,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.org/&size=48",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 14151,
+        "fileSize": 14149,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2451,7 +2451,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "Sinezy[Kraptor]",
         "description": "[26.08.2025] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
@@ -2462,7 +2462,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18611,
+        "fileSize": 18614,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2472,7 +2472,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "SuperFilmGeldi[Kraptor]",
         "description": "[26.08.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SuperFilmGeldi.cs3",
