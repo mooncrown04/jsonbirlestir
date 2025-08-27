@@ -1260,7 +1260,7 @@
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31961,
+        "fileSize": 32100,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1269,7 +1269,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "Anizm[Kraptor]",
         "description": "[27.08.2025] Türkçe Altyazılı Anime İzle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizm.cs3",
@@ -2179,7 +2179,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 133890,
+        "fileSize": 134908,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2193,7 +2193,7 @@
             "AsianDrama",
             "AnimeMovie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Kraptor+[Kraptor]",
         "description": "[27.08.2025] Kaliteli kaynakları ile birlikte Kraptor+ eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Kraptor+.cs3",
