@@ -1402,18 +1402,16 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 21761,
+        "fileSize": 21948,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "JustRelaxable",
             "Kraptor"
         ],
         "tvTypes": [
             "Documentary"
         ],
-        "version": 14,
+        "version": 16,
         "internalName": "BelgeselX[Kraptor]",
         "description": "[29.08.2025] En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
@@ -1790,7 +1788,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 43,
+        "version": 44,
         "internalName": "DiziPalOrijinal[Kraptor]",
         "description": "[29.08.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
