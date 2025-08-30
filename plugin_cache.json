@@ -1778,7 +1778,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 48574,
+        "fileSize": 48579,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1788,7 +1788,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "DiziPalOrijinal[Kraptor]",
         "description": "[30.08.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -1840,7 +1840,7 @@
         "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 44675,
+        "fileSize": 44677,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1851,7 +1851,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "DiziYo[Kraptor]",
         "description": "[30.08.2025] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
@@ -2396,7 +2396,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 13901,
+        "fileSize": 13904,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2405,7 +2405,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "SinemaCX[Kraptor]",
         "description": "[30.08.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
