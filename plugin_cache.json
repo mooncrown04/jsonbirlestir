@@ -3346,7 +3346,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30573,
+        "fileSize": 30574,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3356,7 +3356,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "DiziMom[nikstream]",
         "description": "[01.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMom.cs3",
@@ -3389,7 +3389,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14523,
+        "fileSize": 14522,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3399,7 +3399,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "DiziYou[nikstream]",
         "description": "[01.09.2025] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
@@ -3916,7 +3916,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14647,
+        "fileSize": 14645,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3926,7 +3926,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "SinemaCX[nikstream]",
         "description": "[01.09.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SinemaCX.cs3",
@@ -3969,7 +3969,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "SuperFilmGeldi[nikstream]",
         "description": "[01.09.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SuperFilmGeldi.cs3",
