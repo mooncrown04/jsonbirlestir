@@ -1760,16 +1760,15 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
+            "Kraptor"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 46,
+        "version": 47,
         "internalName": "DiziPal[Kraptor]",
-        "description": "[03.09.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "description": "[03.09.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
         "name": "DiziPal[Kraptor]",
         "kaynak": "Kraptor"
@@ -1891,7 +1890,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "FilmEkseni[Kraptor]",
         "description": "[03.09.2025] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
