@@ -1890,7 +1890,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "FilmEkseni[Kraptor]",
         "description": "[04.09.2025] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
@@ -3636,7 +3636,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 28651,
+        "fileSize": 28660,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3648,7 +3648,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 35,
+        "version": 36,
         "internalName": "HDFilmCehennemi[nikstream]",
         "description": "[04.09.2025] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -3956,7 +3956,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14645,
+        "fileSize": 14644,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3966,7 +3966,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "SinemaCX[nikstream]",
         "description": "[04.09.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SinemaCX.cs3",
@@ -3999,7 +3999,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 19773,
+        "fileSize": 19771,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -4009,7 +4009,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "SuperFilmGeldi[nikstream]",
         "description": "[04.09.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SuperFilmGeldi.cs3",
