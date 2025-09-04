@@ -187,7 +187,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19439,
+        "fileSize": 19441,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -198,7 +198,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "DiziPal[feroxx]",
         "description": "[04.09.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
