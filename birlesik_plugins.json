@@ -2218,6 +2218,26 @@
         "kaynak": "Kraptor"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/builds/kraptortv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 20425,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "kerimmkirac"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "KraptorTV[Kraptor]",
+        "description": "[04.09.2025] KraptorTV ile legal ve güvenli bir şekilde canlı yayın izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorTV.cs3",
+        "name": "KraptorTV[Kraptor]",
+        "kaynak": "Kraptor"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -3366,7 +3386,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 26506,
+        "fileSize": 26509,
         "status": 1,
         "language": "tr",
         "authors": [
