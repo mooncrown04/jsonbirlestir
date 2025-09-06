@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30900,
+        "fileSize": 30902,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "DiziMom[feroxx]",
         "description": "[06.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -290,7 +290,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14876,
+        "fileSize": 14879,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -299,7 +299,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "FilmModu[feroxx]",
         "description": "[06.09.2025] Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmModu.cs3",
@@ -595,7 +595,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "SuperFilmGeldi[feroxx]",
         "description": "[06.09.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
@@ -1881,7 +1881,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 20586,
+        "fileSize": 20574,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1890,7 +1890,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "FilmEkseni[Kraptor]",
         "description": "[06.09.2025] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
@@ -2521,7 +2521,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18615,
+        "fileSize": 18613,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2531,7 +2531,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "SuperFilmGeldi[Kraptor]",
         "description": "[06.09.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SuperFilmGeldi.cs3",
