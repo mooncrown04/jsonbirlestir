@@ -1239,7 +1239,7 @@
         "iconUrl": "https://anizium.co/assets/images/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31900,
+        "fileSize": 31905,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1249,7 +1249,7 @@
             "AnimeMovie",
             "Anime"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Anizium[Kraptor]",
         "description": "[08.09.2025] Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizium.cs3",
@@ -2243,7 +2243,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 35721,
+        "fileSize": 35734,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2253,11 +2253,11 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 2,
-        "internalName": "OpenAni[Kraptor]",
+        "version": 4,
+        "internalName": "OpenAnime[Kraptor]",
         "description": "[08.09.2025] Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAni.cs3",
-        "name": "OpenAni[Kraptor]",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
+        "name": "OpenAnime[Kraptor]",
         "kaynak": "Kraptor"
     },
     {
