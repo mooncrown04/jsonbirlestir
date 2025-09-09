@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30902,
+        "fileSize": 30897,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 23,
+        "version": 25,
         "internalName": "DiziMom[feroxx]",
         "description": "[09.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -187,7 +187,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19441,
+        "fileSize": 19442,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -198,7 +198,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "DiziPal[feroxx]",
         "description": "[09.09.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -249,7 +249,7 @@
         "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14725,
+        "fileSize": 14719,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -258,7 +258,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "FilmBip[feroxx]",
         "description": "[09.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmBip.cs3",
@@ -499,7 +499,7 @@
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20719,
+        "fileSize": 20718,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -513,7 +513,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 86,
+        "version": 87,
         "internalName": "RecTV[feroxx]",
         "description": "[09.09.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -2196,7 +2196,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 137469,
+        "fileSize": 142864,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2210,7 +2210,7 @@
             "AsianDrama",
             "AnimeMovie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Kraptor+[Kraptor]",
         "description": "[09.09.2025] Kaliteli kaynakları ile birlikte Kraptor+ eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Kraptor+.cs3",
