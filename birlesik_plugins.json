@@ -310,7 +310,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18179,
+        "fileSize": 18195,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -320,7 +320,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 32,
+        "version": 33,
         "internalName": "FullHDFilm[feroxx]",
         "description": "[16.09.2025] Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilm.cs3",
@@ -3261,7 +3261,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18451,
+        "fileSize": 18321,
         "status": 1,
         "language": "tr",
         "authors": [
