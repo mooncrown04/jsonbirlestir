@@ -1694,7 +1694,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 52436,
+        "fileSize": 52480,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1705,7 +1705,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 52,
+        "version": 54,
         "internalName": "Dizilla[Kraptor]",
         "description": "[16.09.2025] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
@@ -1736,7 +1736,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 30411,
+        "fileSize": 30408,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1745,7 +1745,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "DiziMom[Kraptor]",
         "description": "[16.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
@@ -1756,7 +1756,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18116,
+        "fileSize": 18117,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1766,7 +1766,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 48,
+        "version": 49,
         "internalName": "DiziPal[Kraptor]",
         "description": "[16.09.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
@@ -3131,10 +3131,10 @@
         "kaynak": "makoto"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1204.com&sz=32",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1205.com&sz=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-        "fileSize": 20396,
+        "fileSize": 20397,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3144,7 +3144,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 41,
+        "version": 42,
         "internalName": "DiziPal[sarapcanagii]",
         "description": "[16.09.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
