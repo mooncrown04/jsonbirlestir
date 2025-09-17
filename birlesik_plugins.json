@@ -1777,7 +1777,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 48131,
+        "fileSize": 48128,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1787,7 +1787,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 50,
+        "version": 51,
         "internalName": "DiziPalOrijinal[Kraptor]",
         "description": "[17.09.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
