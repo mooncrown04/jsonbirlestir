@@ -1839,7 +1839,7 @@
         "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 44677,
+        "fileSize": 44679,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1850,7 +1850,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 28,
+        "version": 29,
         "internalName": "DiziYo[Kraptor]",
         "description": "[19.09.2025] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
