@@ -3261,7 +3261,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18321,
+        "fileSize": 18449,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3347,7 +3347,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18636,
+        "fileSize": 18628,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3356,7 +3356,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "DiziGom[nikstream]",
         "description": "[21.09.2025] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziGom.cs3",
@@ -3450,7 +3450,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 19208,
+        "fileSize": 19206,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3461,7 +3461,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 41,
+        "version": 42,
         "internalName": "DiziPal[nikstream]",
         "description": "[21.09.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -3977,7 +3977,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 22617,
+        "fileSize": 22618,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3988,7 +3988,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "SezonlukDizi[nikstream]",
         "description": "[21.09.2025] Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SezonlukDizi.cs3",
@@ -4184,7 +4184,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30572,
+        "fileSize": 30571,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -4194,7 +4194,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 56,
+        "version": 57,
         "internalName": "WebteIzle[nikstream]",
         "description": "[21.09.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
