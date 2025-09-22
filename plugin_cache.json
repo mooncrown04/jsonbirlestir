@@ -1504,7 +1504,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 21920,
+        "fileSize": 21914,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1515,7 +1515,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DiziGom[Kraptor]",
         "description": "[22.09.2025] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
@@ -1611,7 +1611,7 @@
         "iconUrl": "https://dizimag.me/uploads/logo/original/logo-5063.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29556,
+        "fileSize": 29557,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1620,7 +1620,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 27,
+        "version": 28,
         "internalName": "DiziMag[Kraptor]",
         "description": "[22.09.2025] En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
