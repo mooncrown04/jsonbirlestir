@@ -1483,7 +1483,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifun4.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 17971,
+        "fileSize": 17970,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1493,7 +1493,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "DiziFun[Kraptor]",
         "description": "[22.09.2025] Her Dizi Bir Macera, Her An Bir Keşif!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziFun.cs3",
@@ -1631,7 +1631,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 30408,
+        "fileSize": 30412,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1640,7 +1640,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "DiziMom[Kraptor]",
         "description": "[22.09.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
