@@ -743,268 +743,6 @@
         "kaynak": "feroxx"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 19020,
-        "status": 1,
-        "language": "de",
-        "authors": [
-            "GitLatte",
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 4,
-        "internalName": "Aniworld MC - Latte[Latte]",
-        "description": "[24.09.2025] Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Aniworld MC - Latte.cs3",
-        "name": "Aniworld MC - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://www.ddizi.im/images/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 23749,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "DDizi - Latte[Latte]",
-        "description": "[24.09.2025] Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - Latte.cs3",
-        "name": "DDizi - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://dizifun3.com/images/data/darklogo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 24355,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "DiziFun - Latte[Latte]",
-        "description": "[24.09.2025] Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun - Latte.cs3",
-        "name": "DiziFun - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 27666,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "GoFilmIzle - Latte[Latte]",
-        "description": "[24.09.2025] GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
-        "name": "GoFilmIzle - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 26613,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "KICK Türkiye - Latte[Latte]",
-        "description": "[24.09.2025] Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KICK Türkiye - Latte.cs3",
-        "name": "KICK Türkiye - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 19932,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "GitLatte",
-            "patr0nq",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "myway TV - Latte[Latte]",
-        "description": "[24.09.2025] Sinetech.tr Forum myway canlı tv listesi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - Latte.cs3",
-        "name": "myway TV - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 23377,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "Müzik TV ve Radyo - Latte[Latte]",
-        "description": "[24.09.2025] Müzik Kanallarına özel canlı tv eklentisidir.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Müzik TV ve Radyo - Latte.cs3",
-        "name": "Müzik TV ve Radyo - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 34237,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 6,
-        "internalName": "powerboard Dizi - Latte[Latte]",
-        "description": "[24.09.2025] powerboard`un yabancı dizi arşivi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Dizi - Latte.cs3",
-        "name": "powerboard Dizi - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 29254,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "powerboard Sinema - Latte[Latte]",
-        "description": "[24.09.2025] powerboard`un sinema arşivi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
-        "name": "powerboard Sinema - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 20365,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "Tv Bahçesi - Latte[Latte]",
-        "description": "[24.09.2025] TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Tv Bahçesi - Latte.cs3",
-        "name": "Tv Bahçesi - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=2.1.8",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 32680,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Podcast",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 3,
-        "internalName": "WebDramaTurkey - Latte[Latte]",
-        "description": "[24.09.2025] Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
-        "name": "WebDramaTurkey - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 13644,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "YouTube Özel - Latte[Latte]",
-        "description": "[24.09.2025] Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - Latte.cs3",
-        "name": "YouTube Özel - Latte[Latte]",
-        "kaynak": "Latte"
-    },
-    {
         "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -1651,7 +1389,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal953.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18120,
+        "fileSize": 18117,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1661,7 +1399,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 50,
+        "version": 51,
         "internalName": "DiziPal[Kraptor]",
         "description": "[24.09.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
@@ -2116,7 +1854,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 21766,
+        "fileSize": 21753,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2127,7 +1865,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "KultFilmler[Kraptor]",
         "description": "[24.09.2025] Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
@@ -2311,7 +2049,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29082,
+        "fileSize": 29008,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2321,7 +2059,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "SezonlukDizi[Kraptor]",
         "description": "[24.09.2025] Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
@@ -2584,7 +2322,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 26871,
+        "fileSize": 26844,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2594,7 +2332,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "WebteIzle[Kraptor]",
         "description": "[24.09.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
@@ -3409,7 +3147,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 19949,
+        "fileSize": 19950,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3419,7 +3157,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "FilmIzleIlk[nikstream]",
         "description": "[24.09.2025] Filmizleilk.com Yerli ve Yabancı en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmIzleIlk.cs3",
