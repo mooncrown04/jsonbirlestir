@@ -416,7 +416,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 12242,
+        "fileSize": 12240,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -425,7 +425,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "KoreanTurk[feroxx]",
         "description": "[26.09.2025] Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/KoreanTurk.cs3",
@@ -595,7 +595,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "SuperFilmGeldi[feroxx]",
         "description": "[26.09.2025] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SuperFilmGeldi.cs3",
