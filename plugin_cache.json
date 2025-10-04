@@ -1672,7 +1672,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 48125,
+        "fileSize": 48126,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1682,7 +1682,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 55,
+        "version": 56,
         "internalName": "DiziPalOrijinal[Kraptor]",
         "description": "[04.10.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -2026,7 +2026,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29016,
+        "fileSize": 28991,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -2039,7 +2039,7 @@
             "TvSeries",
             "Live"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "InatBox[Kraptor]",
         "description": "[04.10.2025] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
@@ -2214,7 +2214,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 90,
+        "version": 92,
         "internalName": "RecTV[Kraptor]",
         "description": "[04.10.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
