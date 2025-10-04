@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30903,
+        "fileSize": 30895,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "DiziMom[feroxx]",
         "description": "[04.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -1611,7 +1611,7 @@
         "iconUrl": "https://dizimag.me/uploads/logo/original/logo-5063.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29555,
+        "fileSize": 29552,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1620,7 +1620,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "DiziMag[Kraptor]",
         "description": "[04.10.2025] En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
@@ -2201,7 +2201,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 21947,
+        "fileSize": 20802,
         "status": 0,
         "language": "tr",
         "authors": [
@@ -2214,7 +2214,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 89,
+        "version": 90,
         "internalName": "RecTV[Kraptor]",
         "description": "[04.10.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
