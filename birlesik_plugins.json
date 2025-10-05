@@ -2039,7 +2039,7 @@
             "TvSeries",
             "Live"
         ],
-        "version": 25,
+        "version": 27,
         "internalName": "InatBox[Kraptor]",
         "description": "[05.10.2025] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
