@@ -1651,7 +1651,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18053,
+        "fileSize": 18052,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1661,7 +1661,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 52,
+        "version": 53,
         "internalName": "DiziPal[Kraptor]",
         "description": "[07.10.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
@@ -2027,20 +2027,22 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 28991,
+        "fileSize": 29006,
         "status": 3,
         "language": "tr",
         "authors": [
+            "Eagle",
+            "kerimmkirac",
+            "kraptor",
             "JustRelaxable",
-            "keyiflerolsun",
-            "kraptor"
+            "keyiflerolsun"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries",
             "Live"
         ],
-        "version": 27,
+        "version": 29,
         "internalName": "InatBox[Kraptor]",
         "description": "[07.10.2025] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
@@ -2648,7 +2650,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 10906,
+        "fileSize": 10908,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2660,7 +2662,7 @@
             "Music",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Youtube[Kraptor]",
         "description": "[07.10.2025] Youtube - sadece düşük kalite videolar desteklenir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
@@ -3053,10 +3055,10 @@
         "kaynak": "makoto"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1208.com&sz=32",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1209.com&sz=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-        "fileSize": 20393,
+        "fileSize": 20398,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3066,7 +3068,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "DiziPal[sarapcanagii]",
         "description": "[07.10.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
