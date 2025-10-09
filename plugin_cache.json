@@ -2141,7 +2141,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 76751,
+        "fileSize": 76753,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2152,7 +2152,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "MirrorVerse[Kraptor]",
         "description": "[09.10.2025] Netflix, Disney+ ve Primevideo içerikleri tek bir eklentide, türkçe dublaj ve altyazı desteğiyle birleşiyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
