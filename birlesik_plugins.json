@@ -1631,16 +1631,17 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 30667,
+        "fileSize": 31326,
         "status": 1,
         "language": "tr",
         "authors": [
+            "kraptor",
             "keyiflerolsun"
         ],
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 34,
+        "version": 36,
         "internalName": "DiziMom[Kraptor]",
         "description": "[12.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
@@ -2204,7 +2205,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29005,
+        "fileSize": 29416,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2216,7 +2217,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 89,
+        "version": 3,
         "internalName": "RecTV[Kraptor]",
         "description": "[12.10.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
