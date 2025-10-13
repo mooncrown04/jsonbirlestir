@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 import re
 
-# Birleştirilecek plugins.json URL listesi (URL: kaynak_adi)
+# Birleştirilecek plugins.json URL liste (URL: kaynak_adi)
 plugin_urls = {
     "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
     "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
