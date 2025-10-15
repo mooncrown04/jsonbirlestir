@@ -26,6 +26,7 @@ if os.path.exists(CACHE_FILE):
             cached_list = json.load(f)
             # Önbellekte, eklenti kimliği ve kaynak adını bir anahtar olarak kullanıyoruz
             previous_cached_plugins = {
+                # Benzersiz anahtar: (id/internalName, kaynak_adi)
                 (p.get('id') or p.get('internalName'), p.get('kaynak', 'bilinmiyor')): p
                 for p in cached_list
             }
@@ -38,21 +39,14 @@ else:
 
 birlesik_plugins = {}
 
-def create_stable_hash(plugin):
+def create_version_hash(plugin):
     """
-    Sadece eklentinin versiyonu gibi kararlı bilgilerini içeren bir hash oluşturur.
-    'description', 'fileSize', 'date' gibi değişken alanlar hariç tutulur.
+    Sadece eklentinin ID'si, kaynağı ve VERSION'ını içeren bir hash oluşturur.
+    Diğer alanlardaki değişiklikler (URL dahil) tarihi güncellemeyecektir.
     """
-    # Hash verisine ayrıca 'kaynak' adını da ekleyelim ki aynı id'ye sahip farklı kaynaklardaki
-    # eklentilerin farklı kabul edilmesi sağlansın.
     hash_data = {
-        "id": plugin.get("id"),
-        "internalName": plugin.get("internalName"),
+        "id": plugin.get("id") or plugin.get("internalName"),
         "version": plugin.get("version"),
-        "url": plugin.get("url"),
-        "lang": plugin.get("lang"),
-        "iconUrl": plugin.get("iconUrl"),
-        "status": plugin.get("status"),
         # 'kaynak' alanını da hash'e dahil et, bu benzersizliği garanti eder
         "kaynak": plugin.get("kaynak"), 
     }
@@ -93,34 +87,30 @@ for url, kaynak_adi in plugin_urls.items():
             if internal_name and kaynak_tag not in internal_name:
                 plugin["internalName"] = f"{internal_name}{kaynak_tag}"
 
-            # --- Sadece buradaki kontrol mantığı GÜNCELLENDİ ---
+            # --- Sadece buradaki kontrol mantığı GÜNCELLENDİ (Versiyon odaklı) ---
             is_new_or_updated = False
             
             # Eklenti önbellekte var mı?
             previous_cached_plugin = previous_cached_plugins.get(unique_key)
             
             if previous_cached_plugin:
-                # Eklenti önbellekte mevcut, kararlı hash'i karşılaştır
-                current_stable_hash = create_stable_hash(plugin)
-                # Önbellekteki eklentinin hash'i (veya tekrar hesaplanması)
-                # Not: Önbellekteki verinin kendisi, sadece 'description' alanı farklı olabileceği için
-                # önbelleğe kaydettiğiniz eklentiyi hashlemek daha güvenlidir.
-                cached_stable_hash = create_stable_hash(previous_cached_plugin) 
+                # Eklenti önbellekte mevcut, SADECE versiyon bazlı hash'i karşılaştır
+                current_hash = create_version_hash(plugin)
+                cached_hash = create_version_hash(previous_cached_plugin)
                 
-                # Kararlı hash değişmiş mi? (Yani versiyon, url vb. değişmiş mi?)
-                if current_stable_hash != cached_stable_hash:
+                # SADECE versiyon hash'i değişmiş mi?
+                if current_hash != cached_hash:
                     is_new_or_updated = True
                 else:
-                    # Hash değişmemişse (aynı eklenti/versiyon), eski açıklamayı koruyacağız
-                    # is_new_or_updated zaten False olarak kalacak
+                    # Versiyon aynıysa, eski açıklamayı koru
                     pass
             else:
                 # Eklenti yeni, önbellekte yok
                 is_new_or_updated = True
 
             if is_new_or_updated:
-                # Yeni veya kararlı bilgileri değişmişse açıklamayı bugünün tarihiyle güncelle
-                print(f"🆕 Kararlı bilgi değişikliği veya yeni plugin algılandı: {plugin_id} ({kaynak_adi}) - Açıklama güncelleniyor.")
+                # Yeni veya versiyonu değişmişse açıklamayı bugünün tarihiyle güncelle
+                print(f"🆕 Versiyon değişikliği veya yeni plugin algılandı: {plugin_id} ({kaynak_adi}) - Açıklama güncelleniyor.")
                 # Mevcut açıklamadan önceki tarihi temizle (varsa)
                 source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                 plugin["description"] = f"[{bugun_tarih}] {source_description}"
@@ -129,13 +119,13 @@ for url, kaynak_adi in plugin_urls.items():
                 if previous_cached_plugin:
                     # Sadece description alanını önbellekten al
                     plugin["description"] = previous_cached_plugin.get("description", "")
-                    print(f"✅ Kararlı değişiklik yok: {plugin_id} ({kaynak_adi}) - Önceki açıklama korunuyor.")
-                # Eğer önceki önbellek yoksa (teorik olarak bu blokta olmamalıyız)
+                    print(f"✅ Versiyon değişikliği yok: {plugin_id} ({kaynak_adi}) - Önceki açıklama korunuyor.")
+                # Eğer önceki önbellek yoksa (teorik olarak bu blokta olmamalıyız ama güvenlik amaçlı)
                 else:
-                    # Koruma amaçlı, yine de bir tarih ekleyelim
                     source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                     plugin["description"] = f"[{bugun_tarih}] {source_description}"
             
+            # Cache'e ve birleştirilmiş listeye eklentinin güncel halini kaydet
             birlesik_plugins[unique_key] = plugin
 
     except requests.exceptions.RequestException as e:
