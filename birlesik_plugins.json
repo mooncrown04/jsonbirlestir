@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30895,
+        "fileSize": 30904,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "DiziMom[feroxx]",
         "description": "[16.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
