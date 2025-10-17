@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30904,
+        "fileSize": 30902,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 31,
+        "version": 32,
         "internalName": "DiziMom[feroxx]",
         "description": "[17.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -396,7 +396,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16423,
+        "fileSize": 16427,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -405,7 +405,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 39,
+        "version": 40,
         "internalName": "JetFilmizle[feroxx]",
         "description": "[17.10.2025] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -2610,7 +2610,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 39037,
+        "fileSize": 40314,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2619,7 +2619,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "YabanciDizi[Kraptor]",
         "description": "[17.10.2025] Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
