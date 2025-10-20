@@ -1631,7 +1631,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31331,
+        "fileSize": 31330,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1641,7 +1641,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 38,
+        "version": 39,
         "internalName": "DiziMom[Kraptor]",
         "description": "[20.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
@@ -2442,7 +2442,7 @@
         "iconUrl": "https://www.trdiziizle.vip/fawn.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19153,
+        "fileSize": 19820,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2451,7 +2451,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 8,
+        "version": 10,
         "internalName": "TrDiziIzle[Kraptor]",
         "description": "[20.10.2025] Full hd ve tek parça hemde reklamsız yerli dizi izlemek mi istiyorsunuz? O halde bu site sorunsuz dizi izlemeniz için tam size göre",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrDiziIzle.cs3",
