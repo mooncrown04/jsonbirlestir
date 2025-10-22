@@ -1419,7 +1419,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 40464,
+        "fileSize": 40581,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1430,7 +1430,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "DiziAsya",
         "description": "[22.10.2025] Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
@@ -1567,7 +1567,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19099,
+        "fileSize": 19106,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1578,7 +1578,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "DiziLife",
         "description": "[22.10.2025] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
@@ -1631,7 +1631,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31330,
+        "fileSize": 31326,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1641,7 +1641,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 39,
+        "version": 40,
         "internalName": "DiziMom",
         "description": "[22.10.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
@@ -1652,7 +1652,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18054,
+        "fileSize": 18053,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1662,7 +1662,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 55,
+        "version": 56,
         "internalName": "DiziPal",
         "description": "[22.10.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
@@ -2095,7 +2095,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 140703,
+        "fileSize": 140700,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2109,7 +2109,7 @@
             "AsianDrama",
             "AnimeMovie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Kraptor+",
         "description": "[22.10.2025] Kaliteli kaynakları ile birlikte Kraptor+ eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Kraptor+.cs3",
@@ -2142,7 +2142,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 76753,
+        "fileSize": 76666,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2153,7 +2153,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "MirrorVerse",
         "description": "[22.10.2025] Netflix, Disney+ ve Primevideo içerikleri tek bir eklentide, türkçe dublaj ve altyazı desteğiyle birleşiyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
@@ -2356,7 +2356,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 14231,
+        "fileSize": 14228,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2366,7 +2366,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "SinemaCX",
         "description": "[22.10.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
@@ -2546,7 +2546,7 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watch2movies.net/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31964,
+        "fileSize": 31931,
         "status": 1,
         "language": "en",
         "authors": [
@@ -2555,7 +2555,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Watch2Movies",
         "description": "[22.10.2025] Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Watch2Movies.cs3",
@@ -2671,10 +2671,10 @@
     },
     {
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-        "jarFileSize": 197558,
+        "jarFileSize": 197496,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 35870,
+        "fileSize": 35822,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2685,7 +2685,7 @@
             "Movie",
             "Torrent"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "YTS",
         "jarUrl": "https://raw.githubusercontent.com/Kraptor123/kraptoranime/builds/YTS.jar",
         "description": "[22.10.2025] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
