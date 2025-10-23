@@ -17,7 +17,7 @@ plugin_urls = {
 
 CACHE_FILE = "plugin_cache.json"
 MERGED_PLUGINS_FILE = "birlesik_plugins.json"
-# Bulunulan anın tarihi (Örnek: 21.10.2025)
+# Bulunulan anın tarihi: 20.10.2025
 bugun_tarih = datetime.now().strftime("%d.%m.%Y")
 
 previous_cached_plugins = {}
@@ -31,7 +31,7 @@ if os.path.exists(CACHE_FILE):
             previous_cached_plugins = {
                 # Benzersiz anahtar: (id/internalName, kaynak_adi)
                 (p.get('id') or p.get('internalName'), p.get('kaynak', 'bilinmiyor')): p
-                for p in cached_list if p.get('id') or p.get('internalName') # Geçersiz pluginleri filtrele
+                for p in cached_list
             }
         print(f"✅ Cache dosyası '{CACHE_FILE}' başarıyla yüklendi. Toplam önbelleklenmiş plugin: {len(previous_cached_plugins)}")
     except (json.JSONDecodeError, Exception) as e:
@@ -86,11 +86,16 @@ for url, kaynak_adi in plugin_urls.items():
             if plugin_name and kaynak_tag not in plugin_name:
                 plugin["name"] = f"{plugin_name}{kaynak_tag}"
             
-            # internalName'i etiketleme kısmı temizlik ve CloudStream uyumluluğu için yoruma alındı.
+            # internalName'e kaynak etiketi ekle (mevcut mantık korunuyor)
+            internal_name = plugin.get("internalName")
+            # internalName genellikle plugin_id'ye eşittir, ancak tutarlılık için bu da etiketlenebilir
+            if internal_name and kaynak_tag not in internal_name:
+                 # internalName'i etiketsiz tutmak daha temizdir, ama sizin önceki kodunuzda vardı, bu yüzden koruyorum.
+                plugin["internalName"] = f"{internal_name}{kaynak_tag}" 
 
 
             # --- VERSİYON KONTROL MANTIĞI ---
-            is_version_updated = False
+            is_new_or_updated = False
             
             # Eklenti önbellekte var mı?
             previous_cached_plugin = previous_cached_plugins.get(unique_key)
@@ -102,48 +107,37 @@ for url, kaynak_adi in plugin_urls.items():
                 
                 # SADECE versiyon hash'i değişmiş mi?
                 if current_hash != cached_hash:
-                    is_version_updated = True
-                # else: Versiyon aynıysa is_version_updated = False kalır (Tarih GÜNCELLENMEZ)
+                    is_new_or_updated = True
+                else:
+                    # Versiyon aynıysa, eski açıklamayı koru (is_new_or_updated = False kalır)
+                    pass
             else:
                 # Eklenti yeni, önbellekte yok (ilk kez görülüyor)
-                is_version_updated = True
+                is_new_or_updated = True
 
             
             # --- DESCRIPTION GÜNCELLEME MANTIĞI ---
-            if is_version_updated:
-                # YENİ EKLENTİ VEYA VERSİYON DEĞİŞİKLİĞİ VARSA: Tarihi bugünün tarihiyle güncelle
-                print(f"🆕 Versiyon değişikliği veya yeni plugin: {plugin_id} (v{plugin.get('version', '?.?')} / {kaynak_adi}) - Açıklama güncelleniyor.")
+            if is_new_or_updated:
+                # Yeni veya versiyonu değişmişse açıklamayı bugünün tarihiyle güncelle
+                print(f"🆕 Versiyon değişikliği veya yeni plugin algılandı: {plugin_id} (v{plugin.get('version', '?.?')} / {kaynak_adi}) - Açıklama güncelleniyor.")
                 
                 # Mevcut açıklamadan önceki tarihi temizle (varsa)
                 source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                 
                 # Açıklamayı bugünün tarihiyle yeniden ekle
                 plugin["description"] = f"[{bugun_tarih}] {source_description}"
-            
             else:
-                # VERSİYON DEĞİŞİKLİĞİ YOKSA: Önbellekteki açıklamayı zorla koru
+                # Versiyon değişikliği yoksa, önbellekteki tarihi (description) koru
                 if previous_cached_plugin:
-                    # Önbellekten açıklamayı al
-                    cached_description = previous_cached_plugin.get("description", "")
-                    
-                    if cached_description:
-                        # Önbellekte açıklama varsa, yeni inen açıklamayı onunla EZ
-                        plugin["description"] = cached_description
-                        print(f"✅ Versiyon değişikliği yok: {plugin_id} (v{plugin.get('version', '?.?')} / {kaynak_adi}) - Önceki açıklama korunuyor.")
-                    else:
-                        # Önbellekte açıklama yoksa, yeni bir tarih verelim (ilk kez tarih etiketleniyor)
-                        # Bu, versiyon değişmese bile, cache'teki kaydın description'ı yoksa bir defaya mahsus tarih atar.
-                        source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
-                        plugin["description"] = f"[{bugun_tarih}] {source_description}"
-                        print(f"⚠️ Versiyon aynı, ancak önbellekte açıklama yoktu. Yeni tarih eklendi: {plugin_id}.")
+                    # Sadece description alanını önbellekten al
+                    plugin["description"] = previous_cached_plugin.get("description", "")
+                    print(f"✅ Versiyon değişikliği yok: {plugin_id} (v{plugin.get('version', '?.?')} / {kaynak_adi}) - Önceki açıklama korunuyor.")
                 else:
-                    # Bu durum teorik olarak is_version_updated = True olmalıydı. 
-                    # Ancak cache yüklenemezse veya hata olursa (hata önleme):
+                    # Bu durumda buraya düşmek beklenmez, ama hata önlemek için tekrar bugünün tarihini atalım
                     source_description = re.sub(r"^\[\d{2}\.\d{2}\.\d{4}\]\s*", "", plugin.get("description", "")).strip()
                     plugin["description"] = f"[{bugun_tarih}] {source_description}"
-                    print(f"⚠️ Versiyon aynı, ancak önbellek kaydı bulunamadı. Yeni tarih eklendi: {plugin_id}.")
 
-
+            
             # Cache'e ve birleştirilmiş listeye eklentinin güncel halini (tarihli hali) kaydet
             birlesik_plugins[unique_key] = plugin
 
