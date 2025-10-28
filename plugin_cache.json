@@ -2075,6 +2075,31 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 140700,
+        "status": 0,
+        "language": "tr",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "AsianDrama",
+            "AnimeMovie"
+        ],
+        "version": 9,
+        "internalName": "Kraptor+[Kraptor]",
+        "description": "[28.10.2025] İsim değişikliği sebebi ile devredışı bırakıldı yakında silinecek.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Kraptor+.cs3",
+        "name": "Kraptor+[Kraptor]",
+        "kaynak": "Kraptor"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "fileSize": 174838,
         "status": 1,
         "language": "tr",
