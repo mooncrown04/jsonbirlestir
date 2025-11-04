@@ -1277,7 +1277,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.atv.com.tr&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19452,
+        "fileSize": 20159,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1286,7 +1286,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Atv[Kraptor]",
         "description": "[04.11.2025] Atv",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Atv.cs3",
@@ -2204,7 +2204,7 @@
         "iconUrl": "http://www.google.com/s2/favicons?domain=www.nowtv.com.tr",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 12780,
+        "fileSize": 12915,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2213,7 +2213,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "NowTv[Kraptor]",
         "description": "[04.11.2025] Now Tv",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/NowTv.cs3",
