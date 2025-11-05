@@ -3235,10 +3235,10 @@
         "kaynak": "makoto"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1214.com&sz=32",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1215.com&sz=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-        "fileSize": 20397,
+        "fileSize": 20399,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3248,7 +3248,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 50,
+        "version": 51,
         "internalName": "DiziPal[sarapcanagii]",
         "description": "[05.11.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
