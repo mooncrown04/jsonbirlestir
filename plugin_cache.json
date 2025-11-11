@@ -1073,7 +1073,7 @@
         "iconUrl": "https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 23942,
+        "fileSize": 22620,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1083,7 +1083,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "Animeler[Kraptor]",
         "description": "[11.11.2025] HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animeler.cs3",
@@ -1095,7 +1095,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "fileSize": 23376,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "kraptor"
@@ -1631,7 +1631,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31326,
+        "fileSize": 29743,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1641,7 +1641,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 40,
+        "version": 41,
         "internalName": "DiziMom[Kraptor]",
         "description": "[11.11.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
