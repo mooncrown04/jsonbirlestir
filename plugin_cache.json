@@ -1673,7 +1673,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 48370,
+        "fileSize": 48368,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1683,7 +1683,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 66,
+        "version": 67,
         "internalName": "DiziPalOrijinal[Kraptor]",
         "description": "[11.11.2025] DiziPal Orijinal.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -1735,7 +1735,7 @@
         "iconUrl": "https://icons.iconarchive.com/icons/yohproject/crayon-cute/256/movies-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 44632,
+        "fileSize": 44637,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1746,7 +1746,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 35,
+        "version": 36,
         "internalName": "DiziYo[Kraptor]",
         "description": "[11.11.2025] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
@@ -3294,10 +3294,10 @@
         "kaynak": "makoto"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1215.com&sz=32",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1216.com&sz=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-        "fileSize": 20399,
+        "fileSize": 20398,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3307,7 +3307,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 51,
+        "version": 52,
         "internalName": "DiziPal[sarapcanagii]",
         "description": "[11.11.2025] En yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
