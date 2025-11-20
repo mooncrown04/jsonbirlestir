@@ -127,7 +127,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 22645,
+        "fileSize": 22644,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -136,7 +136,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "DiziKorea[feroxx]",
         "description": "[20.11.2025] En Güncel Kore Dizileri izleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -187,7 +187,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19317,
+        "fileSize": 19318,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -198,7 +198,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "DiziPal[feroxx]",
         "description": "[20.11.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
