@@ -1834,6 +1834,26 @@
         "kaynak": "Kraptor"
     },
     {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmkutu.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "fileSize": 18579,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmKutu[Kraptor]",
+        "description": "[22.11.2025] Filmkutu ile en yeni yapımları yüksek kalitede izle. Reklamsız, kesintisiz ve 1080p seçenekleriyle HD film izlemenin en kolay yolu.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmKutu.cs3",
+        "name": "FilmKutu[Kraptor]",
+        "kaynak": "Kraptor"
+    },
+    {
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
