@@ -1337,7 +1337,7 @@
         "iconUrl": "https://cizgivedizi.com/Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 26489,
+        "fileSize": 26857,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1346,7 +1346,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 17,
+        "version": 19,
         "internalName": "CizgiveDizi[Kraptor]",
         "description": "[24.11.2025] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
@@ -1673,7 +1673,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizist.club/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 16938,
+        "fileSize": 17050,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1682,7 +1682,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "Dizist[Kraptor]",
         "description": "[24.11.2025] Yabancı Dizi izle - Dizist",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizist.cs3",
