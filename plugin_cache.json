@@ -2132,7 +2132,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18642,
+        "fileSize": 18780,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2141,7 +2141,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "KickTR[Kraptor]",
         "description": "[26.11.2025] Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KickTR.cs3",
@@ -2970,21 +2970,22 @@
     },
     {
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-        "jarFileSize": 199063,
+        "jarFileSize": 208653,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 36430,
+        "fileSize": 38966,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor",
-            "Phisher98"
+            "Kraptor",
+            "Phisher98",
+            "ByAyzen"
         ],
         "tvTypes": [
             "Movie",
             "Torrent"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "YTS[Kraptor]",
         "jarUrl": "https://raw.githubusercontent.com/Kraptor123/kraptoranime/builds/YTS.jar",
         "description": "[26.11.2025] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
