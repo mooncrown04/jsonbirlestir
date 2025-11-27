@@ -1296,7 +1296,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 13427,
+        "fileSize": 13430,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1305,7 +1305,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "BirAsyaDizi[Kraptor]",
         "description": "[27.11.2025] Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
@@ -1796,7 +1796,7 @@
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 17859,
+        "fileSize": 17864,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1806,7 +1806,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "FilmHane[Kraptor]",
         "description": "[27.11.2025] Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
@@ -2065,22 +2065,20 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 31285,
+        "fileSize": 35523,
         "status": 1,
         "language": "tr",
         "authors": [
             "Eagle",
             "kraptor",
-            "kerimmkirac",
-            "JustRelaxable",
-            "keyiflerolsun"
+            "JustRelaxable"
         ],
         "tvTypes": [
             "Movie",
             "TvSeries",
             "Live"
         ],
-        "version": 39,
+        "version": 41,
         "internalName": "InatBox[Kraptor]",
         "description": "[27.11.2025] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
@@ -2640,7 +2638,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 29847,
+        "fileSize": 30463,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2649,7 +2647,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "TrAnimeIzle[Kraptor]",
         "description": "[27.11.2025] Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
@@ -2844,7 +2842,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 33461,
+        "fileSize": 33460,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2856,7 +2854,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "WebDramaTurkey[Kraptor]",
         "description": "[27.11.2025] Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
