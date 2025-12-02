@@ -147,7 +147,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 26801,
+        "fileSize": 26859,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -156,7 +156,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 39,
+        "version": 40,
         "internalName": "Dizilla[feroxx]",
         "description": "[02.12.2025] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -1318,7 +1318,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 13430,
+        "fileSize": 13428,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1327,7 +1327,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "BirAsyaDizi[Kraptor]",
         "description": "[02.12.2025] Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
@@ -1526,18 +1526,18 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 27694,
+        "fileSize": 27697,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kerimmkirac",
-            "kraptor"
+            "Kerimmkirac",
+            "Kraptor"
         ],
         "tvTypes": [
             "AsianDrama",
             "Movie"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DiziKorea[Kraptor]",
         "description": "[02.12.2025] Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
@@ -1859,7 +1859,7 @@
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmkutu.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18579,
+        "fileSize": 18581,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1868,7 +1868,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "FilmKutu[Kraptor]",
         "description": "[02.12.2025] Filmkutu ile en yeni yapımları yüksek kalitede izle. Reklamsız, kesintisiz ve 1080p seçenekleriyle HD film izlemenin en kolay yolu.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmKutu.cs3",
@@ -1879,7 +1879,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 22411,
+        "fileSize": 30826,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1892,7 +1892,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "FilmMakinesi[Kraptor]",
         "description": "[02.12.2025] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
@@ -2046,7 +2046,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://hdfilmcehennemi.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 32217,
+        "fileSize": 30625,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2056,7 +2056,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 57,
+        "version": 58,
         "internalName": "HDFilmCehennemi[Kraptor]",
         "description": "[02.12.2025] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
