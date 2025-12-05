@@ -167,7 +167,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30784,
+        "fileSize": 30776,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -176,7 +176,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 35,
+        "version": 36,
         "internalName": "DiziMom[feroxx]",
         "description": "[05.12.2025] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -198,7 +198,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 35,
+        "version": 36,
         "internalName": "DiziPal[feroxx]",
         "description": "[05.12.2025] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -270,7 +270,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14665,
+        "fileSize": 14659,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -279,7 +279,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "FilmModu[feroxx]",
         "description": "[05.12.2025] Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmModu.cs3",
@@ -331,7 +331,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25305,
+        "fileSize": 25304,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -342,7 +342,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[05.12.2025] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -546,7 +546,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14598,
+        "fileSize": 14596,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -555,7 +555,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "SinemaCX[feroxx]",
         "description": "[05.12.2025] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
@@ -1579,7 +1579,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "DiziLife[Kraptor]",
         "description": "[05.12.2025] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
