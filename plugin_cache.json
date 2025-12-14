@@ -2193,11 +2193,12 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 194617,
+        "fileSize": 213689,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor"
+            "kraptor",
+            "ByAyzen"
         ],
         "tvTypes": [
             "TvSeries",
@@ -2207,7 +2208,7 @@
             "AsianDrama",
             "AnimeMovie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "KraptorPlus[Kraptor]",
         "description": "[14.12.2025] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
