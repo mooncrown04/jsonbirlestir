@@ -1568,7 +1568,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19742,
+        "fileSize": 19744,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1579,7 +1579,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "DiziLife[Kraptor]",
         "description": "[15.12.2025] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
@@ -2993,7 +2993,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 58923,
+        "fileSize": 65978,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3007,7 +3007,7 @@
             "Music",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "Youtube[Kraptor]",
         "description": "[15.12.2025] Youtube.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
