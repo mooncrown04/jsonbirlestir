@@ -1767,7 +1767,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "DiziYou[Kraptor]",
         "description": "[16.12.2025] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYou.cs3",
@@ -2345,21 +2345,22 @@
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 30224,
+        "fileSize": 50521,
         "status": 1,
         "language": "tr",
         "authors": [
             "Eagle",
-            "kraptor"
+            "kraptor",
+            "ByAyzen"
         ],
         "tvTypes": [
             "Movie",
             "Live",
             "TvSeries"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "RecTV[Kraptor]",
-        "description": "[16.12.2025] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "description": "[16.12.2025] RecTv,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
         "name": "RecTV[Kraptor]",
         "kaynak": "Kraptor"
@@ -2993,7 +2994,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 58307,
+        "fileSize": 66744,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -3007,9 +3008,9 @@
             "Music",
             "TvSeries"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "Youtube[Kraptor]",
-        "description": "[16.12.2025] Youtube.",
+        "description": "[16.12.2025] Youtube",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
         "name": "Youtube[Kraptor]",
         "kaynak": "Kraptor"
