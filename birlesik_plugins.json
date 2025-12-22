@@ -1359,7 +1359,7 @@
         "iconUrl": "https://cizgivedizi.com/Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 27154,
+        "fileSize": 27142,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1368,7 +1368,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "CizgiveDizi[Kraptor]",
         "description": "[22.12.2025] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
@@ -1568,7 +1568,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19745,
+        "fileSize": 19737,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1579,7 +1579,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "DiziLife[Kraptor]",
         "description": "[22.12.2025] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
