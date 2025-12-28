@@ -706,7 +706,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20742,
+        "fileSize": 20741,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -715,7 +715,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "WebteIzle[feroxx]",
         "description": "[28.12.2025] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/WebteIzle.cs3",
@@ -1073,16 +1073,17 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeizlesene.com&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 23345,
+        "fileSize": 24189,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor"
+            "kraptor",
+            "ByAyzen"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "AnimeIzlesene[Kraptor]",
         "description": "[28.12.2025] Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeIzlesene.cs3",
@@ -1965,16 +1966,17 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 18984,
+        "fileSize": 21029,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Kraptor"
+            "Kraptor",
+            "ByAyzen"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "description": "[28.12.2025] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
