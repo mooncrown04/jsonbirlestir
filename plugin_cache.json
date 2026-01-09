@@ -1488,7 +1488,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizi18.life&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 19739,
+        "fileSize": 19742,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1499,7 +1499,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DiziLife[Kraptor]",
         "description": "[09.01.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
@@ -1510,7 +1510,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 57647,
+        "fileSize": 58853,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1521,7 +1521,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 62,
+        "version": 63,
         "internalName": "Dizilla[Kraptor]",
         "description": "[09.01.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
@@ -2913,7 +2913,7 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 116619,
+        "fileSize": 119025,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2927,7 +2927,7 @@
             "Music",
             "TvSeries"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "Youtube[Kraptor]",
         "description": "[09.01.2026] Youtube",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
