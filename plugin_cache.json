@@ -1096,7 +1096,7 @@
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 34498,
+        "fileSize": 38367,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1105,7 +1105,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 38,
+        "version": 39,
         "internalName": "Anizm[Kraptor]",
         "description": "[18.01.2026] Türkçe Altyazılı Anime İzle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizm.cs3",
