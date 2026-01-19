@@ -1946,7 +1946,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 30663,
+        "fileSize": 32466,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1956,7 +1956,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 62,
+        "version": 64,
         "internalName": "HDFilmCehennemi[Kraptor]",
         "description": "[19.01.2026] Hdfilmcehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek hdfilmcehennemi sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
@@ -2112,7 +2112,7 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 249143,
+        "fileSize": 249498,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -2128,7 +2128,7 @@
             "AsianDrama",
             "AnimeMovie"
         ],
-        "version": 20,
+        "version": 22,
         "internalName": "KraptorPlus[Kraptor]",
         "description": "[19.01.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
