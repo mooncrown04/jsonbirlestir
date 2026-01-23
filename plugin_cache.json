@@ -2007,7 +2007,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
         "status": 1,
-        "version": 46,
+        "version": 47,
         "name": "InatBox[Kraptor]",
         "internalName": "InatBox[Kraptor]",
         "authors": [
@@ -2016,7 +2016,7 @@
             "JustRelaxable"
         ],
         "description": "[23.01.2026] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-        "fileSize": 41350,
+        "fileSize": 42427,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
