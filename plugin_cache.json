@@ -1178,7 +1178,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "AsyaKing[Kraptor]",
         "internalName": "AsyaKing[Kraptor]",
         "authors": [
@@ -1199,7 +1199,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "AsyaMinik[Kraptor]",
         "internalName": "AsyaMinik[Kraptor]",
         "authors": [
@@ -1219,7 +1219,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "AsyaWatch[Kraptor]",
         "internalName": "AsyaWatch[Kraptor]",
         "authors": [
@@ -1240,7 +1240,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Atv.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Atv[Kraptor]",
         "internalName": "Atv[Kraptor]",
         "authors": [
@@ -1260,7 +1260,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "BelgeselX[Kraptor]",
         "internalName": "BelgeselX[Kraptor]",
         "authors": [
@@ -1280,14 +1280,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "BirAsyaDizi[Kraptor]",
         "internalName": "BirAsyaDizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[04.02.2026] Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
-        "fileSize": 16911,
+        "fileSize": 16912,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1300,7 +1300,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "CizgiMax[Kraptor]",
         "internalName": "CizgiMax[Kraptor]",
         "authors": [
@@ -1321,7 +1321,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "CizgiveDizi[Kraptor]",
         "internalName": "CizgiveDizi[Kraptor]",
         "authors": [
@@ -1341,7 +1341,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Ddizi.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Ddizi[Kraptor]",
         "internalName": "Ddizi[Kraptor]",
         "authors": [
@@ -1361,14 +1361,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "DiziAsia[Kraptor]",
         "internalName": "DiziAsia[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[04.02.2026] DiziAsia - Asya Dizileri İzle",
-        "fileSize": 17469,
+        "fileSize": 17470,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1381,7 +1381,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "DiziAsya[Kraptor]",
         "internalName": "DiziAsya[Kraptor]",
         "authors": [
@@ -1403,7 +1403,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "DiziBox[Kraptor]",
         "internalName": "DiziBox[Kraptor]",
         "authors": [
@@ -1424,7 +1424,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizican.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "Dizican[Kraptor]",
         "internalName": "Dizican[Kraptor]",
         "authors": [
@@ -1445,7 +1445,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "DiziGom[Kraptor]",
         "internalName": "DiziGom[Kraptor]",
         "authors": [
@@ -1453,7 +1453,7 @@
             "kerimmkirac"
         ],
         "description": "[04.02.2026] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-        "fileSize": 26215,
+        "fileSize": 26216,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1467,7 +1467,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "DiziKorea[Kraptor]",
         "internalName": "DiziKorea[Kraptor]",
         "authors": [
@@ -1475,7 +1475,7 @@
             "Kraptor"
         ],
         "description": "[04.02.2026] Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
-        "fileSize": 32603,
+        "fileSize": 32604,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1489,7 +1489,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "DiziLife[Kraptor]",
         "internalName": "DiziLife[Kraptor]",
         "authors": [
@@ -1553,7 +1553,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
-        "version": 44,
+        "version": 45,
         "name": "DiziMom[Kraptor]",
         "internalName": "DiziMom[Kraptor]",
         "authors": [
@@ -1617,7 +1617,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizist.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "Dizist[Kraptor]",
         "internalName": "Dizist[Kraptor]",
         "authors": [
@@ -1637,7 +1637,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziWatch.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "DiziWatch[Kraptor]",
         "internalName": "DiziWatch[Kraptor]",
         "authors": [
@@ -1681,7 +1681,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYou.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "DiziYou[Kraptor]",
         "internalName": "DiziYou[Kraptor]",
         "authors": [
@@ -1701,7 +1701,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dmax.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Dmax[Kraptor]",
         "internalName": "Dmax[Kraptor]",
         "authors": [
@@ -1721,7 +1721,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "FilmEkseni[Kraptor]",
         "internalName": "FilmEkseni[Kraptor]",
         "authors": [
@@ -1741,7 +1741,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "FilmHane[Kraptor]",
         "internalName": "FilmHane[Kraptor]",
         "authors": [
@@ -1802,7 +1802,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
         "status": 1,
-        "version": 49,
+        "version": 50,
         "name": "FilmMakinesi[Kraptor]",
         "internalName": "FilmMakinesi[Kraptor]",
         "authors": [
@@ -1812,7 +1812,7 @@
             "nikyokki"
         ],
         "description": "[04.02.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 38240,
+        "fileSize": 38241,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1826,7 +1826,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "FilmModu[Kraptor]",
         "internalName": "FilmModu[Kraptor]",
         "authors": [
@@ -1846,7 +1846,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Filmzal[Kraptor]",
         "internalName": "Filmzal[Kraptor]",
         "authors": [
@@ -1866,7 +1866,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FlixHQ.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "FlixHQ[Kraptor]",
         "internalName": "FlixHQ[Kraptor]",
         "authors": [
@@ -1887,7 +1887,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -1908,7 +1908,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDIzle.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "FullHDIzle[Kraptor]",
         "internalName": "FullHDIzle[Kraptor]",
         "authors": [
@@ -1928,7 +1928,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "GinikoCanli[Kraptor]",
         "internalName": "GinikoCanli[Kraptor]",
         "authors": [
@@ -1969,7 +1969,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmDelisi.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "HDFilmDelisi[Kraptor]",
         "internalName": "HDFilmDelisi[Kraptor]",
         "authors": [
@@ -1989,7 +1989,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "HintDizi[Kraptor]",
         "internalName": "HintDizi[Kraptor]",
         "authors": [
@@ -2033,7 +2033,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 39,
+        "version": 40,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -2041,7 +2041,7 @@
             "ByAyzen"
         ],
         "description": "[04.02.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 22052,
+        "fileSize": 22053,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2054,7 +2054,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KanalD.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "KanalD[Kraptor]",
         "internalName": "KanalD[Kraptor]",
         "authors": [
@@ -2074,7 +2074,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KickTR.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "KickTR[Kraptor]",
         "internalName": "KickTR[Kraptor]",
         "authors": [
@@ -2095,7 +2095,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KoreanTurk.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "KoreanTurk[Kraptor]",
         "internalName": "KoreanTurk[Kraptor]",
         "authors": [
@@ -2142,7 +2142,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "KultFilmler[Kraptor]",
         "internalName": "KultFilmler[Kraptor]",
         "authors": [
@@ -2187,7 +2187,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/NowTv.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "NowTv[Kraptor]",
         "internalName": "NowTv[Kraptor]",
         "authors": [
@@ -2208,7 +2208,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OnePaceTr.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "OnePaceTr[Kraptor]",
         "internalName": "OnePaceTr[Kraptor]",
         "authors": [
@@ -2228,7 +2228,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "OpenAnime[Kraptor]",
         "internalName": "OpenAnime[Kraptor]",
         "authors": [
@@ -2250,7 +2250,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "RareFilmm[Kraptor]",
         "internalName": "RareFilmm[Kraptor]",
         "authors": [
@@ -2294,7 +2294,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
         "status": 1,
-        "version": 40,
+        "version": 41,
         "name": "RoketDizi[Kraptor]",
         "internalName": "RoketDizi[Kraptor]",
         "authors": [
@@ -2315,7 +2315,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SeiCode.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "SeiCode[Kraptor]",
         "internalName": "SeiCode[Kraptor]",
         "authors": [
@@ -2337,14 +2337,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "SelcukFlix[Kraptor]",
         "internalName": "SelcukFlix[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[04.02.2026] Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "fileSize": 65795,
+        "fileSize": 65796,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2358,7 +2358,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "SetFilmIzle[Kraptor]",
         "internalName": "SetFilmIzle[Kraptor]",
         "authors": [
@@ -2401,7 +2401,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/ShowTv.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "ShowTv[Kraptor]",
         "internalName": "ShowTv[Kraptor]",
         "authors": [
@@ -2421,7 +2421,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinefy.cs3",
         "status": 1,
-        "version": 20,
+        "version": 21,
         "name": "Sinefy[Kraptor]",
         "internalName": "Sinefy[Kraptor]",
         "authors": [
@@ -2442,7 +2442,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "SinemaCX[Kraptor]",
         "internalName": "SinemaCX[Kraptor]",
         "authors": [
@@ -2487,7 +2487,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "Sinezy[Kraptor]",
         "internalName": "Sinezy[Kraptor]",
         "authors": [
@@ -2507,7 +2507,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/StarTv.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "StarTv[Kraptor]",
         "internalName": "StarTv[Kraptor]",
         "authors": [
@@ -2547,7 +2547,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Teve2.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Teve2[Kraptor]",
         "internalName": "Teve2[Kraptor]",
         "authors": [
@@ -2567,7 +2567,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Tlc.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "Tlc[Kraptor]",
         "internalName": "Tlc[Kraptor]",
         "authors": [
@@ -2587,7 +2587,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TRAnimaci.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "TRAnimaci[Kraptor]",
         "internalName": "TRAnimaci[Kraptor]",
         "authors": [
@@ -2607,7 +2607,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "TrAnimeIzle[Kraptor]",
         "internalName": "TrAnimeIzle[Kraptor]",
         "authors": [
@@ -2627,7 +2627,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrDiziIzle.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "TrDiziIzle[Kraptor]",
         "internalName": "TrDiziIzle[Kraptor]",
         "authors": [
@@ -2647,7 +2647,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Trt1.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Trt1[Kraptor]",
         "internalName": "Trt1[Kraptor]",
         "authors": [
@@ -2730,7 +2730,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TvDiziler.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "TvDiziler[Kraptor]",
         "internalName": "TvDiziler[Kraptor]",
         "authors": [
@@ -2771,7 +2771,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Watch2Movies.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Watch2Movies[Kraptor]",
         "internalName": "Watch2Movies[Kraptor]",
         "authors": [
@@ -2791,7 +2791,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "WebDramaTurkey[Kraptor]",
         "internalName": "WebDramaTurkey[Kraptor]",
         "authors": [
@@ -2814,7 +2814,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 39,
+        "version": 40,
         "name": "WebteIzle[Kraptor]",
         "internalName": "WebteIzle[Kraptor]",
         "authors": [
@@ -2835,7 +2835,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "YabanciDizi[Kraptor]",
         "internalName": "YabanciDizi[Kraptor]",
         "authors": [
@@ -2856,7 +2856,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniKaynak.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "YeniKaynak[Kraptor]",
         "internalName": "YeniKaynak[Kraptor]",
         "authors": [
@@ -2897,7 +2897,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "YesilCamTv[Kraptor]",
         "internalName": "YesilCamTv[Kraptor]",
         "authors": [
@@ -2942,7 +2942,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "YTS[Kraptor]",
         "internalName": "YTS[Kraptor]",
         "authors": [
@@ -2951,7 +2951,7 @@
             "ByAyzen"
         ],
         "description": "[04.02.2026] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-        "fileSize": 41004,
+        "fileSize": 41005,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
