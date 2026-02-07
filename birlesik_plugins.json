@@ -1095,26 +1095,6 @@
         "kaynak": "Kraptor"
     },
     {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizm.cs3",
-        "status": 0,
-        "version": 44,
-        "name": "Anizm[Kraptor]",
-        "internalName": "Anizm[Kraptor]",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "[07.02.2026] Türkçe Altyazılı Anime İzle.",
-        "fileSize": 48880,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Anime"
-        ],
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
-        "apiVersion": 1,
-        "kaynak": "Kraptor"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
         "status": 1,
         "version": 12,
@@ -1756,46 +1736,6 @@
             "TvSeries"
         ],
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-        "apiVersion": 1,
-        "kaynak": "Kraptor"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmIzle.cs3",
-        "status": 0,
-        "version": 17,
-        "name": "FilmIzle[Kraptor]",
-        "internalName": "FilmIzle[Kraptor]",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "[07.02.2026] Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
-        "fileSize": 25463,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://filmizle.cx/favicon.ico",
-        "apiVersion": 1,
-        "kaynak": "Kraptor"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmKutu.cs3",
-        "status": 0,
-        "version": 3,
-        "name": "FilmKutu[Kraptor]",
-        "internalName": "FilmKutu[Kraptor]",
-        "authors": [
-            "ByAyzen"
-        ],
-        "description": "[07.02.2026] Filmkutu ile en yeni yapımları yüksek kalitede izle. Reklamsız, kesintisiz ve 1080p seçenekleriyle HD film izlemenin en kolay yolu.",
-        "fileSize": 19909,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmkutu.com/&size=128",
         "apiVersion": 1,
         "kaynak": "Kraptor"
     },
@@ -2525,26 +2465,6 @@
         "kaynak": "Kraptor"
     },
     {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SuperFilmGeldi.cs3",
-        "status": 0,
-        "version": 32,
-        "name": "SuperFilmGeldi[Kraptor]",
-        "internalName": "SuperFilmGeldi[Kraptor]",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "[07.02.2026] Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
-        "fileSize": 23349,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.superfilmgeldi.biz",
-        "apiVersion": 1,
-        "kaynak": "Kraptor"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Teve2.cs3",
         "status": 1,
         "version": 4,
@@ -2814,7 +2734,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 40,
+        "version": 42,
         "name": "WebteIzle[Kraptor]",
         "internalName": "WebteIzle[Kraptor]",
         "authors": [
@@ -2822,7 +2742,7 @@
             "ByAyzen"
         ],
         "description": "[07.02.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 39861,
+        "fileSize": 55296,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
