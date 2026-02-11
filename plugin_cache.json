@@ -987,17 +987,18 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
-            "kraptor123",
+            "kraptor",
+            "ByAyzen",
             "keyiflerolsun",
             "inatchii",
             "JustRelaxable"
         ],
         "description": "[11.02.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 43465,
+        "fileSize": 44674,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1220,14 +1221,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Atv.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "Atv[Kraptor]",
         "internalName": "Atv[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[11.02.2026] Atv",
-        "fileSize": 26765,
+        "fileSize": 28086,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1301,14 +1302,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "CizgiveDizi[Kraptor]",
         "internalName": "CizgiveDizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[11.02.2026] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-        "fileSize": 33656,
+        "fileSize": 36746,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
