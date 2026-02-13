@@ -2065,7 +2065,7 @@
             "ByAyzen"
         ],
         "description": "[13.02.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 302642,
+        "fileSize": 302636,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2210,8 +2210,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
-        "status": 0,
-        "version": 15,
+        "status": 1,
+        "version": 16,
         "name": "RecTV[Kraptor]",
         "internalName": "RecTV[Kraptor]",
         "authors": [
@@ -2743,7 +2743,7 @@
             "ByAyzen"
         ],
         "description": "[13.02.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 55297,
+        "fileSize": 55301,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2837,8 +2837,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
-        "status": 0,
-        "version": 26,
+        "status": 1,
+        "version": 27,
         "name": "Youtube[Kraptor]",
         "internalName": "Youtube[Kraptor]",
         "authors": [
@@ -2847,7 +2847,7 @@
             "Kraptor"
         ],
         "description": "[13.02.2026] Youtube",
-        "fileSize": 122795,
+        "fileSize": 122730,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
