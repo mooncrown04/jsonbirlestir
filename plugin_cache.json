@@ -987,7 +987,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 33,
+        "version": 34,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -998,7 +998,7 @@
             "JustRelaxable"
         ],
         "description": "[14.02.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 44730,
+        "fileSize": 45020,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1828,7 +1828,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -1836,7 +1836,7 @@
             "ByAyzen"
         ],
         "description": "[14.02.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 57054,
+        "fileSize": 59438,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2105,7 +2105,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
         "status": 1,
-        "version": 13,
+        "version": 15,
         "name": "MirrorVerse[Kraptor]",
         "internalName": "MirrorVerse[Kraptor]",
         "authors": [
@@ -2114,7 +2114,7 @@
             "ByAyzen"
         ],
         "description": "[14.02.2026] Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-        "fileSize": 96549,
+        "fileSize": 101665,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
