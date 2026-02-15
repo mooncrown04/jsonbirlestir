@@ -2211,7 +2211,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "RecTV[Kraptor]",
         "internalName": "RecTV[Kraptor]",
         "authors": [
@@ -2220,7 +2220,7 @@
             "ByAyzen"
         ],
         "description": "[15.02.2026] RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 62600,
+        "fileSize": 62451,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2756,14 +2756,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "YabanciDizi[Kraptor]",
         "internalName": "YabanciDizi[Kraptor]",
         "authors": [
             "Kraptor"
         ],
         "description": "[15.02.2026] Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-        "fileSize": 32767,
+        "fileSize": 34050,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
