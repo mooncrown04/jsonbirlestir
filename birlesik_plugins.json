@@ -1470,7 +1470,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "DiziLife[Kraptor]",
         "internalName": "DiziLife[Kraptor]",
         "authors": [
@@ -1478,7 +1478,7 @@
             "kraptor"
         ],
         "description": "[18.02.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-        "fileSize": 24218,
+        "fileSize": 23140,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2838,7 +2838,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "Youtube[Kraptor]",
         "internalName": "Youtube[Kraptor]",
         "authors": [
@@ -2847,7 +2847,7 @@
             "Kraptor"
         ],
         "description": "[18.02.2026] Youtube",
-        "fileSize": 113221,
+        "fileSize": 114317,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
