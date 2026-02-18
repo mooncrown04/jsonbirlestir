@@ -1033,8 +1033,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeIzlesene.cs3",
-        "status": 1,
-        "version": 22,
+        "status": 0,
+        "version": 23,
         "name": "AnimeIzlesene[Kraptor]",
         "internalName": "AnimeIzlesene[Kraptor]",
         "authors": [
@@ -1158,7 +1158,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
-        "status": 1,
+        "status": 0,
         "version": 11,
         "name": "AsyaKing[Kraptor]",
         "internalName": "AsyaKing[Kraptor]",
@@ -1260,7 +1260,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
-        "status": 1,
+        "status": 0,
         "version": 15,
         "name": "BirAsyaDizi[Kraptor]",
         "internalName": "BirAsyaDizi[Kraptor]",
@@ -1404,7 +1404,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizican.cs3",
-        "status": 1,
+        "status": 0,
         "version": 12,
         "name": "Dizican[Kraptor]",
         "internalName": "Dizican[Kraptor]",
@@ -1929,7 +1929,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HintDizi.cs3",
-        "status": 1,
+        "status": 0,
         "version": 12,
         "name": "HintDizi[Kraptor]",
         "internalName": "HintDizi[Kraptor]",
@@ -2507,7 +2507,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TRAnimaci.cs3",
-        "status": 1,
+        "status": 0,
         "version": 4,
         "name": "TRAnimaci[Kraptor]",
         "internalName": "TRAnimaci[Kraptor]",
