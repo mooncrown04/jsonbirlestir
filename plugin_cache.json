@@ -1597,15 +1597,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizist.cs3",
-        "status": 1,
-        "version": 16,
+        "status": 0,
+        "version": 17,
         "name": "Dizist[Kraptor]",
         "internalName": "Dizist[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[19.02.2026] Yabancı Dizi izle - Dizist",
-        "fileSize": 21185,
+        "fileSize": 21184,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2234,8 +2234,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RoketDizi.cs3",
-        "status": 1,
-        "version": 42,
+        "status": 0,
+        "version": 43,
         "name": "RoketDizi[Kraptor]",
         "internalName": "RoketDizi[Kraptor]",
         "authors": [
@@ -2361,8 +2361,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinefy.cs3",
-        "status": 1,
-        "version": 21,
+        "status": 0,
+        "version": 22,
         "name": "Sinefy[Kraptor]",
         "internalName": "Sinefy[Kraptor]",
         "authors": [
@@ -2735,7 +2735,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 42,
+        "version": 43,
         "name": "WebteIzle[Kraptor]",
         "internalName": "WebteIzle[Kraptor]",
         "authors": [
@@ -2743,7 +2743,7 @@
             "ByAyzen"
         ],
         "description": "[19.02.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 55301,
+        "fileSize": 58213,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
