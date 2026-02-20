@@ -2169,7 +2169,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/OpenAnime.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "OpenAnime[Kraptor]",
         "internalName": "OpenAnime[Kraptor]",
         "authors": [
@@ -2177,7 +2177,7 @@
             "ByAyzen"
         ],
         "description": "[20.02.2026] Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-        "fileSize": 35344,
+        "fileSize": 34542,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2256,7 +2256,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SeiCode.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "SeiCode[Kraptor]",
         "internalName": "SeiCode[Kraptor]",
         "authors": [
@@ -2264,7 +2264,7 @@
             "kerimmkirac"
         ],
         "description": "[20.02.2026] Seicode ile en yeni animeler keşfedin!",
-        "fileSize": 31438,
+        "fileSize": 32879,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2735,7 +2735,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 43,
+        "version": 45,
         "name": "WebteIzle[Kraptor]",
         "internalName": "WebteIzle[Kraptor]",
         "authors": [
@@ -2743,7 +2743,7 @@
             "ByAyzen"
         ],
         "description": "[20.02.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 58213,
+        "fileSize": 62958,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
