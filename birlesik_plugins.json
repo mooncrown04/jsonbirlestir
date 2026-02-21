@@ -1787,14 +1787,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "Filmzal[Kraptor]",
         "internalName": "Filmzal[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[21.02.2026] Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
-        "fileSize": 31775,
+        "fileSize": 30884,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "az",
         "tvTypes": [
@@ -2838,7 +2838,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "Youtube[Kraptor]",
         "internalName": "Youtube[Kraptor]",
         "authors": [
@@ -2847,7 +2847,7 @@
             "Kraptor"
         ],
         "description": "[21.02.2026] Youtube",
-        "fileSize": 114317,
+        "fileSize": 114801,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
