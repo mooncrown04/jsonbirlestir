@@ -987,7 +987,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -998,7 +998,7 @@
             "JustRelaxable"
         ],
         "description": "[23.02.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 47813,
+        "fileSize": 48176,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1034,7 +1034,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animeler.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "Animeler[Kraptor]",
         "internalName": "Animeler[Kraptor]",
         "authors": [
@@ -1043,7 +1043,7 @@
             "kerimmkirac"
         ],
         "description": "[23.02.2026] HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-        "fileSize": 35639,
+        "fileSize": 36045,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1240,14 +1240,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "CizgiveDizi[Kraptor]",
         "internalName": "CizgiveDizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[23.02.2026] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-        "fileSize": 35992,
+        "fileSize": 36106,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1871,7 +1871,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 45,
+        "version": 46,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -1879,7 +1879,7 @@
             "ByAyzen"
         ],
         "description": "[23.02.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 47003,
+        "fileSize": 46285,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2424,7 +2424,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "TurkAnime[Kraptor]",
         "internalName": "TurkAnime[Kraptor]",
         "authors": [
@@ -2432,7 +2432,7 @@
             "ByAyzen"
         ],
         "description": "[23.02.2026] Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 34576,
+        "fileSize": 43245,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2571,14 +2571,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "YabanciDizi[Kraptor]",
         "internalName": "YabanciDizi[Kraptor]",
         "authors": [
             "Kraptor"
         ],
         "description": "[23.02.2026] Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-        "fileSize": 34050,
+        "fileSize": 36670,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
