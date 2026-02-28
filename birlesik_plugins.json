@@ -1138,14 +1138,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "AsyaWatch[Kraptor]",
         "internalName": "AsyaWatch[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[28.02.2026] Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-        "fileSize": 63974,
+        "fileSize": 81320,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1179,14 +1179,15 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "BelgeselX[Kraptor]",
         "internalName": "BelgeselX[Kraptor]",
         "authors": [
-            "Kraptor"
+            "Kraptor",
+            "ByAyzen"
         ],
         "description": "[28.02.2026] En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 24273,
+        "fileSize": 25461,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1409,7 +1410,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
         "status": 1,
-        "version": 69,
+        "version": 70,
         "name": "Dizilla[Kraptor]",
         "internalName": "Dizilla[Kraptor]",
         "authors": [
@@ -1418,7 +1419,7 @@
             "keyiflerolsun"
         ],
         "description": "[28.02.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-        "fileSize": 66455,
+        "fileSize": 78458,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1494,7 +1495,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 77,
+        "version": 78,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
@@ -1502,7 +1503,7 @@
             "kerimmkirac"
         ],
         "description": "[28.02.2026] DiziPal Orijinal.",
-        "fileSize": 69529,
+        "fileSize": 81904,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1536,7 +1537,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
         "status": 1,
-        "version": 51,
+        "version": 52,
         "name": "DiziYo[Kraptor]",
         "internalName": "DiziYo[Kraptor]",
         "authors": [
@@ -1544,7 +1545,7 @@
             "ByAyzen"
         ],
         "description": "[28.02.2026] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-        "fileSize": 58375,
+        "fileSize": 70604,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1725,7 +1726,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -1733,7 +1734,7 @@
             "ByAyzen"
         ],
         "description": "[28.02.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 59619,
+        "fileSize": 72085,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2088,14 +2089,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "RareFilmm[Kraptor]",
         "internalName": "RareFilmm[Kraptor]",
         "authors": [
-            "keyiflerolsun"
+            "ByAyzen"
         ],
         "description": "[28.02.2026] The Cave of Forgotten Films",
-        "fileSize": 18540,
+        "fileSize": 26025,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "en",
         "tvTypes": [
@@ -2154,14 +2155,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "SelcukFlix[Kraptor]",
         "internalName": "SelcukFlix[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[28.02.2026] Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "fileSize": 65997,
+        "fileSize": 83362,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2486,7 +2487,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/UgurFilm.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "UgurFilm[Kraptor]",
         "internalName": "UgurFilm[Kraptor]",
         "authors": [
@@ -2494,7 +2495,7 @@
             "kerimmkirac"
         ],
         "description": "[28.02.2026] Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
-        "fileSize": 30521,
+        "fileSize": 31913,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2550,7 +2551,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 47,
+        "version": 48,
         "name": "WebteIzle[Kraptor]",
         "internalName": "WebteIzle[Kraptor]",
         "authors": [
@@ -2558,7 +2559,7 @@
             "ByAyzen"
         ],
         "description": "[28.02.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 63345,
+        "fileSize": 67847,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
