@@ -6,8 +6,9 @@ import os
 import re
 
 # Birleştirilecek plugins.json URL liste (URL: kaynak_adi)
-plugin_urls = {
-    "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
+plugin_urls = { 
+    "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/plugins.json": "kerim",
+    #"https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/plugins.json": "feroxx",
     "https://raw.githubusercontent.com/GitLatte/Sinetech/refs/heads/builds/plugins.json": "Latte",
     "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/builds/plugins.json": "Kraptor",
     "https://raw.githubusercontent.com/Sertel392/Makotogecici/refs/heads/main/plugins.json": "makoto",
