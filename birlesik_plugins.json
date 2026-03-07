@@ -2538,14 +2538,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "FilmEkseni[Kraptor]",
         "internalName": "FilmEkseni[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[07.03.2026] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-        "fileSize": 27058,
+        "fileSize": 27226,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2872,14 +2872,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KoreanTurk.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "KoreanTurk[Kraptor]",
         "internalName": "KoreanTurk[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[07.03.2026] Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
-        "fileSize": 19760,
+        "fileSize": 20433,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2892,7 +2892,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 40,
+        "version": 41,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -2901,7 +2901,7 @@
             "ByAyzen"
         ],
         "description": "[07.03.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 331170,
+        "fileSize": 336872,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3324,7 +3324,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "WebDramaTurkey[Kraptor]",
         "internalName": "WebDramaTurkey[Kraptor]",
         "authors": [
@@ -3332,7 +3332,7 @@
             "kerimmkirac"
         ],
         "description": "[07.03.2026] Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-        "fileSize": 53298,
+        "fileSize": 54465,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
