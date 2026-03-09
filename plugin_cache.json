@@ -268,14 +268,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "Dramacool[kerim]",
         "internalName": "Dramacool[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[09.03.2026] Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-        "fileSize": 22726,
+        "fileSize": 22717,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "en",
         "tvTypes": [
@@ -308,14 +308,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "FilmModu[kerim]",
         "internalName": "FilmModu[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[09.03.2026] Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-        "fileSize": 16082,
+        "fileSize": 16081,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -348,14 +348,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
         "status": 1,
-        "version": 8,
+        "version": 10,
         "name": "HDFilmIzle[kerim]",
         "internalName": "HDFilmIzle[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[09.03.2026] HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-        "fileSize": 29326,
+        "fileSize": 29327,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -2901,7 +2901,7 @@
             "ByAyzen"
         ],
         "description": "[09.03.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 336872,
+        "fileSize": 336719,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3263,14 +3263,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TvDiziler.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "TvDiziler[Kraptor]",
         "internalName": "TvDiziler[Kraptor]",
         "authors": [
             "Kraptor"
         ],
         "description": "[09.03.2026] Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-        "fileSize": 24663,
+        "fileSize": 27134,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
