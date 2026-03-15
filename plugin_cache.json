@@ -2302,7 +2302,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "DiziGom[Kraptor]",
         "internalName": "DiziGom[Kraptor]",
         "authors": [
@@ -2310,7 +2310,7 @@
             "kerimmkirac"
         ],
         "description": "[15.03.2026] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-        "fileSize": 25420,
+        "fileSize": 29577,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2664,7 +2664,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 34,
+        "version": 35,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -2672,7 +2672,7 @@
             "ByAyzen"
         ],
         "description": "[15.03.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 78575,
+        "fileSize": 77791,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
