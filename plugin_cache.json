@@ -1144,7 +1144,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30131,
+        "fileSize": 24839,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1155,7 +1155,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 54,
+        "version": 58,
         "internalName": "DiziPal[feroxx]",
         "description": "[17.03.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -2034,14 +2034,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "AsyaAnimeleri[Kraptor]",
         "internalName": "AsyaAnimeleri[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[17.03.2026] Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-        "fileSize": 18099,
+        "fileSize": 17015,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2599,8 +2599,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
-        "status": 1,
-        "version": 29,
+        "status": 0,
+        "version": 30,
         "name": "FilmModu[Kraptor]",
         "internalName": "FilmModu[Kraptor]",
         "authors": [
@@ -3237,14 +3237,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[17.03.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 128528,
+        "fileSize": 137427,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3402,8 +3402,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniWatch.cs3",
-        "status": 1,
-        "version": 11,
+        "status": 0,
+        "version": 12,
         "name": "YeniWatch[Kraptor]",
         "internalName": "YeniWatch[Kraptor]",
         "authors": [
