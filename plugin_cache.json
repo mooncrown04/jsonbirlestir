@@ -1104,7 +1104,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 33718,
+        "fileSize": 35493,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1113,7 +1113,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 62,
+        "version": 64,
         "internalName": "Dizilla[feroxx]",
         "description": "[17.03.2026] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
