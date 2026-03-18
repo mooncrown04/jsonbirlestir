@@ -1104,7 +1104,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 35161,
+        "fileSize": 35324,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1113,7 +1113,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 66,
+        "version": 70,
         "internalName": "Dizilla[feroxx]",
         "description": "[18.03.2026] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -1955,7 +1955,7 @@
             "JustRelaxable"
         ],
         "description": "[18.03.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 49101,
+        "fileSize": 49098,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2020,7 +2020,7 @@
             "kerimmkirac"
         ],
         "description": "[18.03.2026] Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
-        "fileSize": 38163,
+        "fileSize": 38165,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
