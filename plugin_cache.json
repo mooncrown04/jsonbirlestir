@@ -2259,15 +2259,16 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "DiziBox[Kraptor]",
         "internalName": "DiziBox[Kraptor]",
         "authors": [
             "kraptor",
-            "kerimmkirac"
+            "kerimmkirac",
+            "ByAyzen"
         ],
         "description": "[19.03.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 27612,
+        "fileSize": 29527,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2280,14 +2281,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziFilmORG.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "DiziFilmORG[Kraptor]",
         "internalName": "DiziFilmORG[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[19.03.2026] En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
-        "fileSize": 36446,
+        "fileSize": 41259,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2460,7 +2461,7 @@
             "kerimmkirac"
         ],
         "description": "[19.03.2026] DiziPal Orijinal.",
-        "fileSize": 90746,
+        "fileSize": 91968,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2599,8 +2600,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
-        "status": 0,
-        "version": 30,
+        "status": 1,
+        "version": 31,
         "name": "FilmModu[Kraptor]",
         "internalName": "FilmModu[Kraptor]",
         "authors": [
@@ -2639,15 +2640,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FlixHQ.cs3",
-        "status": 1,
-        "version": 6,
+        "status": 0,
+        "version": 7,
         "name": "FlixHQ[Kraptor]",
         "internalName": "FlixHQ[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[19.03.2026] Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW",
-        "fileSize": 52858,
+        "fileSize": 52857,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "en",
         "tvTypes": [
@@ -2702,14 +2703,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "GinikoCanli[Kraptor]",
         "internalName": "GinikoCanli[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[19.03.2026] Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-        "fileSize": 14429,
+        "fileSize": 16107,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2827,7 +2828,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 50,
+        "version": 51,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -2835,7 +2836,7 @@
             "ByAyzen"
         ],
         "description": "[19.03.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 49558,
+        "fileSize": 49963,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3195,14 +3196,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
         "status": 1,
-        "version": 29,
+        "version": 31,
         "name": "Sinezy[Kraptor]",
         "internalName": "Sinezy[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[19.03.2026] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-        "fileSize": 18764,
+        "fileSize": 20067,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
