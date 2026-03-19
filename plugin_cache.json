@@ -1333,7 +1333,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18113,
+        "fileSize": 18099,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1342,7 +1342,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 42,
+        "version": 43,
         "internalName": "JetFilmizle[feroxx]",
         "description": "[19.03.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -2075,14 +2075,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "AsyaMinik[Kraptor]",
         "internalName": "AsyaMinik[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[19.03.2026] Asyaminik - En Güncel Asya Dizileri Burada!",
-        "fileSize": 18681,
+        "fileSize": 19725,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2909,7 +2909,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 41,
+        "version": 42,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -2918,7 +2918,7 @@
             "ByAyzen"
         ],
         "description": "[19.03.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 336719,
+        "fileSize": 340500,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3257,14 +3257,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[19.03.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 137427,
+        "fileSize": 137994,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
