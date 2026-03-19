@@ -3109,7 +3109,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "SetFilmIzle[Kraptor]",
         "internalName": "SetFilmIzle[Kraptor]",
         "authors": [
@@ -3117,7 +3117,7 @@
             "kerimmkirac"
         ],
         "description": "[19.03.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "fileSize": 35445,
+        "fileSize": 35729,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3130,7 +3130,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "SezonlukDizi[Kraptor]",
         "internalName": "SezonlukDizi[Kraptor]",
         "authors": [
@@ -3138,7 +3138,7 @@
             "kerimmkirac"
         ],
         "description": "[19.03.2026] Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-        "fileSize": 36230,
+        "fileSize": 45659,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
