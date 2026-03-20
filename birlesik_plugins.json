@@ -2764,14 +2764,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HDFilmizle[Kraptor]",
         "internalName": "HDFilmizle[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[20.03.2026] En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-        "fileSize": 25701,
+        "fileSize": 26291,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
