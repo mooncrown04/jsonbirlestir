@@ -2302,7 +2302,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "DiziGom[Kraptor]",
         "internalName": "DiziGom[Kraptor]",
         "authors": [
@@ -2310,7 +2310,7 @@
             "kerimmkirac"
         ],
         "description": "[20.03.2026] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-        "fileSize": 29577,
+        "fileSize": 31874,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2390,14 +2390,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
         "status": 1,
-        "version": 42,
+        "version": 43,
         "name": "DiziMag[Kraptor]",
         "internalName": "DiziMag[Kraptor]",
         "authors": [
             "nikyokki"
         ],
         "description": "[20.03.2026] En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-        "fileSize": 35501,
+        "fileSize": 33675,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3278,14 +3278,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TvDiziler.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "TvDiziler[Kraptor]",
         "internalName": "TvDiziler[Kraptor]",
         "authors": [
             "Kraptor"
         ],
         "description": "[20.03.2026] Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-        "fileSize": 27134,
+        "fileSize": 30427,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
