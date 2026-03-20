@@ -268,14 +268,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
         "status": 1,
-        "version": 20,
+        "version": 21,
         "name": "Dramacool[kerim]",
         "internalName": "Dramacool[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[20.03.2026] Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-        "fileSize": 22717,
+        "fileSize": 22716,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "en",
         "tvTypes": [
@@ -348,14 +348,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "HDFilmIzle[kerim]",
         "internalName": "HDFilmIzle[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[20.03.2026] HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-        "fileSize": 29327,
+        "fileSize": 29334,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -2410,7 +2410,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
-        "version": 45,
+        "version": 46,
         "name": "DiziMom[Kraptor]",
         "internalName": "DiziMom[Kraptor]",
         "authors": [
@@ -2418,7 +2418,7 @@
             "keyiflerolsun"
         ],
         "description": "[20.03.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 37598,
+        "fileSize": 38984,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
