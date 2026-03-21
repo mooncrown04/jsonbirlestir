@@ -2410,7 +2410,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
-        "version": 46,
+        "version": 47,
         "name": "DiziMom[Kraptor]",
         "internalName": "DiziMom[Kraptor]",
         "authors": [
@@ -2418,7 +2418,7 @@
             "keyiflerolsun"
         ],
         "description": "[21.03.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 38984,
+        "fileSize": 39863,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3489,7 +3489,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "YTS[Kraptor]",
         "internalName": "YTS[Kraptor]",
         "authors": [
@@ -3498,7 +3498,7 @@
             "ByAyzen"
         ],
         "description": "[21.03.2026] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-        "fileSize": 41005,
+        "fileSize": 54799,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
