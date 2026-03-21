@@ -749,7 +749,7 @@
             "Tv",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "FilmMakinesi[kerim]",
         "description": "[21.03.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/FilmMakinesi.cs3",
@@ -788,7 +788,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "AnimeciX[kerim]",
         "description": "[21.03.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/AnimeciX.cs3",
@@ -808,7 +808,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 36,
+        "version": 37,
         "internalName": "DiziPalOrijinal[kerim]",
         "description": "[21.03.2026] Dizipal Orjinal.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziPalOrijinal.cs3",
@@ -829,7 +829,7 @@
             "Movie",
             "Live"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "InatBox[kerim]",
         "description": "[21.03.2026] InatBox.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/InatBox.cs3",
@@ -849,7 +849,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "DiziYo[kerim]",
         "description": "[21.03.2026] DiziYo.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/DiziYo.cs3",
@@ -870,7 +870,7 @@
             "Movie",
             "Live"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "RecTV[kerim]",
         "description": "[21.03.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/RecTV.cs3",
@@ -890,7 +890,7 @@
             "Tv",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "HDFilmCehennemi[kerim]",
         "description": "[21.03.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://github.com/Kraptor123/cs-kraptor/raw/refs/heads/builds/HDFilmCehennemi.cs3",
@@ -1288,7 +1288,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 28197,
+        "fileSize": 28216,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1299,7 +1299,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 27,
+        "version": 29,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[21.03.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
