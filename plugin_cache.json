@@ -1206,7 +1206,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21440,
+        "fileSize": 21345,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1216,7 +1216,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 50,
+        "version": 51,
         "internalName": "FilmMakinesi[feroxx]",
         "description": "[21.03.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -3489,7 +3489,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "YTS[Kraptor]",
         "internalName": "YTS[Kraptor]",
         "authors": [
@@ -3498,7 +3498,7 @@
             "ByAyzen"
         ],
         "description": "[21.03.2026] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-        "fileSize": 54799,
+        "fileSize": 63435,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
