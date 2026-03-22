@@ -1288,7 +1288,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 28216,
+        "fileSize": 28195,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1299,7 +1299,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 29,
+        "version": 31,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[22.03.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
