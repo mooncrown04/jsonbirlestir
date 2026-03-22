@@ -1044,7 +1044,7 @@
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20080,
+        "fileSize": 20071,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1053,7 +1053,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 10,
+        "version": 12,
         "internalName": "Ddizi[feroxx]",
         "description": "[22.03.2026] DDizi.im için Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Ddizi.cs3",
@@ -1333,7 +1333,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18099,
+        "fileSize": 18820,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1342,7 +1342,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 43,
+        "version": 44,
         "internalName": "JetFilmizle[feroxx]",
         "description": "[22.03.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -1968,7 +1968,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animeler.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "Animeler[Kraptor]",
         "internalName": "Animeler[Kraptor]",
         "authors": [
@@ -1977,7 +1977,7 @@
             "kerimmkirac"
         ],
         "description": "[22.03.2026] HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-        "fileSize": 37409,
+        "fileSize": 37805,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2496,7 +2496,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYo.cs3",
         "status": 1,
-        "version": 57,
+        "version": 58,
         "name": "DiziYo[Kraptor]",
         "internalName": "DiziYo[Kraptor]",
         "authors": [
@@ -2504,7 +2504,7 @@
             "ByAyzen"
         ],
         "description": "[22.03.2026] Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-        "fileSize": 80654,
+        "fileSize": 79254,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3217,14 +3217,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "TrAnimeIzle[Kraptor]",
         "internalName": "TrAnimeIzle[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[22.03.2026] Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
-        "fileSize": 34379,
+        "fileSize": 36197,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
