@@ -1288,7 +1288,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 28195,
+        "fileSize": 28991,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1299,7 +1299,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 31,
+        "version": 33,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[22.03.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -1461,7 +1461,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20671,
+        "fileSize": 20665,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1471,7 +1471,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "SetFilmIzle[feroxx]",
         "description": "[22.03.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -2034,14 +2034,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "AsyaAnimeleri[Kraptor]",
         "internalName": "AsyaAnimeleri[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[22.03.2026] Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-        "fileSize": 17015,
+        "fileSize": 26528,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2410,7 +2410,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
-        "version": 47,
+        "version": 48,
         "name": "DiziMom[Kraptor]",
         "internalName": "DiziMom[Kraptor]",
         "authors": [
@@ -2418,7 +2418,7 @@
             "keyiflerolsun"
         ],
         "description": "[22.03.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 39863,
+        "fileSize": 42857,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2453,15 +2453,16 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 79,
+        "version": 80,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
             "kraptor",
-            "kerimmkirac"
+            "kerimmkirac",
+            "ByAyzen"
         ],
         "description": "[22.03.2026] DiziPal Orijinal.",
-        "fileSize": 91968,
+        "fileSize": 92508,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2473,15 +2474,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziWatch.cs3",
-        "status": 1,
-        "version": 8,
+        "status": 0,
+        "version": 9,
         "name": "DiziWatch[Kraptor]",
         "internalName": "DiziWatch[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[22.03.2026] Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
-        "fileSize": 26892,
+        "fileSize": 26891,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3196,14 +3197,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "Sinezy[Kraptor]",
         "internalName": "Sinezy[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[22.03.2026] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-        "fileSize": 20067,
+        "fileSize": 20603,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
