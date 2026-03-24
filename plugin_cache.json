@@ -1144,7 +1144,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24943,
+        "fileSize": 24945,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1155,7 +1155,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 65,
+        "version": 66,
         "internalName": "DiziPal[feroxx]",
         "description": "[24.03.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -1166,7 +1166,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18824,
+        "fileSize": 19607,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1177,7 +1177,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 31,
+        "version": 32,
         "internalName": "DiziPalOriginal[feroxx]",
         "description": "[24.03.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -1458,7 +1458,7 @@
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25503,
+        "fileSize": 25508,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1472,7 +1472,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 99,
+        "version": 101,
         "internalName": "RecTV[feroxx]",
         "description": "[24.03.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -3259,7 +3259,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "TurkAnime[Kraptor]",
         "internalName": "TurkAnime[Kraptor]",
         "authors": [
@@ -3267,7 +3267,7 @@
             "ByAyzen"
         ],
         "description": "[24.03.2026] Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 43245,
+        "fileSize": 44566,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3281,14 +3281,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[24.03.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 137994,
+        "fileSize": 143572,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
