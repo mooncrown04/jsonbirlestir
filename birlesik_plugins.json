@@ -957,6 +957,26 @@
         "kaynak": "kerim"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+        "fileSize": 11876,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "patr0n"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AltiYuzAltmisAltiFilmIzle[feroxx]",
+        "description": "[25.03.2026] 666FilmIzle - Türkçe Dublaj ve Altyazılı Film izle.",
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
+        "name": "AltiYuzAltmisAltiFilmIzle[feroxx]",
+        "kaynak": "feroxx"
+    },
+    {
         "iconUrl": "https://anm.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
@@ -976,6 +996,26 @@
         "description": "[25.03.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AnimeciX.cs3",
         "name": "AnimeciX[feroxx]",
+        "kaynak": "feroxx"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+        "fileSize": 13845,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "patr0n"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AsyaAnimeleri[feroxx]",
+        "description": "[25.03.2026] Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AsyaAnimeleri.cs3",
+        "name": "AsyaAnimeleri[feroxx]",
         "kaynak": "feroxx"
     },
     {
@@ -1332,7 +1372,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 35871,
+        "fileSize": 35471,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -1344,7 +1384,7 @@
             "TvSeries",
             "Live"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "InatBox[feroxx]",
         "description": "[25.03.2026] İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/InatBox.cs3",
