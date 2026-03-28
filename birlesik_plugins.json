@@ -2116,7 +2116,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaFanatiklerim.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "AsyaFanatiklerim[Kraptor]",
         "internalName": "AsyaFanatiklerim[Kraptor]",
         "authors": [
@@ -2124,7 +2124,7 @@
             "kerimmkirac"
         ],
         "description": "[28.03.2026] Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
-        "fileSize": 18404,
+        "fileSize": 18746,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2218,7 +2218,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 20,
+        "version": 21,
         "name": "CizgiMax[Kraptor]",
         "internalName": "CizgiMax[Kraptor]",
         "authors": [
@@ -2226,7 +2226,7 @@
             "kraptor"
         ],
         "description": "[28.03.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 31038,
+        "fileSize": 32753,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2299,14 +2299,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "DiziAsya[Kraptor]",
         "internalName": "DiziAsya[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[28.03.2026] Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
-        "fileSize": 50377,
+        "fileSize": 48810,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2600,14 +2600,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "FilmEkseni[Kraptor]",
         "internalName": "FilmEkseni[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[28.03.2026] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-        "fileSize": 27226,
+        "fileSize": 27385,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2766,14 +2766,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "GinikoCanli[Kraptor]",
         "internalName": "GinikoCanli[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[28.03.2026] Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-        "fileSize": 16107,
+        "fileSize": 15669,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3279,14 +3279,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "TrAnimeIzle[Kraptor]",
         "internalName": "TrAnimeIzle[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[28.03.2026] Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
-        "fileSize": 36197,
+        "fileSize": 40280,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3321,14 +3321,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[28.03.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 151122,
+        "fileSize": 151076,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
