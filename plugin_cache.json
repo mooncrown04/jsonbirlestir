@@ -1084,7 +1084,7 @@
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20203,
+        "fileSize": 20415,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1093,7 +1093,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 12,
+        "version": 16,
         "internalName": "Ddizi[feroxx]",
         "description": "[30.03.2026] DDizi.im için Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Ddizi.cs3",
