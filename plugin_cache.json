@@ -1084,7 +1084,7 @@
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20415,
+        "fileSize": 20380,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1093,7 +1093,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 16,
+        "version": 18,
         "internalName": "Ddizi[feroxx]",
         "description": "[30.03.2026] DDizi.im için Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Ddizi.cs3",
@@ -1435,7 +1435,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24168,
+        "fileSize": 28430,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1445,7 +1445,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "KultFilmler[feroxx]",
         "description": "[30.03.2026] Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/KultFilmler.cs3",
