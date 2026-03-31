@@ -2199,7 +2199,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "CizgiMax[Kraptor]",
         "internalName": "CizgiMax[Kraptor]",
         "authors": [
@@ -2207,7 +2207,7 @@
             "kraptor"
         ],
         "description": "[31.03.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 32753,
+        "fileSize": 34649,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2220,14 +2220,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "CizgiveDizi[Kraptor]",
         "internalName": "CizgiveDizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[31.03.2026] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-        "fileSize": 37176,
+        "fileSize": 37786,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
