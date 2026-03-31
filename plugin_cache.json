@@ -1084,7 +1084,7 @@
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20380,
+        "fileSize": 20716,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1093,7 +1093,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 18,
+        "version": 20,
         "internalName": "Ddizi[feroxx]",
         "description": "[31.03.2026] DDizi.im için Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Ddizi.cs3",
@@ -1217,7 +1217,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 43,
+        "version": 44,
         "internalName": "DiziPalOriginal[feroxx]",
         "description": "[31.03.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -1350,7 +1350,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 28986,
+        "fileSize": 28709,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1361,7 +1361,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 37,
+        "version": 39,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[31.03.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
