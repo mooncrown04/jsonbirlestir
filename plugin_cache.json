@@ -1350,7 +1350,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 28709,
+        "fileSize": 28952,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1361,7 +1361,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 39,
+        "version": 40,
         "internalName": "HDFilmCehennemi[feroxx]",
         "description": "[01.04.2026] Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -1626,7 +1626,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14729,
+        "fileSize": 16008,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1635,7 +1635,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 54,
+        "version": 59,
         "internalName": "TRasyalog[feroxx]",
         "description": "[01.04.2026] TRasyalog izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
