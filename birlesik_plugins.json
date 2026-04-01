@@ -1626,7 +1626,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15902,
+        "fileSize": 14941,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1635,7 +1635,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 60,
+        "version": 64,
         "internalName": "TRasyalog[feroxx]",
         "description": "[01.04.2026] TRasyalog izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
