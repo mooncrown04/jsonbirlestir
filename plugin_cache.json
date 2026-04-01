@@ -1626,7 +1626,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16008,
+        "fileSize": 15902,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1635,7 +1635,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 59,
+        "version": 60,
         "internalName": "TRasyalog[feroxx]",
         "description": "[01.04.2026] TRasyalog izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
@@ -2872,7 +2872,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 52,
+        "version": 53,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -2880,7 +2880,7 @@
             "ByAyzen"
         ],
         "description": "[01.04.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 50097,
+        "fileSize": 54696,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
