@@ -1184,7 +1184,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25602,
+        "fileSize": 25678,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1195,7 +1195,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 67,
+        "version": 69,
         "internalName": "DiziPal[feroxx]",
         "description": "[02.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -1217,7 +1217,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 48,
+        "version": 49,
         "internalName": "DiziPalOriginal[feroxx]",
         "description": "[02.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -1501,7 +1501,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21064,
+        "fileSize": 23231,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1511,7 +1511,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "SetFilmIzle[feroxx]",
         "description": "[02.04.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -2706,7 +2706,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 35,
+        "version": 36,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -2714,7 +2714,7 @@
             "ByAyzen"
         ],
         "description": "[02.04.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 77791,
+        "fileSize": 78772,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
