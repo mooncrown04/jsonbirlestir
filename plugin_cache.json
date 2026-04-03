@@ -1543,7 +1543,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16749,
+        "fileSize": 16748,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1552,7 +1552,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "SinemaCX[feroxx]",
         "description": "[03.04.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
