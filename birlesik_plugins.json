@@ -2956,7 +2956,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 44,
+        "version": 45,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -2965,7 +2965,7 @@
             "ByAyzen"
         ],
         "description": "[07.04.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 352006,
+        "fileSize": 355317,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3099,7 +3099,7 @@
             "ByAyzen"
         ],
         "description": "[07.04.2026] RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 62450,
+        "fileSize": 62728,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3416,7 +3416,7 @@
             "ByAyzen"
         ],
         "description": "[07.04.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 71667,
+        "fileSize": 71871,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3519,7 +3519,7 @@
             "Kraptor"
         ],
         "description": "[07.04.2026] Youtube",
-        "fileSize": 114801,
+        "fileSize": 115255,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
