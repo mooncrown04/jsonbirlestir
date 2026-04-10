@@ -3216,14 +3216,15 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "SineWix[Kraptor]",
         "internalName": "SineWix[Kraptor]",
         "authors": [
-            "kraptor"
+            "kraptor",
+            "ByAyzen"
         ],
         "description": "[10.04.2026] SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-        "fileSize": 54387,
+        "fileSize": 55040,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
