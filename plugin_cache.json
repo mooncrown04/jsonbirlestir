@@ -2621,7 +2621,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
         "status": 1,
-        "version": 51,
+        "version": 52,
         "name": "FilmMakinesi[Kraptor]",
         "internalName": "FilmMakinesi[Kraptor]",
         "authors": [
@@ -2631,7 +2631,7 @@
             "nikyokki"
         ],
         "description": "[10.04.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 39559,
+        "fileSize": 54190,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2767,14 +2767,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
         "status": 1,
-        "version": 69,
+        "version": 70,
         "name": "HDFilmCehennemi[Kraptor]",
         "internalName": "HDFilmCehennemi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[10.04.2026] HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
-        "fileSize": 39669,
+        "fileSize": 53120,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3175,7 +3175,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "SezonlukDizi[Kraptor]",
         "internalName": "SezonlukDizi[Kraptor]",
         "authors": [
@@ -3183,7 +3183,7 @@
             "kerimmkirac"
         ],
         "description": "[10.04.2026] Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-        "fileSize": 45659,
+        "fileSize": 57438,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3216,7 +3216,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
         "status": 1,
-        "version": 12,
+        "version": 14,
         "name": "SineWix[Kraptor]",
         "internalName": "SineWix[Kraptor]",
         "authors": [
@@ -3224,7 +3224,7 @@
             "ByAyzen"
         ],
         "description": "[10.04.2026] SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-        "fileSize": 55696,
+        "fileSize": 55871,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
