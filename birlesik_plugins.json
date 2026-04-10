@@ -3003,7 +3003,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
         "status": 1,
-        "version": 20,
+        "version": 21,
         "name": "MirrorVerse[Kraptor]",
         "internalName": "MirrorVerse[Kraptor]",
         "authors": [
@@ -3012,7 +3012,7 @@
             "ByAyzen"
         ],
         "description": "[10.04.2026] Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-        "fileSize": 108935,
+        "fileSize": 138723,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3216,7 +3216,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "SineWix[Kraptor]",
         "internalName": "SineWix[Kraptor]",
         "authors": [
@@ -3224,7 +3224,7 @@
             "ByAyzen"
         ],
         "description": "[10.04.2026] SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-        "fileSize": 55040,
+        "fileSize": 55696,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3535,7 +3535,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "YTS[Kraptor]",
         "internalName": "YTS[Kraptor]",
         "authors": [
@@ -3544,7 +3544,7 @@
             "ByAyzen"
         ],
         "description": "[10.04.2026] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-        "fileSize": 63386,
+        "fileSize": 65554,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
