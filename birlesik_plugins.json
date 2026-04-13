@@ -2201,7 +2201,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "CizgiMax[Kraptor]",
         "internalName": "CizgiMax[Kraptor]",
         "authors": [
@@ -2209,7 +2209,7 @@
             "kraptor"
         ],
         "description": "[13.04.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 34649,
+        "fileSize": 34744,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2331,7 +2331,7 @@
             "ByAyzen"
         ],
         "description": "[13.04.2026] En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
-        "fileSize": 41259,
+        "fileSize": 41890,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2872,7 +2872,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 53,
+        "version": 54,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -2880,7 +2880,7 @@
             "ByAyzen"
         ],
         "description": "[13.04.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 54696,
+        "fileSize": 54963,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3535,7 +3535,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "YTS[Kraptor]",
         "internalName": "YTS[Kraptor]",
         "authors": [
@@ -3544,7 +3544,7 @@
             "ByAyzen"
         ],
         "description": "[13.04.2026] YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-        "fileSize": 65554,
+        "fileSize": 65760,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
