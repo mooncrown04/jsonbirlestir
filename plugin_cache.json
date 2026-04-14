@@ -18,6 +18,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-da84e8cacd009edc9e703cc8d67bfbc8810139c5ac3e5dca8b367e02663b5f0a",
         "kaynak": "kerim"
     },
     {
@@ -38,6 +39,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-ffeee4f960d17cad082d9e24d8176b6a4c0bd4917140d2354e905b5a31e786e4",
         "kaynak": "kerim"
     },
     {
@@ -60,6 +62,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-1619d2a45edab54086057197e9d5b594346602383b7d20313cb87b4d47a4505d",
         "kaynak": "kerim"
     },
     {
@@ -80,6 +83,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-be677022d1959f3919af5376d5936bef82fcf4d657f434e027cf76f35142786c",
         "kaynak": "kerim"
     },
     {
@@ -101,6 +105,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-fe8aad5988fbf9c227b2a01c2a3ddd7267c2cca60381bc6287e9a34b59d364ef",
         "kaynak": "kerim"
     },
     {
@@ -122,6 +127,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.pw&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-1aca175731ae80865978131ba45e32e8c6d503881307a82398a6d03d55868396",
         "kaynak": "kerim"
     },
     {
@@ -142,6 +148,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-2589951b035b3fa3744afcd657d229693ced7998cd75fb605b2bc183d5684fde",
         "kaynak": "kerim"
     },
     {
@@ -162,6 +169,7 @@
         ],
         "iconUrl": "https://dizimag.nl/uploads/logo/original/logo-5063.webp",
         "apiVersion": 1,
+        "fileHash": "sha256-dccd12610cc90f72d12197cda3577e7250020b22bafd463c5feca4c0979891b2",
         "kaynak": "kerim"
     },
     {
@@ -182,6 +190,7 @@
         ],
         "iconUrl": "https://www.dizimom.one/wp-content/uploads/2019/07/logo.png",
         "apiVersion": 1,
+        "fileHash": "sha256-3e4a7b8b3d36d1040864f7177e727b5df1695f046a2c6db20c55befdc2c07932",
         "kaynak": "kerim"
     },
     {
@@ -202,6 +211,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizimore.net&size=64",
         "apiVersion": 1,
+        "fileHash": "sha256-fe4eac8259124a2655be1f2f33d7f9b6f36906db38c35eca8da74b5a4be5af6d",
         "kaynak": "kerim"
     },
     {
@@ -223,6 +233,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-19dfbdc9f152e37775e13bfbee2be58ed0378e4ea39b98dcd3a059d89e1e6fe9",
         "kaynak": "kerim"
     },
     {
@@ -243,6 +254,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-8d7bb92dd70687ef30e656c9edcd477cdd58bd02b3211f5c603c3c890e27fd5e",
         "kaynak": "kerim"
     },
     {
@@ -263,6 +275,7 @@
         ],
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1,
+        "fileHash": "sha256-751a0cd5c2d658febfe1896c1fd842aba8cc3887bb9bfd6afb236fbf55e25247",
         "kaynak": "kerim"
     },
     {
@@ -283,6 +296,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-7dea2ba350646816e9eb735026653664c5ba900aa76cd8b6ac73099d09971563",
         "kaynak": "kerim"
     },
     {
@@ -303,19 +317,20 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-c972e541b7163075fe9051cc3f22c25fff2b4e3576425a01a9dad0a5fa768d3c",
         "kaynak": "kerim"
     },
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FilmModu.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "FilmModu[kerim]",
         "internalName": "FilmModu[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[14.04.2026] Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-        "fileSize": 16081,
+        "fileSize": 16077,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -323,6 +338,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-e9628dc1c3badbd4e36bbf29021e6181542d771581cdb7e2d1f13a148f6b1df7",
         "kaynak": "kerim"
     },
     {
@@ -343,6 +359,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.tv&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-6f9bc0b037846f0d2c0301d2752754b453962c8481f6316d2a55670e979f3601",
         "kaynak": "kerim"
     },
     {
@@ -364,6 +381,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-bcd68b3062be59e5d633af6bd41dec2b47e2428e6105a1a7f988b740f077654c",
         "kaynak": "kerim"
     },
     {
@@ -384,6 +402,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-35437ee258d8d47dbcce3abdb53e69d47f94224adad1fde4aade226c6ff3bcfb",
         "kaynak": "kerim"
     },
     {
@@ -405,6 +424,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-ff98f28e5c0ba8ca69bf87a5399939d2b255edc7a451be5883f9cd2b66842432",
         "kaynak": "kerim"
     },
     {
@@ -425,6 +445,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-43289266a226d293680d4890d0949a4aa59007f43e6e0420f1bc3a114fcc9fea",
         "kaynak": "kerim"
     },
     {
@@ -446,6 +467,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-479e16576c621d637c6f282164813f0bc60afbbc23e2ebfb958b268bd618129a",
         "kaynak": "kerim"
     },
     {
@@ -467,6 +489,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.my/&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-b2285647b90cbfbdb398a4661f7beeb0e69d72069693d82f514a9353e1d3e8ae",
         "kaynak": "kerim"
     },
     {
@@ -487,6 +510,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi8.com&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-f869c3fdabf8bef42a46be68ad07de9fa8ea1415d155b103d32a9dcf08f2b797",
         "kaynak": "kerim"
     },
     {
@@ -508,6 +532,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-bfec1770d338b4ccb54294a20b7bbdc3b2392150081a7e9455713b999163069c",
         "kaynak": "kerim"
     },
     {
@@ -532,6 +557,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
         "apiVersion": 1,
+        "fileHash": "sha256-78a306864114ab2ecf81e4edd6e9a5fd92a5f77c2fffc19b5aa00d586489e4ff",
         "kaynak": "kerim"
     },
     {
@@ -552,6 +578,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinezy.ink/&size=48",
         "apiVersion": 1,
+        "fileHash": "sha256-0072aa174e54c6b6979c215dcfc53c3bcd9d754b3691621ce75ba64c065235d6",
         "kaynak": "kerim"
     },
     {
@@ -572,6 +599,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-ee0b6a378f952e4b79e8bb7ea44dc139ea6b9ab0bec96ab98cbfce436b8246a1",
         "kaynak": "kerim"
     },
     {
@@ -592,6 +620,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-9d8787342e7ad3e0136f675341b818d46fb362beb39badfc24f5fbc04367cb37",
         "kaynak": "kerim"
     },
     {
@@ -612,6 +641,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm2.xyz&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-80248970e17e0c4304b0db0e2f132caaf836ac8e5335ba137c56c522a9ebd98f",
         "kaynak": "kerim"
     },
     {
@@ -633,6 +663,7 @@
         ],
         "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
         "apiVersion": 1,
+        "fileHash": "sha256-72150d6b420d73dffeffedcfdb6274b52d2e9abf4363fc29afeb8c95c9960acb",
         "kaynak": "kerim"
     },
     {
@@ -655,6 +686,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
         "apiVersion": 1,
+        "fileHash": "sha256-5da6c13e2d2a5881c9c8ca2a193e343805cf7dc18b9e69983e3a6e920870e4b0",
         "kaynak": "kerim"
     },
     {
@@ -675,6 +707,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-573ea7dc6490e34e27814f9c183464f35cde2fde2afb22f4fd8aa694c6fcb972",
         "kaynak": "kerim"
     },
     {
@@ -696,6 +729,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
         "apiVersion": 1,
+        "fileHash": "sha256-72dbff94545b6d31e71fd289a05e29d48ccf64855a9aeaf9d00b7902fd46b8d3",
         "kaynak": "kerim"
     },
     {
@@ -716,6 +750,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=yeniwatch.net.tr&sz=%size%",
         "apiVersion": 1,
+        "fileHash": "sha256-1c0ac01238c129224e66c2f591749092a6b19de5213acd4ce11495c989714da0",
         "kaynak": "kerim"
     },
     {
@@ -958,6 +993,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
+        "fileHash": "sha256-e4b19d4b09fe2a0217dd49bd00ba8c54671dd721661627349ded2fe6fa34c0e1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 12020,
@@ -978,6 +1014,7 @@
     },
     {
         "iconUrl": "https://anm.cx/favicon.ico",
+        "fileHash": "sha256-7df34f288601e9a83d89d3e3686ee8f65ac38aa4d0ab2c6bd4ec565b683f1586",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 26093,
@@ -1000,6 +1037,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
+        "fileHash": "sha256-33d393fffc2a3a2237b86f5f1ec0789924014fe3901c23c273b22093197f74e6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 13797,
@@ -1020,6 +1058,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "fileHash": "sha256-59000debfb2693f1191d7744afde3f894474758be814066a00af87ba502d9bb7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 21782,
@@ -1041,6 +1080,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "fileHash": "sha256-ec5e6be0ff80512c8ce0ecaf485052a3b51d58d835385f5a95ea4588d20b60df",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 19690,
@@ -1062,6 +1102,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "fileHash": "sha256-d21938979facf42da2b2315b5a05de07f4186df441067eb792718b1b8419ff5e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 20763,
@@ -1082,6 +1123,7 @@
     },
     {
         "iconUrl": "https://www.ddizi.im/favicon.ico",
+        "fileHash": "sha256-900a937d1f725b52cd086b0fec15b73cb642292cb1fd55fd81fce12c9de82809",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 20435,
@@ -1102,6 +1144,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
+        "fileHash": "sha256-3671566d47b0a4434af6b6f574a6700ab953204221030e788a0ad70220fecf60",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 23079,
@@ -1122,6 +1165,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+        "fileHash": "sha256-280e827b742f9e177ed393bf79c560ec05a5b82d61569163c6ca1cc5b1c0dd85",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 25394,
@@ -1142,6 +1186,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+        "fileHash": "sha256-df371dc29989ff818cb50d5b8645857d812f6c788ad947b55dfcd0d05d67836f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 37170,
@@ -1162,6 +1207,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
+        "fileHash": "sha256-932c7dceac4917be3400f4c21bee7e26ec44fa4eca6a272dce8a32e709fd76ba",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 35006,
@@ -1182,9 +1228,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
+        "fileHash": "sha256-c27df68f5f933cc0e5e93495f04b91c425f3f5e8374deaa7aa79333fb82bb298",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 26348,
+        "fileSize": 26349,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1195,7 +1242,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 78,
+        "version": 79,
         "internalName": "DiziPal[feroxx]",
         "description": "[14.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -1204,6 +1251,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
+        "fileHash": "sha256-3b64a74a2209e656c9675e43a35d7f43b8218fc9a2b90654b386df75bc90676c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 24285,
@@ -1226,6 +1274,7 @@
     },
     {
         "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "fileHash": "sha256-2cdb578fcbe978cd21e817b32cbee5569414be8df015bba44edc746fa7c2bcf9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 17327,
@@ -1246,6 +1295,7 @@
     },
     {
         "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
+        "fileHash": "sha256-437d8473786b0b9282c99675103d60474245d3af8d25deac0406d0f6ac89bc9a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 16201,
@@ -1266,6 +1316,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+        "fileHash": "sha256-9b7100ade86450c0a4138bc65860bdf5f47bb400a6a074d6b26fc44a4cd89bc9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 21332,
@@ -1287,9 +1338,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "fileHash": "sha256-8ac4c6c46d78abd54f9586937fcb2e402645d93c35814d1c3a5a7a67afc06b3f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16740,
+        "fileSize": 16738,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1298,7 +1350,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "FilmModu[feroxx]",
         "description": "[14.04.2026] Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmModu.cs3",
@@ -1307,6 +1359,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
+        "fileHash": "sha256-0cdab6cf7d2b9a42c65c6d53c44ac2e2c671930c670dc6267c2d103f939a51ff",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 28425,
@@ -1328,6 +1381,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+        "fileHash": "sha256-ef36dededc678533a1f4f4d91d90efc71e8928bc28b88ec5c7001d9a1ff6be8d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 40661,
@@ -1348,6 +1402,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "fileHash": "sha256-68ff5d4b916b111cb0a0039feb2934a09e0b9dfbd9bcf18c2b30a7014208b909",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 30732,
@@ -1370,6 +1425,7 @@
     },
     {
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "fileHash": "sha256-063b7880e49964a53e73756b089172af0f4c2e2e51ea5081cd1517a117662726",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 35856,
@@ -1393,6 +1449,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+        "fileHash": "sha256-e3a0a6cb2d7195e2175bfc877104652718217a3672dd3bfec61a5872afd72725",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 21430,
@@ -1413,6 +1470,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
+        "fileHash": "sha256-c94856c3f51716dbf3289515bece692b55265fd4dbea74d4d5f7f4852edca582",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 13363,
@@ -1433,6 +1491,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
+        "fileHash": "sha256-e0b4c28f5cafed289944f08ae400ccba497809ecad57c66081d2d840830ad393",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 28430,
@@ -1454,6 +1513,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+        "fileHash": "sha256-d2b2c2ac8d7beb49557f13be948553bfdfc4fcb7b956bf56d2b2486337a4a3b1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 15649,
@@ -1474,6 +1534,7 @@
     },
     {
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
+        "fileHash": "sha256-db6a9a389f03cea223d14fe0c0cd1ff70dea0c36203ee063b7a0da227e0fd9d0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 26691,
@@ -1499,6 +1560,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
+        "fileHash": "sha256-de4c11d2c4dd3f1b2860d7b032d3a5f8a12814b488c751de3ba90c82d37f04af",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 23157,
@@ -1520,6 +1582,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+        "fileHash": "sha256-d40f18942b5cdf776f8241eb2dc8a55f1e3cad277a106b8ac40db1131a10ea5a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 21816,
@@ -1541,6 +1604,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+        "fileHash": "sha256-3005283545a2ddb43b0660ffa029531556874183fbd2e112cb7d5607cd832e15",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 16748,
@@ -1561,6 +1625,7 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+        "fileHash": "sha256-beff828cc0e6648ec21c48e957cf36a6d77eab69066b03ed503c4dd2afed8a22",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 22636,
@@ -1584,6 +1649,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+        "fileHash": "sha256-106f85257bd11d0a0913311a88ff713bc5996fa9e86dc5a00e35ea31cb47632c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 14441,
@@ -1604,6 +1670,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
+        "fileHash": "sha256-3ad39e44c55254f414ef707ebf3f8fde6acf17a9ea42a8f1abf94ae2ce71cd18",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 14236,
@@ -1624,6 +1691,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
+        "fileHash": "sha256-85cbc1b45185cda9d4750a757000bd6cfe030fe8749f4a6a143e627f19bc5040",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 14941,
@@ -1644,6 +1712,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
+        "fileHash": "sha256-7b09d7f3f9eff9d8a08023cd5728ba06644c247e528b4c9b0cd8b3f81ee278ac",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 18680,
@@ -1664,6 +1733,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
+        "fileHash": "sha256-dc3841481b65860a4e021caf9d0ec6dd2d10c4207ed14ce956a97c946ecbb196",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 24248,
@@ -1684,6 +1754,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
+        "fileHash": "sha256-18ae9a89499793b5f6970d7d47a7ba92d07ace06c5d5ba8bc5a4ca4e69a3f30d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 19735,
@@ -1704,6 +1775,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "fileHash": "sha256-2d576ab2e4cb0ef0f53e35710aaa707a124f26baf5eafb51f783be5dba996ac4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "fileSize": 23488,
