@@ -1295,10 +1295,10 @@
     },
     {
         "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
-        "fileHash": "sha256-ae4eb1b18c0dcd3d8a5a128fb639c820ef0cc0d150bb6e94abd61ee7b78e5269",
+        "fileHash": "sha256-cbe6fb2d71e59ebbf04b8bf557fdc36224a37132f04814a1d97d8bc863127d61",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 17696,
+        "fileSize": 17372,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1307,7 +1307,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "FilmBip[feroxx]",
         "description": "[15.04.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmBip.cs3",
