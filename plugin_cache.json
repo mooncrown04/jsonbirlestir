@@ -1228,10 +1228,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
-        "fileHash": "sha256-c27df68f5f933cc0e5e93495f04b91c425f3f5e8374deaa7aa79333fb82bb298",
+        "fileHash": "sha256-e0c30d729f4ebcdd074a089ce0116694521b6e737a11c2b2711149db01dbfdb1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 26349,
+        "fileSize": 26348,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1242,7 +1242,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 79,
+        "version": 80,
         "internalName": "DiziPal[feroxx]",
         "description": "[19.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -1251,10 +1251,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
-        "fileHash": "sha256-3b64a74a2209e656c9675e43a35d7f43b8218fc9a2b90654b386df75bc90676c",
+        "fileHash": "sha256-dd3ae83d6c359bc682e5fed0091161f64f918a6fbb0d5a773db0a1ffea625d2e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24285,
+        "fileSize": 24284,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1265,7 +1265,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 52,
+        "version": 53,
         "internalName": "DiziPalOriginal[feroxx]",
         "description": "[19.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
