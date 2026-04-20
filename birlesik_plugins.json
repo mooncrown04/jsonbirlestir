@@ -1316,10 +1316,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
-        "fileHash": "sha256-41f14471b0c99d552730c721a2be593e459926293333b478969b7f636571b2d0",
+        "fileHash": "sha256-6511c52a7551d54460743f6e43ff49d2368ba348de4b19af6db8909cf9043a87",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21331,
+        "fileSize": 18994,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1329,7 +1329,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 54,
+        "version": 55,
         "internalName": "FilmMakinesi[feroxx]",
         "description": "[20.04.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
