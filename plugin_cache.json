@@ -1325,7 +1325,7 @@
             "usdogu"
         ],
         "description": "[22.04.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 18893,
+        "fileSize": 20336,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1333,7 +1333,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-510f2255a56a002a7b98313bc26f571d10133995bccd990215b5ef68ead17162",
+        "fileHash": "sha256-f17cdd53d8e0db7258a866ef69757c44d87d9a48a91a288faf3faea6f722e000",
         "kaynak": "feroxx"
     },
     {
