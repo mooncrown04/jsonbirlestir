@@ -1317,7 +1317,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
         "status": 1,
-        "version": 56,
+        "version": 57,
         "name": "FilmMakinesi[feroxx]",
         "internalName": "FilmMakinesi[feroxx]",
         "authors": [
@@ -1333,7 +1333,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-f17cdd53d8e0db7258a866ef69757c44d87d9a48a91a288faf3faea6f722e000",
+        "fileHash": "sha256-589ef8b5e7dd683c1a739edca196709742f8e6200c86a7275931891559fefbda",
         "kaynak": "feroxx"
     },
     {
