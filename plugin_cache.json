@@ -1605,14 +1605,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "SinemaCX[feroxx]",
         "internalName": "SinemaCX[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[24.04.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-        "fileSize": 16691,
+        "fileSize": 16693,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1620,7 +1620,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-2645ff2f4ffc147d9401d4db0a3db813cbc5cd81495cb313e1bbfae4b5f01149",
+        "fileHash": "sha256-3c496ff118452705b240bc4e2ab887efc5c1496897d0a0bf851db40d0ff04a4c",
         "kaynak": "feroxx"
     },
     {
@@ -2875,14 +2875,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "HDFilmizle[Kraptor]",
         "internalName": "HDFilmizle[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[24.04.2026] En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-        "fileSize": 24970,
+        "fileSize": 25758,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2890,7 +2890,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-bca47dd344064dd29a13b5f612c9bd54f826c028bd343e8bb2aff9b33d300f97",
+        "fileHash": "sha256-fe5804f97a2cac0f427022dedeaaa390eab5aae110e047e9d850711bbdaf1ca7",
         "kaynak": "Kraptor"
     },
     {
