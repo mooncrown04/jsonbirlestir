@@ -1229,7 +1229,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 82,
+        "version": 83,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
@@ -1246,7 +1246,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-bd2ed101eab8ff7c6a779abe31919b6c88c8b01f29c8722e7aec4491f3dacd2a",
+        "fileHash": "sha256-0ad6becf904be8e5af99dc8487b774e4e333be499893dbd7750ee6d9c79cd53b",
         "kaynak": "feroxx"
     },
     {
