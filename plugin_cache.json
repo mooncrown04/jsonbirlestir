@@ -2219,7 +2219,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "AsyaWatch[Kraptor]",
         "internalName": "AsyaWatch[Kraptor]",
         "authors": [
@@ -2234,7 +2234,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
         "apiVersion": 1,
-        "fileHash": "sha256-b41b3a1c48a1e9bc893aed339c15e6f6a5c78f07ba884200df98896f77758c7a",
+        "fileHash": "sha256-cc9e66c12fe41987b14d62feafd9cc63fef66fbd714e8b0de9825cc78170b56c",
         "kaynak": "Kraptor"
     },
     {
@@ -2442,7 +2442,7 @@
             "kerimmkirac"
         ],
         "description": "[28.04.2026] Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-        "fileSize": 51554,
+        "fileSize": 51524,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2452,7 +2452,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizigom1.co",
         "apiVersion": 1,
-        "fileHash": "sha256-0b02eb0c2317c8afa816da623704671de230106a700f076c1e86cc735c9cd261",
+        "fileHash": "sha256-401d0ebaaa53825a0ce49298fa906e020f2703b8e9380e26ffa8f4b896d6bd8e",
         "kaynak": "Kraptor"
     },
     {
@@ -2592,7 +2592,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 86,
+        "version": 87,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
@@ -2601,7 +2601,7 @@
             "ByAyzen"
         ],
         "description": "[28.04.2026] DiziPal Orijinal.",
-        "fileSize": 109855,
+        "fileSize": 124831,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2609,7 +2609,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-59cdfac471010e3c794a5038bed7618b22c22f2701a68b8e5e011b4b2e0c7bc5",
+        "fileHash": "sha256-a34cd1fea2cdf987f8f4a5ea9c877528f34a5dd0cceaed9d0680881031084584",
         "kaynak": "Kraptor"
     },
     {
@@ -3358,7 +3358,7 @@
             "ByAyzen"
         ],
         "description": "[28.04.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 152851,
+        "fileSize": 153033,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3366,7 +3366,7 @@
         ],
         "iconUrl": "https://i.imgur.com/Cff8v6J.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f4c84d76dc02ca04c9c46184ee329a762847ce8ea222b41213f7e58d023b131b",
+        "fileHash": "sha256-0e6a1ec653cde11f3f3169e434a76ef8c6c938d4a5b38a2ef4db8f3f838c8fc0",
         "kaynak": "Kraptor"
     },
     {
