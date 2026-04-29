@@ -1229,7 +1229,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 85,
+        "version": 86,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
@@ -1237,7 +1237,7 @@
             "muratcesmecioglu"
         ],
         "description": "[29.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 26322,
+        "fileSize": 27715,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1246,13 +1246,13 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-0ec8d453524ae1dce1780223475e3c1479f3dfd65aab48117b1d3775e42e593b",
+        "fileHash": "sha256-95a20edaf87e6520f5c0428c18e275cc6e3b344f83eadbbfd4ee45e53dbb01d2",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 57,
+        "version": 58,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -1260,7 +1260,7 @@
             "muratcesmecioglu"
         ],
         "description": "[29.04.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24014,
+        "fileSize": 24017,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1269,7 +1269,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-bd6783d6dba6ee641136c6d8dea09b0a137a3a74feba9b649648e292970b9e8b",
+        "fileHash": "sha256-3b97f3641bb80648ce01efe0d8b9471aaf1907a83111270a3eb307e50781c56f",
         "kaynak": "feroxx"
     },
     {
@@ -2389,7 +2389,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "DiziBox[Kraptor]",
         "internalName": "DiziBox[Kraptor]",
         "authors": [
@@ -2398,7 +2398,7 @@
             "ByAyzen"
         ],
         "description": "[29.04.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 29667,
+        "fileSize": 29823,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2406,7 +2406,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-e6e5f3c8085b194dfcd1a954143ab0162c6cc010afc54e96f0da101d8b885cef",
+        "fileHash": "sha256-d72300c278f84c3573fc2da8056c02f735ebb71cba714b9b32ac91a0293d24a9",
         "kaynak": "Kraptor"
     },
     {
