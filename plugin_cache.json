@@ -1187,14 +1187,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
         "status": 1,
-        "version": 89,
+        "version": 91,
         "name": "Dizilla[feroxx]",
         "internalName": "Dizilla[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[01.05.2026] Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-        "fileSize": 36780,
+        "fileSize": 37051,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1202,7 +1202,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c319f911562534c37f06e38f13dac9eb92d5f8b048d49f5e54e4924126e9db3c",
+        "fileHash": "sha256-44cd6ee59f2180a04f601e8a6854104a9c7a7fb10ef0f6721663b8b02efa3b07",
         "kaynak": "feroxx"
     },
     {
@@ -1229,7 +1229,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 86,
+        "version": 87,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
@@ -1237,7 +1237,7 @@
             "muratcesmecioglu"
         ],
         "description": "[01.05.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 27715,
+        "fileSize": 27729,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1246,7 +1246,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-95a20edaf87e6520f5c0428c18e275cc6e3b344f83eadbbfd4ee45e53dbb01d2",
+        "fileHash": "sha256-1a46cf715e0fc96240c92bbf95428cadb57e6843aebb3cdace796204d235453d",
         "kaynak": "feroxx"
     },
     {
@@ -3260,7 +3260,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "SineWix[Kraptor]",
         "internalName": "SineWix[Kraptor]",
         "authors": [
@@ -3268,7 +3268,7 @@
             "ByAyzen"
         ],
         "description": "[01.05.2026] SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-        "fileSize": 59535,
+        "fileSize": 59099,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3280,7 +3280,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
         "apiVersion": 1,
-        "fileHash": "sha256-0f385083a225e3927819e52a523460a8278a7f844985cbc7802179aa69b2ae5a",
+        "fileHash": "sha256-4a2b05109a8750632618ab6ba628ff27ce65d364b8761754b9a7e755aabb7226",
         "kaynak": "Kraptor"
     },
     {
