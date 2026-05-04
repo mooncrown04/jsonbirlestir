@@ -344,14 +344,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "FullHDFilmizlesene[kerim]",
         "internalName": "FullHDFilmizlesene[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[04.05.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 59228,
+        "fileSize": 59231,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -359,7 +359,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.tv&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-6f9bc0b037846f0d2c0301d2752754b453962c8481f6316d2a55670e979f3601",
+        "fileHash": "sha256-204f2334518d8ba20cd676d1d83ec70e85b74cd381d0285952e87752f3dff509",
         "kaynak": "kerim"
     },
     {
@@ -2219,14 +2219,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
         "status": 1,
-        "version": 28,
+        "version": 30,
         "name": "AsyaWatch[Kraptor]",
         "internalName": "AsyaWatch[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[04.05.2026] Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-        "fileSize": 49340,
+        "fileSize": 50552,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2234,7 +2234,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
         "apiVersion": 1,
-        "fileHash": "sha256-f88da93e9b980235a08ced9e29213372e86c43f28a75a421c00f64471c2cc1db",
+        "fileHash": "sha256-276a2d43906da016dd7f25cd780a351dd8fc41b6e9305c409f94b2cff13a06a4",
         "kaynak": "Kraptor"
     },
     {
@@ -2503,7 +2503,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
         "status": 1,
-        "version": 85,
+        "version": 86,
         "name": "Dizilla[Kraptor]",
         "internalName": "Dizilla[Kraptor]",
         "authors": [
@@ -2512,7 +2512,7 @@
             "keyiflerolsun"
         ],
         "description": "[04.05.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-        "fileSize": 110009,
+        "fileSize": 111163,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2520,7 +2520,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
         "apiVersion": 1,
-        "fileHash": "sha256-b8c00600792c3c30f231f7897b3222d0d7c6725e1b7c5992d7cddd1eb37f308d",
+        "fileHash": "sha256-f250c7d271116968441e1c354cbd34af669e9d04739541b74d2c6b0b401b1b27",
         "kaynak": "Kraptor"
     },
     {
@@ -3173,14 +3173,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "SelcukFlix[Kraptor]",
         "internalName": "SelcukFlix[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[04.05.2026] Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "fileSize": 52503,
+        "fileSize": 53970,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3189,7 +3189,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
         "apiVersion": 1,
-        "fileHash": "sha256-d15c62f41e1fb7a148a895758eb3f5983556023194d8545d81b86ffa4daea400",
+        "fileHash": "sha256-2e9f70bf23bb46c7f1bd2a3508e3dfa9b164a0fd8fc99d066ca6ad89f5eca812",
         "kaynak": "Kraptor"
     },
     {
