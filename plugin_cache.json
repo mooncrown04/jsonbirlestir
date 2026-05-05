@@ -2480,7 +2480,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "DiziLife[Kraptor]",
         "internalName": "DiziLife[Kraptor]",
         "authors": [
@@ -2488,7 +2488,7 @@
             "kraptor"
         ],
         "description": "[05.05.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-        "fileSize": 52568,
+        "fileSize": 55112,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2497,7 +2497,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
         "apiVersion": 1,
-        "fileHash": "sha256-ac0dea041c7bc1213269725275ba8d7304a0db77678dc6c2066dd3aeb81bdc36",
+        "fileHash": "sha256-06a3d8bbe8c6a32e8bb4b7fffbd034cbb279ee333356ef359d8e0ab3224307b5",
         "kaynak": "Kraptor"
     },
     {
@@ -2943,7 +2943,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KickTR.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "KickTR[Kraptor]",
         "internalName": "KickTR[Kraptor]",
         "authors": [
@@ -2951,7 +2951,7 @@
             "kraptor"
         ],
         "description": "[05.05.2026] Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-        "fileSize": 28171,
+        "fileSize": 29974,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2959,7 +2959,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
         "apiVersion": 1,
-        "fileHash": "sha256-f3e67ff51cb428d888820a379486c62782fe0bde8df7362769c2422e422bdad3",
+        "fileHash": "sha256-4d1d747b15ef038e0bc695f58d1b35dc0d7da70c00df915d3877d5b2ba1ed8ad",
         "kaynak": "Kraptor"
     },
     {
