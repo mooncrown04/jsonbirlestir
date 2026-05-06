@@ -2986,7 +2986,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 51,
+        "version": 52,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -2995,7 +2995,7 @@
             "ByAyzen"
         ],
         "description": "[06.05.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 389632,
+        "fileSize": 392521,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3008,7 +3008,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b5e785a63a2a095defef0f724c290bf688e310dc29ce20d5283c2c4abac09977",
+        "fileHash": "sha256-fc1f8c4613f928e22f631428dc08b17743346888c3ff47405cf6bb3035e1c7a6",
         "kaynak": "Kraptor"
     },
     {
@@ -3037,7 +3037,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "MirrorVerse[Kraptor]",
         "internalName": "MirrorVerse[Kraptor]",
         "authors": [
@@ -3046,7 +3046,7 @@
             "ByAyzen"
         ],
         "description": "[06.05.2026] Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-        "fileSize": 140538,
+        "fileSize": 138244,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3055,7 +3055,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6d9b0552b20a1f7053f8037e57b5a20dc1d131274a1ed5d941a6029e8cd2376d",
+        "fileHash": "sha256-c8dfe12fce97ac70150abe60e87e2cd2ff8a25a4f429b9cc8ef9ad441228cb79",
         "kaynak": "Kraptor"
     },
     {
