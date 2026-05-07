@@ -2305,14 +2305,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
         "status": 1,
-        "version": 33,
+        "version": 34,
         "name": "CizgiveDizi[Kraptor]",
         "internalName": "CizgiveDizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[07.05.2026] Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-        "fileSize": 42927,
+        "fileSize": 43466,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2320,7 +2320,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
         "apiVersion": 1,
-        "fileHash": "sha256-adfc8ad71b840b45a6e0532d8d27c8eacd0eb7a08b58a2544f61d4ed1168d52f",
+        "fileHash": "sha256-8164bf1007d77b48f00f87297c1cd1c0db094ae74e7a4dfdc32df9a19b115985",
         "kaynak": "Kraptor"
     },
     {
@@ -2503,7 +2503,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
         "status": 1,
-        "version": 86,
+        "version": 87,
         "name": "Dizilla[Kraptor]",
         "internalName": "Dizilla[Kraptor]",
         "authors": [
@@ -2512,7 +2512,7 @@
             "keyiflerolsun"
         ],
         "description": "[07.05.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-        "fileSize": 111163,
+        "fileSize": 111361,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2520,7 +2520,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
         "apiVersion": 1,
-        "fileHash": "sha256-f250c7d271116968441e1c354cbd34af669e9d04739541b74d2c6b0b401b1b27",
+        "fileHash": "sha256-c994d2c74235c4334eaf56065678daa1e067b192b0b4020a8da3c613c972e4b8",
         "kaynak": "Kraptor"
     },
     {
