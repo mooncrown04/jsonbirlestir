@@ -1208,14 +1208,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 39,
+        "version": 40,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[07.05.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34696,
+        "fileSize": 34693,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1223,7 +1223,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-338dd08eaed93f607c6f01f52026acd4733225471727f4a26ad1552210da1197",
+        "fileHash": "sha256-28d59dd5d7769735f27c5397f6578a89fc5fbe688c45a9d2956cca150492aa90",
         "kaynak": "feroxx"
     },
     {
@@ -1252,7 +1252,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 58,
+        "version": 59,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -1269,7 +1269,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-3b97f3641bb80648ce01efe0d8b9471aaf1907a83111270a3eb307e50781c56f",
+        "fileHash": "sha256-70f18310561db270f96dd0b3c37afd55bb76ac88aa65116a3a796b1efcff0b8b",
         "kaynak": "feroxx"
     },
     {
@@ -1382,14 +1382,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "FullHDFilmizlesene[feroxx]",
         "internalName": "FullHDFilmizlesene[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[07.05.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 40669,
+        "fileSize": 40663,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -1397,7 +1397,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-2c3eb6e2c40deba05053ae5e765b4c04fa2980e45bdd01ec000a0502458f5f81",
+        "fileHash": "sha256-ebb53b2a989c8142fb7ba0ba4caab214a42c5c3f61905dff936c9886156c8e69",
         "kaynak": "feroxx"
     },
     {
