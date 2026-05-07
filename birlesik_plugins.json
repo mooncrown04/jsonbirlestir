@@ -281,14 +281,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/Dramacool.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "Dramacool[kerim]",
         "internalName": "Dramacool[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[07.05.2026] Watch drama asian Online for free releases in Korean, Taiwanese, Thailand, Japanese and Chinese with English subtitles on Dramacool.",
-        "fileSize": 22719,
+        "fileSize": 22725,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "en",
         "tvTypes": [
@@ -296,7 +296,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramacool.com.tr&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-9e0e45d2be7d07cdb8050eda45ea8e71e254f06c1db402d4fac19dec24d5f2a0",
+        "fileHash": "sha256-731a983f83cb967e11e3d44e284fc2a7e7b42c4db55a2e5c5a2b51caf530241d",
         "kaynak": "kerim"
     },
     {
@@ -2488,7 +2488,7 @@
             "kraptor"
         ],
         "description": "[07.05.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-        "fileSize": 55112,
+        "fileSize": 55107,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2497,7 +2497,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
         "apiVersion": 1,
-        "fileHash": "sha256-06a3d8bbe8c6a32e8bb4b7fffbd034cbb279ee333356ef359d8e0ab3224307b5",
+        "fileHash": "sha256-c250dabe0643c65101183f3ff68403cde2f258901b6a9832b8578a9060f3d65c",
         "kaynak": "Kraptor"
     },
     {
@@ -2680,13 +2680,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "FilmHane[Kraptor]",
         "internalName": "FilmHane[Kraptor]",
         "authors": [
-            "kraptor"
+            "kraptor",
+            "ByAyzen"
         ],
-        "fileSize": 25479,
+        "fileSize": 46869,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2694,7 +2695,7 @@
         ],
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
-        "fileHash": "sha256-6f5e2f64034b6a727678ddab7247515ff0e703af5b96085fabb36fb7de87f022",
+        "fileHash": "sha256-29056bc4f31dda5cace6f0e7105fc5b87dc0be8cacccdfcbdb8efa3d70e6ed58",
         "description": "[07.05.2026] ",
         "kaynak": "Kraptor"
     },
@@ -3351,14 +3352,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[07.05.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 153943,
+        "fileSize": 153945,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -3366,7 +3367,7 @@
         ],
         "iconUrl": "https://i.imgur.com/Cff8v6J.png",
         "apiVersion": 1,
-        "fileHash": "sha256-529ffb9b3505ad68a862182921e9e507e392b5e8af931233fa340276aa55ee93",
+        "fileHash": "sha256-3497ce70a04fbe259d90463bc408464acad4949eb535bbcfdfbe8d81cc9726bd",
         "kaynak": "Kraptor"
     },
     {
