@@ -365,14 +365,14 @@
     {
         "url": "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/builds/HDFilmIzle.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "HDFilmIzle[kerim]",
         "internalName": "HDFilmIzle[kerim]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[10.05.2026] HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-        "fileSize": 29334,
+        "fileSize": 29321,
         "repositoryUrl": "https://github.com/kerimmkirac/cs-kerim",
         "language": "tr",
         "tvTypes": [
@@ -381,7 +381,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-79fa34bf9703960636dbf8b794bee70b4a68750fe77ee23cd1e64245333f28cf",
+        "fileHash": "sha256-d4e2292fe38ecb41852f06f12917452f2883482441cb3ba82546a771ea062d4d",
         "kaynak": "kerim"
     },
     {
