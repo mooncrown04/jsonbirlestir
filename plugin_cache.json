@@ -1068,7 +1068,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 59,
+        "version": 60,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -1078,7 +1078,7 @@
             "JustRelaxable"
         ],
         "description": "[13.05.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 132242,
+        "fileSize": 136626,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1086,7 +1086,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-2715d2b2b4655afdb50eaf86a70bc29e99919b1c5264056d7a340cb3e1827e64",
+        "fileHash": "sha256-b52cb2bc75f05d7b0dd846a4d2bf7cdf7939766a10ce597bc9d954b89ecb8cfd",
         "kaynak": "Kraptor"
     },
     {
@@ -1489,7 +1489,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
         "status": 1,
-        "version": 93,
+        "version": 94,
         "name": "Dizilla[Kraptor]",
         "internalName": "Dizilla[Kraptor]",
         "authors": [
@@ -1497,7 +1497,7 @@
             "kerimmkirac"
         ],
         "description": "[13.05.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-        "fileSize": 120070,
+        "fileSize": 123994,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1505,7 +1505,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
         "apiVersion": 1,
-        "fileHash": "sha256-cbc0e98616f8fbd6422c3fbc88eb5a8524ed12d6f02b9a73c23391ce5943e0aa",
+        "fileHash": "sha256-dba7fbd8bb63525a0c325af11451871a82b7d2789e884a0027fa479cc02b4abb",
         "kaynak": "Kraptor"
     },
     {
@@ -1576,7 +1576,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
@@ -1585,7 +1585,7 @@
             "ByAyzen"
         ],
         "description": "[13.05.2026] DiziPal Orijinal.",
-        "fileSize": 132735,
+        "fileSize": 136994,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1593,7 +1593,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-9de7dadd92f2d0e429e805e9bbe8fa7217b79a936904a2152b2d41145d71ba55",
+        "fileHash": "sha256-263bbfd670dbb2559727e41c0d263df4cf281ad0311361403fc2464e6d8647ab",
         "kaynak": "Kraptor"
     },
     {
@@ -1752,7 +1752,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 47,
+        "version": 48,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -1760,7 +1760,7 @@
             "ByAyzen"
         ],
         "description": "[13.05.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 95967,
+        "fileSize": 100229,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1768,7 +1768,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
         "apiVersion": 1,
-        "fileHash": "sha256-0273bb054a516f5369cf64b348ae2bfac507479665ca148676accfbcc2e8060a",
+        "fileHash": "sha256-9e01a3ca1557746fcabf09e9f7a3e59b3f405d418b615afea99e03afd0653442",
         "kaynak": "Kraptor"
     },
     {
