@@ -1068,7 +1068,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 60,
+        "version": 61,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -1078,7 +1078,7 @@
             "JustRelaxable"
         ],
         "description": "[16.05.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 137849,
+        "fileSize": 139127,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1086,7 +1086,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-1805a779a4639ff33f42241b9d6ebda9624b89c1665c1eb3c48a3f695357c441",
+        "fileHash": "sha256-ad955c66482bbb366cfe621b2cbe02b75d7ee734215b1a5846164d09f81b66b6",
         "kaynak": "Kraptor"
     },
     {
@@ -1139,7 +1139,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Anizium.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "Anizium[Kraptor]",
         "internalName": "Anizium[Kraptor]",
         "authors": [
@@ -1147,7 +1147,7 @@
             "ByAyzen"
         ],
         "description": "[16.05.2026] Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
-        "fileSize": 66574,
+        "fileSize": 67936,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1156,7 +1156,7 @@
         ],
         "iconUrl": "https://anizium.co/assets/images/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d590a30e104ca0d97497e9c1cbe9aca2c628812a25c9c759071ce424a19484cd",
+        "fileHash": "sha256-f4cd7b07aae796729995689dd8b08af510a49c0f6bcea62e6507b80ceec0e712",
         "kaynak": "Kraptor"
     },
     {
