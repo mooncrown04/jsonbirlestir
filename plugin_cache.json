@@ -1068,7 +1068,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 61,
+        "version": 62,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -1078,7 +1078,7 @@
             "JustRelaxable"
         ],
         "description": "[17.05.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 139127,
+        "fileSize": 144570,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1086,7 +1086,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-ad955c66482bbb366cfe621b2cbe02b75d7ee734215b1a5846164d09f81b66b6",
+        "fileHash": "sha256-f3f87fb02fdf9ce0978092d35409ab2aa2da8db588812c2ffa99e3d5fabe5795",
         "kaynak": "Kraptor"
     },
     {
@@ -1466,7 +1466,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
         "status": 1,
-        "version": 41,
+        "version": 42,
         "name": "DiziLife[Kraptor]",
         "internalName": "DiziLife[Kraptor]",
         "authors": [
@@ -1474,7 +1474,7 @@
             "kraptor"
         ],
         "description": "[17.05.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-        "fileSize": 64275,
+        "fileSize": 67333,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1483,13 +1483,13 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
         "apiVersion": 1,
-        "fileHash": "sha256-998827dc4677fdee008da35b57d72b53dbb5b99a40dfd12bc3ea0e0e5ecd7bb0",
+        "fileHash": "sha256-9889b693bf4d2649e2db6957108171a10d04ac90095ca3d9bd95c403640df3e7",
         "kaynak": "Kraptor"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
         "status": 1,
-        "version": 95,
+        "version": 96,
         "name": "Dizilla[Kraptor]",
         "internalName": "Dizilla[Kraptor]",
         "authors": [
@@ -1497,7 +1497,7 @@
             "kerimmkirac"
         ],
         "description": "[17.05.2026] 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-        "fileSize": 125544,
+        "fileSize": 131625,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1505,7 +1505,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
         "apiVersion": 1,
-        "fileHash": "sha256-0f91dd904dd60623c1f111f54bddcd792610a9b09f45323ee31868161e8df9f3",
+        "fileHash": "sha256-d61ca4e248ed65dc57f11c09a972401b71ffa3e34b646194720289d154dd2b8d",
         "kaynak": "Kraptor"
     },
     {
@@ -1576,7 +1576,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
@@ -1585,7 +1585,7 @@
             "ByAyzen"
         ],
         "description": "[17.05.2026] DiziPal Orijinal.",
-        "fileSize": 137937,
+        "fileSize": 143119,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1593,7 +1593,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-6b01ffe4069e30d4c77dbae3b85ea9b330dfdd0d91883dfdd845b5dfe500e39a",
+        "fileHash": "sha256-3325928e01daaebc79bcf4e6e9f576d6a1cc0cc419cbfd1c728fc8eda2e1bfc0",
         "kaynak": "Kraptor"
     },
     {
@@ -1752,7 +1752,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 49,
+        "version": 50,
         "name": "FullHDFilmizlesene[Kraptor]",
         "internalName": "FullHDFilmizlesene[Kraptor]",
         "authors": [
@@ -1760,7 +1760,7 @@
             "ByAyzen"
         ],
         "description": "[17.05.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 123557,
+        "fileSize": 129506,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1768,7 +1768,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
         "apiVersion": 1,
-        "fileHash": "sha256-13330fa86ec18795317c8749183581eada89dd2ea612cf7d14e5abe04fbaa08d",
+        "fileHash": "sha256-284c205c9b22d2100d85cfe67be58a8d52d3c9b976c70dc114d4a3ae9264991b",
         "kaynak": "Kraptor"
     },
     {
@@ -2378,7 +2378,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "WebDramaTurkey[Kraptor]",
         "internalName": "WebDramaTurkey[Kraptor]",
         "authors": [
@@ -2387,7 +2387,7 @@
             "ByAyzen"
         ],
         "description": "[17.05.2026] Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-        "fileSize": 52504,
+        "fileSize": 53707,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2395,7 +2395,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
         "apiVersion": 1,
-        "fileHash": "sha256-4c67e7b03aa3dec8f7304d989caa9fb9e9db466b9d9a311e0af053baf69d4d1d",
+        "fileHash": "sha256-1b872c435231f00dd706c8acee587baa8f368dd81ad525ca263c3f8f3ae18bf1",
         "kaynak": "Kraptor"
     },
     {
