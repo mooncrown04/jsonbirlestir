@@ -1068,7 +1068,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
         "status": 1,
-        "version": 64,
+        "version": 65,
         "name": "AnimeciX[Kraptor]",
         "internalName": "AnimeciX[Kraptor]",
         "authors": [
@@ -1078,7 +1078,7 @@
             "JustRelaxable"
         ],
         "description": "[22.05.2026] AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 145553,
+        "fileSize": 146760,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1086,7 +1086,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-6608296c5811a99d02518b8958dac94d5896731d8bf6623eab56f1f340c89c0b",
+        "fileHash": "sha256-5a130be60f0393d225a6e5a16a5c8e1d12e721ba3c1bc096f953918796271715",
         "kaynak": "Kraptor"
     },
     {
@@ -1247,7 +1247,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "BelgeselX[Kraptor]",
         "internalName": "BelgeselX[Kraptor]",
         "authors": [
@@ -1255,7 +1255,7 @@
             "ByAyzen"
         ],
         "description": "[22.05.2026] En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 38732,
+        "fileSize": 42201,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1263,7 +1263,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
         "apiVersion": 1,
-        "fileHash": "sha256-44edff97d81f9f72166a6407212e2828815f0839389e5259e94684af1c71d078",
+        "fileHash": "sha256-3bbd6741ace605efd0f6ce933be4bab8b4a4a4bddda953dc6a8dbd4b00f66baf",
         "kaynak": "Kraptor"
     },
     {
@@ -1375,7 +1375,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "DiziBox[Kraptor]",
         "internalName": "DiziBox[Kraptor]",
         "authors": [
@@ -1384,7 +1384,7 @@
             "ByAyzen"
         ],
         "description": "[22.05.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 33497,
+        "fileSize": 34289,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1392,7 +1392,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-e91e3e8f01be9b1b54d3fea8525385c64f22aed6daec9a47275b737c81bd8a71",
+        "fileHash": "sha256-0cbfd6cfeb42d0931b61adff5d378852331f655d74756673b3bb7fff6f5341bf",
         "kaynak": "Kraptor"
     },
     {
@@ -1508,14 +1508,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
-        "version": 51,
+        "version": 52,
         "name": "DiziMom[Kraptor]",
         "internalName": "DiziMom[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[22.05.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 43055,
+        "fileSize": 44479,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1523,13 +1523,13 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
         "apiVersion": 1,
-        "fileHash": "sha256-31946caa383b212a5eac52c920a43a39a6c2ee73ec6edfa0008a1684367831c4",
+        "fileHash": "sha256-52f700dde5e9ca11979a81c7be9b17bf73eed48bb7d0926ad9ec48afe4aefe06",
         "kaynak": "Kraptor"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
         "status": 1,
-        "version": 75,
+        "version": 76,
         "name": "DiziPal[Kraptor]",
         "internalName": "DiziPal[Kraptor]",
         "authors": [
@@ -1537,7 +1537,7 @@
             "ByAyzen"
         ],
         "description": "[22.05.2026] En yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 31691,
+        "fileSize": 32778,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1546,7 +1546,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1206.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-c879dbd6091468db22c0445d03ec0fc3d6fcfa904e559db1c7e2f9afee593579",
+        "fileHash": "sha256-186147f52bb3afd758591f3061d777bdda660fa4651f0b7e49d015783ade8dfa",
         "kaynak": "Kraptor"
     },
     {
@@ -1885,7 +1885,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 56,
+        "version": 57,
         "name": "JetFilmizle[Kraptor]",
         "internalName": "JetFilmizle[Kraptor]",
         "authors": [
@@ -1893,7 +1893,7 @@
             "ByAyzen"
         ],
         "description": "[22.05.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 55262,
+        "fileSize": 61478,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1901,7 +1901,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-b5381072c142ded9df8c0d398fb369d772755390ba4d29cd3039c742631a762b",
+        "fileHash": "sha256-f989b59fd9ec6abaa815f9792ff19b0626f14765196ef04becf84916de1f1a47",
         "kaynak": "Kraptor"
     },
     {
@@ -2424,14 +2424,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WFilmizle.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "WFilmizle[Kraptor]",
         "internalName": "WFilmizle[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[22.05.2026] Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
-        "fileSize": 48098,
+        "fileSize": 48622,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2439,7 +2439,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-3f410795c819215b2d3a37f1256c26a1cf684e6f01080cd56385e53ea5c1ee5c",
+        "fileHash": "sha256-14efaf5ea60ba7d77420f96b677c863ccc516abe548fe563bdbe9af79fd84f43",
         "kaynak": "Kraptor"
     },
     {
