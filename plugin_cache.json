@@ -2000,7 +2000,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "MirrorVerse[Kraptor]",
         "internalName": "MirrorVerse[Kraptor]",
         "authors": [
@@ -2009,7 +2009,7 @@
             "ByAyzen"
         ],
         "description": "[24.05.2026] Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-        "fileSize": 137776,
+        "fileSize": 124627,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2018,7 +2018,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d664771b5403df76e56905835ec7d5850a42ed0bd4b89d819dddafc9ec63a1b0",
+        "fileHash": "sha256-ef5ba3d2a52246f55a6d4be79503dbd4cd1685e4fa8f6c304b07c65d3b6c549f",
         "kaynak": "Kraptor"
     },
     {
@@ -2315,14 +2315,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[24.05.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 159025,
+        "fileSize": 161522,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2330,7 +2330,7 @@
         ],
         "iconUrl": "https://i.imgur.com/Cff8v6J.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3388b1b6e19e682f8e1b20de54e332ad64fa0d0272a436f1ae7502cbd210ccc8",
+        "fileHash": "sha256-58b1689c43f827f738ec117e9cb7fa8a515754c70462d70dc5c637cf238e318b",
         "kaynak": "Kraptor"
     },
     {
