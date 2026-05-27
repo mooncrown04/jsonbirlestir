@@ -1115,7 +1115,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animely.cs3",
         "status": 2,
-        "version": 8,
+        "version": 9,
         "name": "Animely[Kraptor]",
         "internalName": "Animely[Kraptor]",
         "authors": [
@@ -1131,9 +1131,9 @@
             "AnimeMovie",
             "OVA"
         ],
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128",
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://animecim.tv",
         "apiVersion": 1,
-        "fileHash": "sha256-1a29acdd6ea5ad5624c3476aa200a866c35c6d80c7bd5771c12635e4726320ba",
+        "fileHash": "sha256-ec50e9e3729bfd1094a340ed81d4eb65f44be061fa1c65effd04f2e36de1e195",
         "kaynak": "Kraptor"
     },
     {
@@ -1442,7 +1442,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
         "status": 1,
-        "version": 44,
+        "version": 45,
         "name": "DiziLife[Kraptor]",
         "internalName": "DiziLife[Kraptor]",
         "authors": [
@@ -1450,7 +1450,7 @@
             "kraptor"
         ],
         "description": "[27.05.2026] Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-        "fileSize": 72650,
+        "fileSize": 69827,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1459,7 +1459,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
         "apiVersion": 1,
-        "fileHash": "sha256-73829c2d7588e5a9e6b53e146e77caa51aa0359acb8100261ac949c62f10d3a4",
+        "fileHash": "sha256-8f00178835e478236fc98b42bfd8390b6541ccbf417303b5c7690d5557ea706c",
         "kaynak": "Kraptor"
     },
     {
@@ -1575,7 +1575,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizipod.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "Dizipod[Kraptor]",
         "internalName": "Dizipod[Kraptor]",
         "authors": [
@@ -1584,7 +1584,7 @@
             "kerimmkirac"
         ],
         "description": "[27.05.2026] Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
-        "fileSize": 68775,
+        "fileSize": 69131,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1594,7 +1594,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-36cd20e3d0b945c7a4d294b6d5593240c881c93a1ee7b2b897d435cbd2425ac1",
+        "fileHash": "sha256-32998cde273795d0f1095baacc3ff8e75d9d672851b4561a3c5851c3fc66bd27",
         "kaynak": "Kraptor"
     },
     {
@@ -1761,7 +1761,7 @@
             "ByAyzen"
         ],
         "description": "[27.05.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 132189,
+        "fileSize": 132208,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1769,7 +1769,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
         "apiVersion": 1,
-        "fileHash": "sha256-64731818c28821352d9edc0eac947b7bf805bfe0c38aecf9fcc9f7bc052af8d1",
+        "fileHash": "sha256-2268005ddd56cc6a7dcc523d0ef1055d855a71cbbe28009979302ff1b36e3e26",
         "kaynak": "Kraptor"
     },
     {
@@ -2136,14 +2136,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 38,
+        "version": 39,
         "name": "SelcukFlix[Kraptor]",
         "internalName": "SelcukFlix[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[27.05.2026] Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "fileSize": 66258,
+        "fileSize": 66281,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2152,7 +2152,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
         "apiVersion": 1,
-        "fileHash": "sha256-51e77b18ed368b92edf49408235ed8eb28f264c6d3ddcdc8e4241e1be5d98310",
+        "fileHash": "sha256-e43cd4a78d943475bed32c28f5371d360cb221b77816819a92afc296bb7da4a6",
         "kaynak": "Kraptor"
     },
     {
