@@ -260,7 +260,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 61,
+        "version": 62,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -268,7 +268,7 @@
             "muratcesmecioglu"
         ],
         "description": "[27.05.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24015,
+        "fileSize": 24017,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -277,7 +277,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-0d49c543366285e3572e61c10afa2d87d8fd24b48360839aa87f8abfbe0613d7",
+        "fileHash": "sha256-9fabc677cf9708fb258c86836f1614f8d96c8cd1c161bfd06b31aece5dafb255",
         "kaynak": "feroxx"
     },
     {
@@ -1115,7 +1115,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animely.cs3",
         "status": 2,
-        "version": 9,
+        "version": 10,
         "name": "Animely[Kraptor]",
         "internalName": "Animely[Kraptor]",
         "authors": [
@@ -1123,7 +1123,7 @@
             "ByAyzen"
         ],
         "description": "[27.05.2026] Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
-        "fileSize": 38147,
+        "fileSize": 38148,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1131,9 +1131,9 @@
             "AnimeMovie",
             "OVA"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://animecim.tv",
+        "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
         "apiVersion": 1,
-        "fileHash": "sha256-ec50e9e3729bfd1094a340ed81d4eb65f44be061fa1c65effd04f2e36de1e195",
+        "fileHash": "sha256-28f8e9b47c0a59b8818adeb66de0faff17eea93f562efc3cc75f53927b90c4bb",
         "kaynak": "Kraptor"
     },
     {
@@ -1665,14 +1665,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
         "status": 1,
-        "version": 34,
+        "version": 35,
         "name": "FilmHane[Kraptor]",
         "internalName": "FilmHane[Kraptor]",
         "authors": [
             "kraptor",
             "ByAyzen"
         ],
-        "fileSize": 52541,
+        "fileSize": 52311,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1680,7 +1680,7 @@
         ],
         "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
-        "fileHash": "sha256-d9e7952282d91ab895fa52ea128084b95758c534cbd9d7882b8fa55c73f4efec",
+        "fileHash": "sha256-c41be6bb809ad4cbe9b3f71cb10babbbae16e4740183b2e8c34d54b01b487ace",
         "description": "[27.05.2026] ",
         "kaynak": "Kraptor"
     },
@@ -2250,14 +2250,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
         "status": 1,
-        "version": 32,
+        "version": 33,
         "name": "Sinezy[Kraptor]",
         "internalName": "Sinezy[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[27.05.2026] Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-        "fileSize": 20803,
+        "fileSize": 20883,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2265,7 +2265,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-17ef6e2fca93e3ebbf5ee34fa2d03580ab5ecf70ac9e964e0b830ad3882d0971",
+        "fileHash": "sha256-c4f5dc0b980f8e6356b2dd838c4d42f068c1bb27d23549e10fdfc04ad7abb4fe",
         "kaynak": "Kraptor"
     },
     {
@@ -2315,14 +2315,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 21,
+        "version": 23,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[27.05.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 164293,
+        "fileSize": 164407,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2330,7 +2330,7 @@
         ],
         "iconUrl": "https://i.imgur.com/Cff8v6J.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d6a11d855566abc9e1dd394871ec30debb3917ee32fab7e7569eda8ad37ba657",
+        "fileHash": "sha256-b6c514a93ae4d42a8955cb61051b8a8d7cc980aeb74a43a5f879fa4016d93ddf",
         "kaynak": "Kraptor"
     },
     {
