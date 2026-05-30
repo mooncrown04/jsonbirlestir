@@ -1553,7 +1553,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "DiziPalOrijinal[Kraptor]",
         "internalName": "DiziPalOrijinal[Kraptor]",
         "authors": [
@@ -1562,7 +1562,7 @@
             "ByAyzen"
         ],
         "description": "[30.05.2026] DiziPal Orijinal.",
-        "fileSize": 144420,
+        "fileSize": 144540,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1570,7 +1570,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-8900302ff9c2c8ed1db8ac6a8bfd18d42cff8b0424cf369c9b21afcb412e10da",
+        "fileHash": "sha256-917af55ee96615a318bf3f504a3f06597c98eec9e6490a2b40be6c51a04b8247",
         "kaynak": "Kraptor"
     },
     {
@@ -2137,14 +2137,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 40,
+        "version": 41,
         "name": "SelcukFlix[Kraptor]",
         "internalName": "SelcukFlix[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[30.05.2026] Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-        "fileSize": 70798,
+        "fileSize": 70074,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2153,7 +2153,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
         "apiVersion": 1,
-        "fileHash": "sha256-1a639e809136c83a34a1177f27830946adf78f5c575aa3a817a99d1582859977",
+        "fileHash": "sha256-244e41c679375139ef9476cb790a6c7db04de7a4875984441556201723443232",
         "kaynak": "Kraptor"
     },
     {
