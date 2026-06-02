@@ -1486,27 +1486,6 @@
         "kaynak": "Kraptor"
     },
     {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMag.cs3",
-        "status": 0,
-        "version": 49,
-        "name": "DiziMag[Kraptor]",
-        "internalName": "DiziMag[Kraptor]",
-        "authors": [
-            "nikyokki"
-        ],
-        "description": "[02.06.2026] En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-        "fileSize": 36636,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://dizimag.mom/uploads/logo/original/logo-5063.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-b8df379861cf33c0b25bb750a6bfff1744593b558e849a76462df5c0fa3e87a0",
-        "kaynak": "Kraptor"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
         "status": 1,
         "version": 57,
@@ -1644,7 +1623,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
         "status": 1,
-        "version": 46,
+        "version": 47,
         "name": "FilmEkseni[Kraptor]",
         "internalName": "FilmEkseni[Kraptor]",
         "authors": [
@@ -1652,7 +1631,7 @@
             "ByAyzen"
         ],
         "description": "[02.06.2026] Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-        "fileSize": 57990,
+        "fileSize": 62588,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1660,7 +1639,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-681196e9a09aedc2eb8eef3ce84a03283b6f69cf53833b9c8804966c8dcc78ba",
+        "fileHash": "sha256-fc87a14938d36266871712c5205470cb013758f39b433e0507d21cd507ac17db",
         "kaynak": "Kraptor"
     },
     {
@@ -1928,30 +1907,9 @@
         "kaynak": "Kraptor"
     },
     {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KoreanTurk.cs3",
-        "status": 0,
-        "version": 18,
-        "name": "KoreanTurk[Kraptor]",
-        "internalName": "KoreanTurk[Kraptor]",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "[02.06.2026] Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
-        "fileSize": 21185,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.koreanturk.com",
-        "apiVersion": 1,
-        "fileHash": "sha256-15effc4ebd7cee6d95b36ca18ae4987b08fe1d61747c1acba58a2ab6c5976527",
-        "kaynak": "Kraptor"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 69,
+        "version": 70,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -1960,7 +1918,7 @@
             "ByAyzen"
         ],
         "description": "[02.06.2026] Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-        "fileSize": 422780,
+        "fileSize": 425762,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1973,7 +1931,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9784e11241460547386c817f22d55e74ad0d62e771cc607842bf5c1cb580d86d",
+        "fileHash": "sha256-6024abe7f6000dff45e63898aceb5bc141d7c7e10b4535077d49a1d5d8ded747",
         "kaynak": "Kraptor"
     },
     {
@@ -2316,14 +2274,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "Turkdizileri[Kraptor]",
         "internalName": "Turkdizileri[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[02.06.2026] TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-        "fileSize": 165709,
+        "fileSize": 165395,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2331,7 +2289,7 @@
         ],
         "iconUrl": "https://i.imgur.com/Cff8v6J.png",
         "apiVersion": 1,
-        "fileHash": "sha256-09ec42da408bc78a18d9ea16afa8cc416b5e558b5029697f9a52e9edb9db1111",
+        "fileHash": "sha256-a9c5947bd827fddb57a114e469f1be9e890500645fbaf5c79c588c9be39beeaf",
         "kaynak": "Kraptor"
     },
     {
@@ -2484,27 +2442,6 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
         "apiVersion": 1,
         "fileHash": "sha256-6e7b4afb97a1eeece64ffea19a7666efee0ee9a5569073e5a3b8a1a712770dad",
-        "kaynak": "Kraptor"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
-        "status": 0,
-        "version": 8,
-        "name": "YesilCamTv[Kraptor]",
-        "internalName": "YesilCamTv[Kraptor]",
-        "authors": [
-            "kraptor"
-        ],
-        "description": "[02.06.2026] Türk sinemasının unutulmaz filmler bu adreste.",
-        "fileSize": 20768,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
-        "apiVersion": 1,
-        "fileHash": "sha256-4776724690ddda487544f4f6ac672aff641d6e4e30bca5c8c4b7a4f7bc59ec98",
         "kaynak": "Kraptor"
     },
     {
