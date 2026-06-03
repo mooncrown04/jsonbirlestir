@@ -1958,8 +1958,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
-        "status": 1,
-        "version": 28,
+        "status": 0,
+        "version": 29,
         "name": "MirrorVerse[Kraptor]",
         "internalName": "MirrorVerse[Kraptor]",
         "authors": [
@@ -1968,7 +1968,7 @@
             "ByAyzen"
         ],
         "description": "[03.06.2026] Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-        "fileSize": 126260,
+        "fileSize": 126259,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1977,7 +1977,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0cb23782e1b6b2213f57dc6b73029517abfba99d6be81af57e6d662f41204078",
+        "fileHash": "sha256-cbb294e345f3c886e773b376d6afecb8dc18007f29c3a2b3daa41b460159f3d9",
         "kaynak": "Kraptor"
     },
     {
@@ -2162,14 +2162,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
         "status": 1,
-        "version": 32,
+        "version": 33,
         "name": "SinemaCX[Kraptor]",
         "internalName": "SinemaCX[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[03.06.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-        "fileSize": 20863,
+        "fileSize": 20828,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2177,7 +2177,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.sinema.cx",
         "apiVersion": 1,
-        "fileHash": "sha256-c1cbe3cbdf308a7b372b1ebf1abda499ff82eb3684b82b80a6975bdc6fdd17ab",
+        "fileHash": "sha256-d36969b22997bc264e10544b607a0527d9efd0dab96f555c9be6ef833117fa90",
         "kaynak": "Kraptor"
     },
     {
@@ -2251,7 +2251,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "TurkAnime[Kraptor]",
         "internalName": "TurkAnime[Kraptor]",
         "authors": [
@@ -2259,7 +2259,7 @@
             "ByAyzen"
         ],
         "description": "[03.06.2026] Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 50214,
+        "fileSize": 61213,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2268,7 +2268,7 @@
         ],
         "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
         "apiVersion": 1,
-        "fileHash": "sha256-95e7e2f1331d8a816de8c5c645a841daba90fd8c76289622ce2090fa41e0bd22",
+        "fileHash": "sha256-3821c1a55e54fba240fa67965628e87bc140d3f6e6d68a5518c4ea56e44239c0",
         "kaynak": "Kraptor"
     },
     {
@@ -2425,14 +2425,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniKaynak.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "YeniKaynak[Kraptor]",
         "internalName": "YeniKaynak[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[03.06.2026] İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
-        "fileSize": 17444,
+        "fileSize": 21423,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2441,7 +2441,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-6e7b4afb97a1eeece64ffea19a7666efee0ee9a5569073e5a3b8a1a712770dad",
+        "fileHash": "sha256-c651cce0ff51551116bced370e8ed3bb0fb48b3f67692cbaaf52c2a1bc3906f0",
         "kaynak": "Kraptor"
     },
     {
