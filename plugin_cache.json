@@ -216,14 +216,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 42,
+        "version": 43,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[03.06.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34697,
+        "fileSize": 34700,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -231,7 +231,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-443de7b0ffe9c5ab7f8f5c8aea889f1d04a2b14670ec70b9a3d752124abcdcb7",
+        "fileHash": "sha256-c2d0fd09bdbe38592168f9c52dc351fbcb5f9c7c1f2b1a57228ce828af28ae04",
         "kaynak": "feroxx"
     },
     {
@@ -1419,8 +1419,8 @@
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
-        "status": 1,
-        "version": 29,
+        "status": 0,
+        "version": 30,
         "name": "DiziKorea[Kraptor]",
         "internalName": "DiziKorea[Kraptor]",
         "authors": [
@@ -1436,7 +1436,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
         "apiVersion": 1,
-        "fileHash": "sha256-9a58f6515dd095fb4beceb20afede714f2fccf303498e4df48d3a26dff9cc236",
+        "fileHash": "sha256-75c142c88e8b13b095d2c089a97769d57441d8508d8bb8df3e8bd4a1f2a45259",
         "kaynak": "Kraptor"
     },
     {
@@ -2383,14 +2383,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WFilmizle.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "WFilmizle[Kraptor]",
         "internalName": "WFilmizle[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[03.06.2026] Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
-        "fileSize": 50589,
+        "fileSize": 50762,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2398,7 +2398,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-69671bf37e4181fe981af6f1d7436c81e15b018c1a98097b593d5d4d27db05a7",
+        "fileHash": "sha256-08f5c0b4f3ac139a017dbfc39ffadcb65b84188610684acfd4ec262023fa3630",
         "kaynak": "Kraptor"
     },
     {
