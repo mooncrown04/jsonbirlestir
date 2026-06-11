@@ -174,14 +174,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
         "status": 1,
-        "version": 32,
+        "version": 35,
         "name": "DiziKorea[feroxx]",
         "internalName": "DiziKorea[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[11.06.2026] En Güncel Kore Dizileri izleme Sitesi",
-        "fileSize": 25194,
+        "fileSize": 25177,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-cb34d97d24fb5add8871ef3f378de37b37d4aef21cb79ea7c03374c0254a15ba",
+        "fileHash": "sha256-a2c52312f6da00893c5ec5f8615e90574e13fcebbf575ddcac4c0b26f31b926c",
         "kaynak": "feroxx"
     },
     {
@@ -260,7 +260,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 65,
+        "version": 66,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -268,7 +268,7 @@
             "muratcesmecioglu"
         ],
         "description": "[11.06.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24399,
+        "fileSize": 24398,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -277,7 +277,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-d4119cf9e4c436ed382d80a7a578d82f780c0ba58b04dbada0323b35a76d2a82",
+        "fileHash": "sha256-f72da6c70b22b55bdf0a9aa5e95b4f9c91c0e37b63e98bae68242f16259d7641",
         "kaynak": "feroxx"
     },
     {
@@ -458,14 +458,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 46,
+        "version": 47,
         "name": "JetFilmizle[feroxx]",
         "internalName": "JetFilmizle[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[11.06.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 21648,
+        "fileSize": 21649,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -473,7 +473,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-058e1872bc62a831b6b33d13328c69581c2fd9ad60cceee52ab83f298a9f6adf",
+        "fileHash": "sha256-c6fea77ba8a60ed46eaf412765e83165617366551e3777714950d87746cb00dc",
         "kaynak": "feroxx"
     },
     {
@@ -1247,7 +1247,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
         "status": 1,
-        "version": 38,
+        "version": 39,
         "name": "BelgeselX[Kraptor]",
         "internalName": "BelgeselX[Kraptor]",
         "authors": [
@@ -1255,7 +1255,7 @@
             "ByAyzen"
         ],
         "description": "[11.06.2026] En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 43116,
+        "fileSize": 43765,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1263,7 +1263,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
         "apiVersion": 1,
-        "fileHash": "sha256-0a0ced5924628eda1a162e1f6fef0d4d68219a8276a947c1bbb9c591ac49a191",
+        "fileHash": "sha256-fd752fabe909cf33686a73edd7e53978659df4220f9dc15d1061a8ce90cc4848",
         "kaynak": "Kraptor"
     },
     {
@@ -1312,14 +1312,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Ddizi.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "Ddizi[Kraptor]",
         "internalName": "Ddizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[11.06.2026] Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
-        "fileSize": 24192,
+        "fileSize": 29058,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1327,7 +1327,7 @@
         ],
         "iconUrl": "https://www.ddizi.im/images/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-75d2543fdff16846bc06235be0fb7e7145f5b3b78d5e545d7e783f97566f33a7",
+        "fileHash": "sha256-35c7231a9f49f6877e95be4940c2435793cfe0cdd67cece45ff30e8b8ad9d3b9",
         "kaynak": "Kraptor"
     },
     {
