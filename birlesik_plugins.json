@@ -1312,14 +1312,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Ddizi.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "Ddizi[Kraptor]",
         "internalName": "Ddizi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[17.06.2026] Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
-        "fileSize": 29058,
+        "fileSize": 30049,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1327,7 +1327,7 @@
         ],
         "iconUrl": "https://www.ddizi.im/images/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-35c7231a9f49f6877e95be4940c2435793cfe0cdd67cece45ff30e8b8ad9d3b9",
+        "fileHash": "sha256-cf70e6690dadddc1336e70a2981fcc2ae03b2832ab4a9317d462559ce0604cb0",
         "kaynak": "Kraptor"
     },
     {
@@ -1959,14 +1959,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "KultFilmler[Kraptor]",
         "internalName": "KultFilmler[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[17.06.2026] Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-        "fileSize": 28917,
+        "fileSize": 29813,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1975,7 +1975,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
         "apiVersion": 1,
-        "fileHash": "sha256-380438bf29e02fdd456f91af16bfc9b70ff43134dd6c82b2da44a6c8aa920801",
+        "fileHash": "sha256-fbc4e3efc7c85f78ad9fbc0ce61338958b6d0163a485b4b28b4f37b46b5da8dc",
         "kaynak": "Kraptor"
     },
     {
