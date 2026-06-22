@@ -1354,14 +1354,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "DiziAsia[Kraptor]",
         "internalName": "DiziAsia[Kraptor]",
         "authors": [
             "kerimmkirac"
         ],
         "description": "[22.06.2026] DiziAsia - Asya Dizileri İzle",
-        "fileSize": 18530,
+        "fileSize": 19291,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1369,7 +1369,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
         "apiVersion": 1,
-        "fileHash": "sha256-824fa451a96240359ff71ffa405cd8497ff0af75ba3329f5c4891a38ec7cd643",
+        "fileHash": "sha256-50e67f06a62ac1853f1a95a4f697f502480860baa363ff9e08bdc39be3926bdf",
         "kaynak": "Kraptor"
     },
     {
