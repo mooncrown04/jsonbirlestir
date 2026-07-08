@@ -1665,6 +1665,27 @@
         "kaynak": "Kraptor"
     },
     {
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DramaDizilerim.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DramaDizilerim[Kraptor]",
+        "internalName": "DramaDizilerim[Kraptor]",
+        "authors": [
+            "kraptor"
+        ],
+        "description": "[08.07.2026] Shorts formatında en popüler Kore dizileri, Çin dizileri, Asya dizileri ve drama içerikleri.",
+        "fileSize": 16218,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
+        "apiVersion": 1,
+        "fileHash": "sha256-6375f9e872013e48426495d13adfe4104ff193792aacd94b91c90f9e5fd996d1",
+        "kaynak": "Kraptor"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
         "status": 1,
         "version": 48,
@@ -1820,14 +1841,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
         "status": 1,
-        "version": 91,
+        "version": 92,
         "name": "HDFilmCehennemi[Kraptor]",
         "internalName": "HDFilmCehennemi[Kraptor]",
         "authors": [
             "kraptor"
         ],
         "description": "[08.07.2026] HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
-        "fileSize": 69466,
+        "fileSize": 70635,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1836,7 +1857,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
         "apiVersion": 1,
-        "fileHash": "sha256-609c27fd7cc51ae02a88dbed2aabb94da5471832447acb7ab9ecd272f39d47e1",
+        "fileHash": "sha256-991bfd491747d73425aee0c6598ce370dd797fe22339ff7d0bc3e8ea34e8d4d4",
         "kaynak": "Kraptor"
     },
     {
@@ -1953,7 +1974,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 76,
+        "version": 77,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -1962,7 +1983,7 @@
             "ByAyzen"
         ],
         "description": "[08.07.2026] Bir çok sitenin birleştiği toplama eklenti.",
-        "fileSize": 476177,
+        "fileSize": 478000,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1975,7 +1996,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
-        "fileHash": "sha256-795fdbe2593ff2e461a73dd37b67388d61937f93ed0c360ae3693afb9b79c25c",
+        "fileHash": "sha256-06276a7c1a7ecfa96702174ac2309f728fb6381797edf685d06d35e435df1906",
         "kaynak": "Kraptor"
     },
     {
