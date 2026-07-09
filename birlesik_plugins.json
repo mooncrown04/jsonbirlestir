@@ -260,7 +260,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 72,
+        "version": 73,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -268,7 +268,7 @@
             "muratcesmecioglu"
         ],
         "description": "[09.07.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24554,
+        "fileSize": 24552,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -277,7 +277,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-94a4f05e8ab0d930c99f1f7f31e6df87cc614e1c3806f528f24394e0bef39096",
+        "fileHash": "sha256-c16f857aeb20ca0d5a4fb07ccceb81c2f73dc41ae972ff00cde53e186b3f88cd",
         "kaynak": "feroxx"
     },
     {
@@ -1585,7 +1585,7 @@
             "ByAyzen"
         ],
         "description": "[09.07.2026] DiziPal Orijinal.",
-        "fileSize": 154731,
+        "fileSize": 154736,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1593,7 +1593,7 @@
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-6265f20bc55cb77c04ffb0c15ca23cfed514adbf9498d7af0a6811ce65b728e1",
+        "fileHash": "sha256-cf12f5e5f73b7c6016198497572f532f9553d74a67acb2a33f454df958e6b35c",
         "kaynak": "Kraptor"
     },
     {
@@ -2508,6 +2508,27 @@
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
         "apiVersion": 1,
         "fileHash": "sha256-251db120dd8d0c9326702f9b5506fb3455f6500d65109f1e417845d40674e9d0",
+        "kaynak": "Kraptor"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YesilCamTv.cs3",
+        "status": 0,
+        "version": 9,
+        "name": "YesilCamTv[Kraptor]",
+        "internalName": "YesilCamTv[Kraptor]",
+        "authors": [
+            "kraptor"
+        ],
+        "description": "[09.07.2026] Türk sinemasının unutulmaz filmler bu adreste.",
+        "fileSize": 20768,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-f02428285c8a9ca3dc63b8299a5f50b15b9ee816321483184891be9d5a5182e6",
         "kaynak": "Kraptor"
     },
     {
