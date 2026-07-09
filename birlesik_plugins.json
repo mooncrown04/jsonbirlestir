@@ -260,7 +260,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 71,
+        "version": 72,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -268,7 +268,7 @@
             "muratcesmecioglu"
         ],
         "description": "[09.07.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24553,
+        "fileSize": 24554,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -277,7 +277,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e2ae88a31614cc3233e196ea56e1ca1c700322c4a8afedff341181eefe29c5c8",
+        "fileHash": "sha256-94a4f05e8ab0d930c99f1f7f31e6df87cc614e1c3806f528f24394e0bef39096",
         "kaynak": "feroxx"
     },
     {
