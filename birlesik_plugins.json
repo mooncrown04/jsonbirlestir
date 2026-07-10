@@ -1115,7 +1115,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Animely.cs3",
         "status": 2,
-        "version": 16,
+        "version": 1,
         "name": "Animely[Kraptor]",
         "internalName": "Animely[Kraptor]",
         "authors": [
@@ -1123,7 +1123,7 @@
             "ByAyzen"
         ],
         "description": "[10.07.2026] Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
-        "fileSize": 36438,
+        "fileSize": 36407,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1133,7 +1133,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
         "apiVersion": 1,
-        "fileHash": "sha256-6071fd38c19db90e27ff664108db64eca91a13d126dec5b8da375352a854e730",
+        "fileHash": "sha256-64363969a1065db18fd3a7191977aff68d071be6f2a0b74e2a77614ff13d55fa",
         "kaynak": "Kraptor"
     },
     {
@@ -1298,7 +1298,7 @@
             "ByAyzen"
         ],
         "description": "[10.07.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 41244,
+        "fileSize": 41652,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1306,7 +1306,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
         "apiVersion": 1,
-        "fileHash": "sha256-5ca830045665cf8a642c1009132c2e9f8c94a1a34ccfd1a9a858a51e03032296",
+        "fileHash": "sha256-81e0aaafb3bd458f00d40ed60f16b5d6352a0d8754a9a5f45bac2076a61a7fbb",
         "kaynak": "Kraptor"
     },
     {
@@ -1885,14 +1885,14 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "HDFilmizle[Kraptor]",
         "internalName": "HDFilmizle[Kraptor]",
         "authors": [
             "ByAyzen"
         ],
         "description": "[10.07.2026] En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-        "fileSize": 56874,
+        "fileSize": 60120,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1900,7 +1900,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-1972727c3ba4575a8db836aea4b8ba0e31e170342d2bbdbeb7c659a755c8d93c",
+        "fileHash": "sha256-8679d4d269325eef96846e17d85a47c12742c2559561f06b1131b1e4352de935",
         "kaynak": "Kraptor"
     },
     {
@@ -1975,7 +1975,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
         "status": 1,
-        "version": 77,
+        "version": 78,
         "name": "KraptorPlus[Kraptor]",
         "internalName": "KraptorPlus[Kraptor]",
         "authors": [
@@ -1984,7 +1984,7 @@
             "ByAyzen"
         ],
         "description": "[10.07.2026] Bir çok sitenin birleştiği toplama eklenti.",
-        "fileSize": 478000,
+        "fileSize": 478173,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -1997,7 +1997,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
         "apiVersion": 1,
-        "fileHash": "sha256-06276a7c1a7ecfa96702174ac2309f728fb6381797edf685d06d35e435df1906",
+        "fileHash": "sha256-f2ae644ee6e8befe32af0f997f0f3107afcc2c8ca5ba30f4db8a19ad3ed49d74",
         "kaynak": "Kraptor"
     },
     {
@@ -2184,7 +2184,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
         "status": 1,
-        "version": 39,
+        "version": 40,
         "name": "SetFilmIzle[Kraptor]",
         "internalName": "SetFilmIzle[Kraptor]",
         "authors": [
@@ -2193,7 +2193,7 @@
             "ByAyzen"
         ],
         "description": "[10.07.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "fileSize": 69438,
+        "fileSize": 69024,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
@@ -2201,7 +2201,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-4787f4684847ea8782de0807376d1451c1884770b200a046e2aaad21f75ba24a",
+        "fileHash": "sha256-34c2095baaf22fc7ae96d10a01ea8c77db94174197838fb8df40f0752cf5022d",
         "kaynak": "Kraptor"
     },
     {
