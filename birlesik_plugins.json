@@ -111,14 +111,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "CizgiMax[feroxx]",
         "internalName": "CizgiMax[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[12.07.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 20550,
+        "fileSize": 20562,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1b133b31e485f01093ba5c46c4660e75be680bcd8ba1c22b6fc7f673275cb173",
+        "fileHash": "sha256-afb87105703c4be5b3ee349e1eb164685f5a0fb8c696d9f93a5dac726d0a1f8b",
         "kaynak": "feroxx"
     },
     {
@@ -174,14 +174,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
         "status": 1,
-        "version": 35,
+        "version": 36,
         "name": "DiziKorea[feroxx]",
         "internalName": "DiziKorea[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[12.07.2026] En Güncel Kore Dizileri izleme Sitesi",
-        "fileSize": 24899,
+        "fileSize": 24947,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-04f56d429d34d498568fa2c3a592c2cd2a57c9b35bf2fa0b1b5082567662a2f6",
+        "fileHash": "sha256-c30b425523ddf43233bf3ce93411735971b643fbaff39f89b0a9df9507d98533",
         "kaynak": "feroxx"
     },
     {
