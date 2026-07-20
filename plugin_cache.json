@@ -38,7 +38,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "iconUrl": "https://anm.cx/favicon.ico",
+        "iconUrl": "https://animecix.tv/favicon.ico",
         "apiVersion": 1,
         "fileHash": "sha256-63a0b89a612fb5820898dcf02e73d8b8d9b558f5f0d8ccd7ab15fce2217cd89f",
         "kaynak": "feroxx"
@@ -239,7 +239,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 100,
+        "version": 101,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
@@ -247,16 +247,16 @@
             "muratcesmecioglu"
         ],
         "description": "[20.07.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29471,
+        "fileSize": 29473,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
+        "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-1516f7ac2aeaac4830cbd9707464cf4330ccc63be6ab8fb46cf7436f4b23d9d2",
+        "fileHash": "sha256-31cf1209c2bd718d0ea7339489b83642d2f386e250723bcb1859c34a2968873d",
         "kaynak": "feroxx"
     },
     {
@@ -277,7 +277,7 @@
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=%size%",
+        "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
         "fileHash": "sha256-716cd8a77498758c3e8cc294f93439cd58aee820080161a502aae0956a26940e",
         "kaynak": "feroxx"
@@ -298,7 +298,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
+        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
         "fileHash": "sha256-6261d0bb203f1870dec0f0e3eab2e6dba9404b36b2e83cef5e653f7bc112e72b",
         "kaynak": "feroxx"
@@ -341,7 +341,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
         "apiVersion": 1,
         "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e",
         "kaynak": "feroxx"
@@ -363,7 +363,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4",
         "kaynak": "feroxx"
@@ -521,7 +521,7 @@
             "Live",
             "TvSeries"
         ],
-        "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
+        "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
         "fileHash": "sha256-d766dc69e3eda7c2c4170546c7dd31371d820cfcb9b055fe2298e41e57349aa1",
         "kaynak": "feroxx"
@@ -737,7 +737,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-7e41c527a4edbb278b793e948f155847b5795c99508a86d1b81aba5bc6a026fd",
         "kaynak": "feroxx"
