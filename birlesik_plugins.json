@@ -67,7 +67,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/BelgeselX.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "BelgeselX[feroxx]",
         "internalName": "BelgeselX[feroxx]",
         "authors": [
@@ -75,7 +75,7 @@
             "JustRelaxable"
         ],
         "description": "[22.07.2026] En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 26847,
+        "fileSize": 30177,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -83,7 +83,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-839b44f0b374e22e27f90ed5dd24d568439ea4e662e8fb2dec740ad52664960d",
+        "fileHash": "sha256-b98dde3ddcde0ca848f95a08978bf065e44614e8b26af6b62a327c92e1883596",
         "kaynak": "feroxx"
     },
     {
@@ -262,7 +262,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 75,
+        "version": 76,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -270,7 +270,7 @@
             "muratcesmecioglu"
         ],
         "description": "[22.07.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 24553,
+        "fileSize": 24548,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -279,7 +279,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-716cd8a77498758c3e8cc294f93439cd58aee820080161a502aae0956a26940e",
+        "fileHash": "sha256-524d2c1c4cef83277f4eeaf1415d2dba396f19277e884f61676f2e613bc73727",
         "kaynak": "feroxx"
     },
     {
@@ -371,14 +371,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "FullHDFilmizlesene[feroxx]",
         "internalName": "FullHDFilmizlesene[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[22.07.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 40115,
+        "fileSize": 40113,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -386,7 +386,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-19a5c6494776407fce1b2e33d6466464207910c5402f6c81ce85853074441807",
+        "fileHash": "sha256-e029663e7f9a2134679a370a543f35b951e9a04c9bd93c0f206765a658e3cf00",
         "kaynak": "feroxx"
     },
     {
@@ -503,7 +503,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
         "status": 1,
-        "version": 108,
+        "version": 109,
         "name": "RecTV[feroxx]",
         "internalName": "RecTV[feroxx]",
         "authors": [
@@ -513,7 +513,7 @@
             "JustRelaxable"
         ],
         "description": "[22.07.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 24312,
+        "fileSize": 26628,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -523,20 +523,20 @@
         ],
         "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-d766dc69e3eda7c2c4170546c7dd31371d820cfcb9b055fe2298e41e57349aa1",
+        "fileHash": "sha256-ec7343176cf298583d04a4e8992b70b5d13bff793ea4b32724b4edb7972aae6c",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "SetFilmIzle[feroxx]",
         "internalName": "SetFilmIzle[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
         "description": "[22.07.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "fileSize": 23566,
+        "fileSize": 23636,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -545,7 +545,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-ddea5d98e7c54bfa0c8b443f4d1274d3588c571ff26d4018675ee42e954da9d7",
+        "fileHash": "sha256-225a58c29a05c7eea8676fc20ddc359c4e50be2340ac5f3f152843fcf50445c8",
         "kaynak": "feroxx"
     },
     {
