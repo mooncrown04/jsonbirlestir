@@ -239,7 +239,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 101,
+        "version": 102,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
@@ -247,7 +247,7 @@
             "muratcesmecioglu"
         ],
         "description": "[23.07.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29473,
+        "fileSize": 29471,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -256,13 +256,13 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-31cf1209c2bd718d0ea7339489b83642d2f386e250723bcb1859c34a2968873d",
+        "fileHash": "sha256-8af26d84991c1b65c848351b40c4761f1df621c3b26fc96862de8184dece5a5f",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 76,
+        "version": 77,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
@@ -279,7 +279,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-524d2c1c4cef83277f4eeaf1415d2dba396f19277e884f61676f2e613bc73727",
+        "fileHash": "sha256-6a7e5ac402aae2c953d9f63cf1bb9dce6432ec45ad3f2c8a3816f6cdac319036",
         "kaynak": "feroxx"
     },
     {
