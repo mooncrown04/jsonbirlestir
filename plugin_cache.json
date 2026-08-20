@@ -2859,25 +2859,5 @@
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/JetFilmizle.cs3",
         "name": "JetFilmizle[makoto]",
         "kaynak": "makoto"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
-        "fileSize": 19651,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "sarapcanagii"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 12,
-        "internalName": "NeonSpor[sarapcanagii]",
-        "description": "[17.08.2026] (Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi.",
-        "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
-        "name": "NeonSpor[sarapcanagii]",
-        "kaynak": "sarapcanagii"
     }
 ]
