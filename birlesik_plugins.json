@@ -218,14 +218,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 54,
+        "version": 55,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34841,
+        "description": "[22.08.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34844,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -233,21 +233,21 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-cd05d57b2dbfca7ff9b57eb24081ff6f75837008c56d8e2bd5b6c0a98ec024e9",
+        "fileHash": "sha256-609249f34c474267d61d33effdf08884b2b65abbe02d1a2864a28e2837140402",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 103,
+        "version": 104,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[17.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29476,
+        "description": "[22.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29477,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -256,21 +256,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-7aed916c2a8a0cee0a63f254a3e8eccd6994a9de317f5b896d736dce38628391",
+        "fileHash": "sha256-ea79e8729c70dcd1dd46d19e275bda7b06a2d91ce5fdb54631a0b88b7be4e2e4",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 79,
+        "version": 80,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[17.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 25429,
+        "description": "[22.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 25430,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -279,7 +279,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-995086944c934b24640cf1e8087f72dcea37981bf7b0a83527f0148a32458f5e",
+        "fileHash": "sha256-a247520e7192360c91cf1be284edf9ff9ee58fe9b7a07b235841ffe7a592065c",
         "kaynak": "feroxx"
     },
     {
@@ -371,14 +371,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 32,
+        "version": 33,
         "name": "FullHDFilmizlesene[feroxx]",
         "internalName": "FullHDFilmizlesene[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 40112,
+        "description": "[22.08.2026] Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "fileSize": 40117,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -386,7 +386,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-28589f4edea0cb6987104e7d6b0be48a87a2af1cc583765f2c0034a1f4048ad5",
+        "fileHash": "sha256-8f2cff5f9fc87f38d415b65c30c7ad3b7c9a5d26f03d8e73b072ff520b499253",
         "kaynak": "feroxx"
     },
     {
@@ -503,7 +503,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
         "status": 1,
-        "version": 109,
+        "version": 110,
         "name": "RecTV[feroxx]",
         "internalName": "RecTV[feroxx]",
         "authors": [
@@ -512,8 +512,8 @@
             "inatchii",
             "JustRelaxable"
         ],
-        "description": "[17.08.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 28844,
+        "description": "[22.08.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "fileSize": 28845,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -523,7 +523,7 @@
         ],
         "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-984b9b52f988f35b0e733bfc334420b106d307598fc6590a3e1a83ed18634d8f",
+        "fileHash": "sha256-280dd0ca962ffbd12da25e685a3b3ce6bd163076b8c3dc796a6fabf33287ee78",
         "kaynak": "feroxx"
     },
     {
@@ -724,14 +724,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/WebteIzle.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "WebteIzle[feroxx]",
         "internalName": "WebteIzle[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 24122,
+        "description": "[22.08.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+        "fileSize": 24117,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -739,7 +739,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-4dc3cb602ad98ff8cc55b28ca0d259f54e94f088339e14ef432b4a31b4333ca8",
+        "fileHash": "sha256-0cb6618a2e544592e91a7dfe60e7c80c0d8a44443184b44b9bc8c908490b7bc8",
         "kaynak": "feroxx"
     },
     {
