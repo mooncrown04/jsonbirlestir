@@ -262,15 +262,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 80,
+        "version": 81,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[22.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 25430,
+        "description": "[23.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 25024,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -279,7 +279,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a247520e7192360c91cf1be284edf9ff9ee58fe9b7a07b235841ffe7a592065c",
+        "fileHash": "sha256-856580305ec9322cecc3949874112995796c17f641bc626ebe50ee5eb53e8c43",
         "kaynak": "feroxx"
     },
     {
@@ -314,7 +314,7 @@
             "usdogu"
         ],
         "description": "[17.08.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 20531,
+        "fileSize": 22836,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -322,7 +322,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-9b58987f0eb1e19d70c2cd54f7c9c1e7ef18a005edf03113bc9e992d3f2e255b",
+        "fileHash": "sha256-8c6c51c374449996d68993283bfb7170c9f24b6dafdaadde3958b314453a88ec",
         "kaynak": "feroxx"
     },
     {
@@ -446,7 +446,7 @@
             "keyiflerolsun"
         ],
         "description": "[17.08.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 21108,
+        "fileSize": 18698,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -454,7 +454,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-b648e5346f05d428069d20489c8862107b21c3bb116d903cd5ee95d1ce162e2c",
+        "fileHash": "sha256-1472a4fd418b77e82a5f21a15d838bc8a0a6b4a9c8189611c53c07df3dc916b9",
         "kaynak": "feroxx"
     },
     {
@@ -731,7 +731,7 @@
             "keyiflerolsun"
         ],
         "description": "[22.08.2026] Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-        "fileSize": 24117,
+        "fileSize": 24121,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -739,7 +739,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-0cb6618a2e544592e91a7dfe60e7c80c0d8a44443184b44b9bc8c908490b7bc8",
+        "fileHash": "sha256-10b4e7445728749f45dda6e67b0b2562fbc8a194daa9f44fcdf0aedbf031d846",
         "kaynak": "feroxx"
     },
     {
