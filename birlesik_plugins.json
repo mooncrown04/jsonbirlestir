@@ -197,14 +197,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 57,
+        "version": 58,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[28.08.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34842,
+        "description": "[02.09.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34833,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -212,21 +212,21 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-410707792f79dad393acfd7672ff99a9b83db62827c76a0b60e19b14f0685288",
+        "fileHash": "sha256-6f0d38ac6872a9b51d6d558f560289474459d69b8f346c218e29f1d8a63070d9",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 105,
+        "version": 106,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[28.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29478,
+        "description": "[02.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29473,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,21 +235,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-c7136dc0c32ea0f39aff8e3e7c7b54d0814a736acdb06f969051880db116905f",
+        "fileHash": "sha256-8455c789c3f261c6c3f5367abf52eb294c87427d31a965a7ac99a1dbac384d6e",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 85,
+        "version": 86,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[28.08.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 25010,
+        "description": "[02.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 25014,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ecfa458d41d6d472cfd1275bc4dac38229f1f8ea49aa24153fb15828edf55630",
+        "fileHash": "sha256-c12d0f05dbda11d93e89796adcec655e4e282d9161ec1394e567c44c15c64240",
         "kaynak": "feroxx"
     },
     {
@@ -504,7 +504,7 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
         "status": 1,
-        "version": 110,
+        "version": 112,
         "name": "RecTV[feroxx]",
         "internalName": "RecTV[feroxx]",
         "authors": [
@@ -513,8 +513,8 @@
             "inatchii",
             "JustRelaxable"
         ],
-        "description": "[22.08.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 28845,
+        "description": "[02.09.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "fileSize": 28846,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -524,7 +524,7 @@
         ],
         "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-280dd0ca962ffbd12da25e685a3b3ce6bd163076b8c3dc796a6fabf33287ee78",
+        "fileHash": "sha256-75523577d2c6f1d5f899fa8b3574490c6c4bcac2c00cd222c9fa61b611082226",
         "kaynak": "feroxx"
     },
     {
