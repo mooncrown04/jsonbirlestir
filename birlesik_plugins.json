@@ -218,15 +218,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 106,
+        "version": 107,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[02.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29473,
+        "description": "[12.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29478,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,7 +235,7 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-8455c789c3f261c6c3f5367abf52eb294c87427d31a965a7ac99a1dbac384d6e",
+        "fileHash": "sha256-409cfac960765dcde1b73df00addac02060268afcc7566bf6cc8f3c9579c87ff",
         "kaynak": "feroxx"
     },
     {
@@ -262,16 +262,38 @@
         "kaynak": "feroxx"
     },
     {
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPod.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "DiziPod[feroxx]",
+        "internalName": "DiziPod[feroxx]",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "[12.09.2026] Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
+        "fileSize": 23522,
+        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-c4be7b192eec30ffc084f8df86e30f0ccc59270e58fe7dc99b989677963224f5",
+        "kaynak": "feroxx"
+    },
+    {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "DiziYou[feroxx]",
         "internalName": "DiziYou[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-        "fileSize": 17204,
+        "description": "[12.09.2026] Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+        "fileSize": 15974,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -279,21 +301,21 @@
         ],
         "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6261d0bb203f1870dec0f0e3eab2e6dba9404b36b2e83cef5e653f7bc112e72b",
+        "fileHash": "sha256-5259d2d3443e93a0639c0407fc91c20f71cbad757408acaf31b4faf5ee8bab5b",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
         "status": 1,
-        "version": 58,
+        "version": 59,
         "name": "FilmMakinesi[feroxx]",
         "internalName": "FilmMakinesi[feroxx]",
         "authors": [
             "keyiflerolsun",
             "usdogu"
         ],
-        "description": "[17.08.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 22836,
+        "description": "[12.09.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+        "fileSize": 32902,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -301,7 +323,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8c6c51c374449996d68993283bfb7170c9f24b6dafdaadde3958b314453a88ec",
+        "fileHash": "sha256-96c3e3784c270d960ab3207e618c3306214466a1f2225af66cd7c6fdb15b02ff",
         "kaynak": "feroxx"
     },
     {
@@ -530,14 +552,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "SelcukFlix[feroxx]",
         "internalName": "SelcukFlix[feroxx]",
         "authors": [
             "patr0n"
         ],
-        "description": "[08.09.2026] SelcukFlix eklentisi.",
-        "fileSize": 34047,
+        "description": "[12.09.2026] SelcukFlix eklentisi.",
+        "fileSize": 33998,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -546,7 +568,7 @@
         ],
         "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0079ad57d0d5da64bd428e60ff496222db0693651e49e24da233b36dd2dbbf4d",
+        "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20",
         "kaynak": "feroxx"
     },
     {
@@ -662,15 +684,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "TRanimaci[feroxx]",
         "internalName": "TRanimaci[feroxx]",
         "authors": [
             "keyiflerolsun",
             "patr0n"
         ],
-        "description": "[08.09.2026] TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 16864,
+        "description": "[12.09.2026] TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+        "fileSize": 16863,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -678,7 +700,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-a2c24113ab814cc9efa67aa3eda801387abea6b78cabd7e4fc87945b2f862c6d",
+        "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c",
         "kaynak": "feroxx"
     },
     {
