@@ -787,7 +787,7 @@
         "kaynak": "feroxx"
     },
     {
-        "url": "https://raw.githubusercontent.com/patr0nq/patr0n-cs/builds/RecTV.cs3",
+        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/RecTV.cs3",
         "status": 1,
         "version": 113,
         "name": "RecTV[feroxx]",
@@ -801,7 +801,7 @@
         ],
         "description": "[08.09.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "fileSize": 28846,
-        "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -810,7 +810,7 @@
         ],
         "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-677234252676dd4e313a56c8092f8b736ba1733b201f6734ddf379addb9fd536",
+        "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
         "kaynak": "feroxx"
     },
     {
