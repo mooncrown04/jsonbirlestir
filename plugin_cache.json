@@ -592,14 +592,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "SinemaCX[feroxx]",
         "internalName": "SinemaCX[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-        "fileSize": 16707,
+        "description": "[17.09.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+        "fileSize": 16715,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -607,7 +607,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-a190ac05f8aea8e02626447814c076b6442ed2854794634d07878c2728be06d9",
+        "fileHash": "sha256-72a8d8da386d48becd4dca4a49dd47f8cbe87d5178e88ecda1101a719dbb3566",
         "kaynak": "feroxx"
     },
     {
