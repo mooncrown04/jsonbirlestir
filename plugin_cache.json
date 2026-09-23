@@ -197,14 +197,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 58,
+        "version": 59,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[02.09.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34833,
+        "description": "[23.09.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34844,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -212,21 +212,21 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-6f0d38ac6872a9b51d6d558f560289474459d69b8f346c218e29f1d8a63070d9",
+        "fileHash": "sha256-639725fc9d45daa491a68441a2cef50c505ab8057fe7ab3ff0e17d0840e29dbe",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 109,
+        "version": 110,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[20.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29477,
+        "description": "[23.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29472,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,7 +235,7 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-960a1743d97b7b0d34fbadbe59f6a4a2d05f2505404bc8cfefafae2e1cf40e9d",
+        "fileHash": "sha256-8e7537a984b5cc41b24436e505ca605caf9a53ef551d84abc67574bd0b33c1ff",
         "kaynak": "feroxx"
     },
     {
