@@ -197,14 +197,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 60,
+        "version": 61,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[24.09.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34836,
+        "description": "[29.09.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34841,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -212,7 +212,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-56a7a34d7ab414da583a0cab8f44c77fe0110d0529b284b6e6c46db0cb8b32e1",
+        "fileHash": "sha256-2cbcadbbe6f357b9d407ff0d5e12f4adcf03633747a0f954b6bfe6294ec3bf5d",
         "kaynak": "feroxx"
     },
     {
@@ -235,21 +235,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-8e7537a984b5cc41b24436e505ca605caf9a53ef551d84abc67574bd0b33c1ff",
+        "fileHash": "sha256-8dff4368c10fffb5a81b55702d65859d6e2a574db5cc8599412ae4e64b10ad0f",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 93,
+        "version": 98,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[18.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 25009,
+        "description": "[29.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 27502,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-297dbfed8b617b802019845f8b522c05523bdfa8ed3637cd129580dc4a134b25",
+        "fileHash": "sha256-92dbe1761301379b9023beb37853ddb6517eb8bc8ef48e33fffaa315160f9915",
         "kaynak": "feroxx"
     },
     {
@@ -548,14 +548,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "SetFilmIzle[feroxx]",
         "internalName": "SetFilmIzle[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[21.09.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "fileSize": 24635,
+        "description": "[29.09.2026] Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "fileSize": 25096,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -564,7 +564,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-89a5ceb5979fd2cac5795d48d6948324b59f79014127bd4005cc31d13e814c97",
+        "fileHash": "sha256-23ec018dc44326b4fee742e2499ba8d42b4c0cac301e31f392b623499ba0a18a",
         "kaynak": "feroxx"
     },
     {
