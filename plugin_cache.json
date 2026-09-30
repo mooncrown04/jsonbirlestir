@@ -393,15 +393,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
         "status": 1,
-        "version": 52,
+        "version": 56,
         "name": "HDFilmCehennemi[feroxx]",
         "internalName": "HDFilmCehennemi[feroxx]",
         "authors": [
             "hexated",
             "keyiflerolsun"
         ],
-        "description": "[29.09.2026] Türkiye'nin en hızlı hd film izleme sitesi",
-        "fileSize": 45994,
+        "description": "[30.09.2026] Türkiye'nin en hızlı hd film izleme sitesi",
+        "fileSize": 46560,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -410,7 +410,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-de5659f1c36fd6f7923d2e6001d272f438285b64448f52fef11349282984cf73",
+        "fileHash": "sha256-18c4dcb9887b230574c0cfd88c882434616dce9a503e915599863e86c2ad7788",
         "kaynak": "feroxx"
     },
     {
