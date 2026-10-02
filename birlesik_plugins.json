@@ -218,14 +218,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 110,
+        "version": 111,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[23.09.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "description": "[02.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "fileSize": 29472,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
@@ -235,7 +235,7 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-8dff4368c10fffb5a81b55702d65859d6e2a574db5cc8599412ae4e64b10ad0f",
+        "fileHash": "sha256-c1690d3ece65e0410d897063c64120305c517db287b953379891af4e87311982",
         "kaynak": "feroxx"
     },
     {
