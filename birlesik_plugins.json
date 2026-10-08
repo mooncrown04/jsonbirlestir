@@ -218,15 +218,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 111,
+        "version": 112,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[02.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29472,
+        "description": "[08.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29471,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,21 +235,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-c1690d3ece65e0410d897063c64120305c517db287b953379891af4e87311982",
+        "fileHash": "sha256-2c7ac5dcea82cd26619c7a34f946779dd61e50e900057cd8b608ef4934531152",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 99,
+        "version": 100,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[02.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 27501,
+        "description": "[08.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 27502,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-136a9dd84ff78805203b2fccd80e3106465e3935d99a3ca01cd4369f310f8531",
+        "fileHash": "sha256-7ceef433e9315a90657338a4803da3c76e5b8a3d246789401c3018ab29e9f7e2",
         "kaynak": "feroxx"
     },
     {
