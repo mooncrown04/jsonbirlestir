@@ -197,14 +197,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
         "status": 1,
-        "version": 62,
+        "version": 63,
         "name": "DiziMom[feroxx]",
         "internalName": "DiziMom[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[02.10.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 34846,
+        "description": "[10.10.2026] Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "fileSize": 34840,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -212,21 +212,21 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-482a80bd6394cc76dcfb68d127621304004e49d6b4d5005d146507431249e309",
+        "fileHash": "sha256-988b28087d7abb0c4e17c6bd3d31eb573f2202304380f3dbe32aa15a6d86ca64",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 112,
+        "version": 113,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[08.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29471,
+        "description": "[10.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 29472,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,21 +235,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-2c7ac5dcea82cd26619c7a34f946779dd61e50e900057cd8b608ef4934531152",
+        "fileHash": "sha256-9dd9ea89c7142668a42a7db7a4c4e79dafef7caace347f42c3ec99d012dc711a",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 101,
+        "version": 102,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[08.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 27504,
+        "description": "[10.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 27505,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5edf576cfbc31849dd3e7ee8c9e9f18e1fbfd967613cbcd915760dc69a8efca0",
+        "fileHash": "sha256-6ba44aaf51fd7a409a7cff5b2ac320a3305dc443ce6b8ed1eef8c95cadea6ab6",
         "kaynak": "feroxx"
     },
     {
