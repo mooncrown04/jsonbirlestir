@@ -113,14 +113,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Ddizi.cs3",
         "status": 1,
-        "version": 22,
+        "version": 24,
         "name": "Ddizi[feroxx]",
         "internalName": "Ddizi[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] DDizi.im için Cloudstream eklentisi",
-        "fileSize": 20110,
+        "description": "[13.10.2026] DDizi.im için Cloudstream eklentisi",
+        "fileSize": 20108,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -128,7 +128,7 @@
         ],
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-47e75d5eb583ed98fb54324a73028da5f35775e910f3e6a5e78cd00effa786a9",
+        "fileHash": "sha256-ebd3f272f1de40cafa4a4374d8fcf1fbc49387c8d2c103f29d2f14a860616897",
         "kaynak": "feroxx"
     },
     {
@@ -241,15 +241,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 104,
+        "version": 107,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[11.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 27506,
+        "description": "[13.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 27832,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-795b9dc3af6e88da123332d56e0ae439e84746043343790e15c682861ff5efd9",
+        "fileHash": "sha256-86e6be15b7cb0852a5f8bf08eb31fa91d9a788237245c219f5e0adbe36164994",
         "kaynak": "feroxx"
     },
     {
@@ -592,14 +592,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SinemaCX.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "SinemaCX[feroxx]",
         "internalName": "SinemaCX[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.09.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-        "fileSize": 16715,
+        "description": "[13.10.2026] Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+        "fileSize": 16712,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -607,7 +607,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-72a8d8da386d48becd4dca4a49dd47f8cbe87d5178e88ecda1101a719dbb3566",
+        "fileHash": "sha256-f3cbca05555b5f02609b6c7c928d87402acca77df3081ca27f2b31a95c9b01bf",
         "kaynak": "feroxx"
     },
     {
@@ -680,14 +680,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
         "status": 1,
-        "version": 65,
+        "version": 66,
         "name": "TRasyalog[feroxx]",
         "internalName": "TRasyalog[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] TRasyalog izleme sitesi.",
-        "fileSize": 15594,
+        "description": "[13.10.2026] TRasyalog izleme sitesi.",
+        "fileSize": 23188,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -695,7 +695,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-6d01026fa4978b7642d336924eeb5e1a788e8bd4047be1d3a4d5ae7426764600",
+        "fileHash": "sha256-f12369ff3781065c903933908ea07d43d2d1d6bcaf471eaac941656b9e0866e5",
         "kaynak": "feroxx"
     },
     {
