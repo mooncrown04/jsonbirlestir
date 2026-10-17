@@ -526,14 +526,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SelcukFlix.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "SelcukFlix[feroxx]",
         "internalName": "SelcukFlix[feroxx]",
         "authors": [
             "patr0n"
         ],
-        "description": "[12.09.2026] SelcukFlix eklentisi.",
-        "fileSize": 33998,
+        "description": "[17.10.2026] SelcukFlix eklentisi.",
+        "fileSize": 33995,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -542,7 +542,7 @@
         ],
         "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20",
+        "fileHash": "sha256-636811319d4c39f61e5f1527b626ee87a3aa67c6b9f48754102982ef7de7356e",
         "kaynak": "feroxx"
     },
     {
