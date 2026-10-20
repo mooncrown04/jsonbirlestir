@@ -90,14 +90,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/CizgiMax.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "CizgiMax[feroxx]",
         "internalName": "CizgiMax[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 36001,
+        "description": "[20.10.2026] ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+        "fileSize": 55748,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -107,7 +107,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-03f8f6c63b88f23b62a434397562777594398e592da90d17be3f011432086294",
+        "fileHash": "sha256-0620c4d3b2ec4a279e988fe26e93bfaae98e5d378aab21b77bebc565b6848b7e",
         "kaynak": "feroxx"
     },
     {
@@ -134,14 +134,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziBox.cs3",
         "status": 1,
-        "version": 23,
+        "version": 25,
         "name": "DiziBox[feroxx]",
         "internalName": "DiziBox[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 30085,
+        "description": "[20.10.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+        "fileSize": 29983,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -149,7 +149,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8ab5957d93c8fd9545179085605a9398d96d10209606aab5808e9efbcadb774f",
+        "fileHash": "sha256-8ed21b94b508582988ca37e830ef4037e29564aaba670cc62e841c685792da35",
         "kaynak": "feroxx"
     },
     {
@@ -218,15 +218,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 114,
+        "version": 116,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[16.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 29468,
+        "description": "[20.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 31182,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,20 +235,20 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-75bf8a8cb6bca5f68e01853910f2b672d5c49373ad9cc1483ee087bfe40ac889",
+        "fileHash": "sha256-7929a957743b30b12550c0a6f00f9eec7489d6758739976f9b3f6b7a5f487bb3",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 109,
+        "version": 111,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[16.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "description": "[20.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "fileSize": 27831,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-72476daf822bd3dd88e0dbae412386b53f2fbcf0ac3f05d95546c1d548ae5a1a",
+        "fileHash": "sha256-02a80813415f006854301117b01a5a2c4ec43339e6b969eda7439bc4410df86e",
         "kaynak": "feroxx"
     },
     {
