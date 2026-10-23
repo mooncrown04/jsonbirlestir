@@ -218,15 +218,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 116,
+        "version": 117,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[20.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 31182,
+        "description": "[23.10.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 31184,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,7 +235,7 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-7929a957743b30b12550c0a6f00f9eec7489d6758739976f9b3f6b7a5f487bb3",
+        "fileHash": "sha256-7d232b38b3d8513dbc16fa6b856e839a397cf1b3d4d0ae70b4112db127ecdb2f",
         "kaynak": "feroxx"
     },
     {
@@ -462,14 +462,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
         "status": 1,
-        "version": 47,
+        "version": 48,
         "name": "JetFilmizle[feroxx]",
         "internalName": "JetFilmizle[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[17.08.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 18698,
+        "description": "[23.10.2026] Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+        "fileSize": 18693,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -477,7 +477,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1472a4fd418b77e82a5f21a15d838bc8a0a6b4a9c8189611c53c07df3dc916b9",
+        "fileHash": "sha256-0609231f419e73cffbe535d80244a1081b1988013aed4bbb24a3ae14a616e629",
         "kaynak": "feroxx"
     },
     {
