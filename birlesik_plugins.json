@@ -134,14 +134,14 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziBox.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "DiziBox[feroxx]",
         "internalName": "DiziBox[feroxx]",
         "authors": [
             "keyiflerolsun"
         ],
-        "description": "[20.10.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 29983,
+        "description": "[10.11.2026] Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+        "fileSize": 31433,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -149,7 +149,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8ed21b94b508582988ca37e830ef4037e29564aaba670cc62e841c685792da35",
+        "fileHash": "sha256-d303d6973d0a26160e777c14048769196de0801a229393a5c5270a75654b09cc",
         "kaynak": "feroxx"
     },
     {
@@ -218,15 +218,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
         "status": 1,
-        "version": 119,
+        "version": 122,
         "name": "DiziPal[feroxx]",
         "internalName": "DiziPal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[06.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 31186,
+        "description": "[10.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 38327,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -235,21 +235,21 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-11f7424805993d206af36952eb0cfae11c2ed0061c54261e94575a29b239096d",
+        "fileHash": "sha256-dc9909575b6b909580b29831bda1cf96fc7027e87584d603ad5d42a86afc4613",
         "kaynak": "feroxx"
     },
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 112,
+        "version": 113,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[07.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 27830,
+        "description": "[10.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 27831,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a75c1d30b79eeda844ce7f773246b74f9c6e7f1bc035d4424e9d0305e2820347",
+        "fileHash": "sha256-f21ac18e773ddc8b6a75e8f536705fd111b31d4c66ab6d8766ebdf6c02f1c5fa",
         "kaynak": "feroxx"
     },
     {
@@ -315,7 +315,7 @@
             "usdogu"
         ],
         "description": "[12.09.2026] Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 32902,
+        "fileSize": 34650,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -323,7 +323,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-96c3e3784c270d960ab3207e618c3306214466a1f2225af66cd7c6fdb15b02ff",
+        "fileHash": "sha256-86bcfee991daeb8a8cb179c8d16b92ce01ee470692f210970f957e99fd0dc86a",
         "kaynak": "feroxx"
     },
     {
@@ -521,6 +521,32 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-715efe42845a6e956970b7662aa406bfa7b3b7e1035914c8cc47ee3b1a05547f",
+        "kaynak": "feroxx"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
+        "status": 1,
+        "version": 118,
+        "name": "RecTV[feroxx]",
+        "internalName": "RecTV[feroxx]",
+        "authors": [
+            "keyiflerolsun",
+            "yusiqo",
+            "inatchii",
+            "JustRelaxable"
+        ],
+        "description": "[10.11.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "fileSize": 31177,
+        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "Live",
+            "TvSeries"
+        ],
+        "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+        "apiVersion": 1,
+        "fileHash": "sha256-a2214ae0f06c69a2bea97febf98a058e75fd5437161a8716d9f3f69496dea751",
         "kaynak": "feroxx"
     },
     {
@@ -784,33 +810,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-c014c951be6263c0eea12449fa1ebf5b0cbd309bf7359afff7dc4f9720540d63",
-        "kaynak": "feroxx"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/RecTV.cs3",
-        "status": 1,
-        "version": 113,
-        "name": "RecTV[feroxx]",
-        "internalName": "RecTV[feroxx]",
-        "authors": [
-            "keyiflerolsun",
-            "yusiqo",
-            "inatchii",
-            "JustRelaxable",
-            "patr0n"
-        ],
-        "description": "[08.09.2026] RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 28846,
-        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "Live",
-            "TvSeries"
-        ],
-        "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
         "kaynak": "feroxx"
     },
     {
