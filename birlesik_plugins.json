@@ -241,15 +241,15 @@
     {
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 114,
+        "version": 115,
         "name": "DiziPalOriginal[feroxx]",
         "internalName": "DiziPalOriginal[feroxx]",
         "authors": [
             "keyiflerolsun",
             "muratcesmecioglu"
         ],
-        "description": "[10.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 32223,
+        "description": "[13.11.2026] en yeni dizileri güvenli ve hızlı şekilde sunar.",
+        "fileSize": 32227,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-40f23bd2b2fcd0398cd4513e16476d744cd5cf5680b57af36a41fc386a5164ca",
+        "fileHash": "sha256-15cb2be84fba84d990d152b5fb8a4c0bc305983866792cc55442ba8059c749bf",
         "kaynak": "feroxx"
     },
     {
